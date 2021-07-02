@@ -511,4 +511,8 @@ Design a tenant finder and communication app that will allow landlords to find a
 
 Apply for that dream job as a Product Designer!😁
 
+# Contributing
+I'll be more than pleased if you contribute to this resource.
+[Read Contribution Doc](CONTRIBUTING.md)
+
 
