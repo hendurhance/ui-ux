@@ -35,7 +35,7 @@ Curated list for people choosing UI/UX as a field in Tech
 * Joey Banks: [Twitter](https://twitter.com/joeyabanks)
 * Seyi Martins: [Twitter](https://twitter.com/seyimartinz)
 * Sam Adekunle: [Twitter](https://twitter.com/samoflagos)
-* Seyi Oniyitan: [Twitter](https://github.com/seyioniyitan)
+* Seyi Oniyitan: [Twitter](https://twitter.com/seyioniyitan)
 
 &nbsp;&nbsp;&nbsp;
 
