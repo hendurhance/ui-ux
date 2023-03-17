@@ -57,25 +57,6 @@ graph TD
 <!-- Rewrite in progress -->
 &nbsp;&nbsp;&nbsp;
 
-
-## Table of Contents
-<!-- create this type of table of content
- Basics
-    - Softwares
-    - Fundamentals of UX
-    - Design Thinking
-    - Information Architecture
-    - User Testing and Heuristics Evaluation
-    - Designers to Follow
- Intermediate
-    - Softwares
-    - Fundamentals of UX
-    - Design Thinking
-    - Information Architecture
-    - User Testing and Heuristics Evaluation
-    - Designers to Follow
--->
-
 ## Beginners
 ### Table of Contents
 * [Softwares](#softwares)
