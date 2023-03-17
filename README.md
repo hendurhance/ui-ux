@@ -1,5 +1,80 @@
-# UI/UX Learning Resources
-Curated list for people choosing UI/UX as a field in Tech
+### Note: A rewrite is ongoing on this repo. A design resource repo is also in the works. Stay tuned! 🎉
+
+
+# UI/UX Design Learning Guide
+![UI/UX Design Learning Guide](/images/thumbnail.png)
+> Roadmap to becoming a UI/UX Designer
+
+This repository contains a curated list of resources to help you learn about User Interface and User Experience design. The learning guide is divided into three levels: Basics, Intermediate, and Advanced, and includes a wide range of resources such as articles, tutorials, videos, and courses. Whether you're just starting out or looking to expand your knowledge, this guide has something for everyone. So, come explore and enhance your skills in UI/UX design!
+
+```mermaid
+graph TD
+    A[Understanding User Experience Design] --> B[What is UX Design?]
+    A --> C[The Importance of UX Design]
+    A --> D[User-Centered Design]
+    B --> E((Introduction to Design Tools))
+    C --> E
+    D --> E
+    E --> F[Introduction to Design Tools]
+    E --> G[Getting Started with Sketch]
+    F --> H[User Research]
+    F --> I[Information Architecture and Interaction Design]
+    F --> J[Prototyping]
+    H --> K[Introduction to User Research]
+    H --> L[Creating User Personas]
+    H --> M[User Journey Mapping]
+    I --> N[Information Architecture]
+    I --> O[Interaction Design]
+    I --> P[Microinteractions]
+    J --> Q[Introduction to Prototyping]
+    J --> R[Wireframing and Low-Fidelity Prototyping]
+    J --> S[High-Fidelity Prototyping]
+    S --> T[InVision and Principle]
+    G --> U((Intermediate Level))
+    K --> U
+    L --> U
+    M --> U
+    N --> V[Designing for Accessibility]
+    N --> W[Designing for Internationalization]
+    N --> X[Design Systems]
+    O --> V
+    O --> W
+    O --> X
+    P --> V
+    P --> W
+    P --> X
+    Q --> Y[Advanced Design Techniques]
+    R --> Y
+    S --> Y
+    Y --> Z[Case Studies]
+    Y --> AA[Presenting and Communicating Design]
+    Y --> AB[Advanced UX/UI Design Topics]
+    Z --> BB{Expert Level}
+    AA --> BB
+    AB --> BB
+``` 
+---
+<!-- Rewrite in progress -->
+&nbsp;&nbsp;&nbsp;
+
+
+## Table of Contents
+<!-- create this type of table of content
+ Basics
+    - Softwares
+    - Fundamentals of UX
+    - Design Thinking
+    - Information Architecture
+    - User Testing and Heuristics Evaluation
+    - Designers to Follow
+ Intermediate
+    - Softwares
+    - Fundamentals of UX
+    - Design Thinking
+    - Information Architecture
+    - User Testing and Heuristics Evaluation
+    - Designers to Follow
+-->
 
 ## Beginners
 ### Table of Contents
@@ -382,9 +457,9 @@ Design a recipe concept app using "Pegasus" design systems [Pegasus Design Syste
 #### Goals
 Interns should be able to:
 1. Create clickable prototypes of their existing projects
-1. Manoeuvre animations in prototype - use Fade, Slide, Push, Overlay
+1. Manoeuver animations in prototype - use Fade, Slide, Push, Overlay
 1. Handover Prototype to developers for Dev Testing
-1. Manoeuvre animations in prototype
+1. Manoeuver animations in prototype
 
 
 #### Books
