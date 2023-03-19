@@ -359,6 +359,7 @@ Here are websites for design inspiration
 1. [Design Resource](https://designresourc.es)
 1. [The Best Design Example and Inspiration | LandingFolio](https://landingfolio.com/inspiration)
 1. [3649 Landing Page Design Inspiration - Lapa Ninja](https://www.lapa.ninja)
+1. [Landings - Discover landing page examples](https://landings.dev)
 
 
 #### Tasks
