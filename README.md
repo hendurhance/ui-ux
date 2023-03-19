@@ -594,4 +594,39 @@ E --> P([Layout and Composition])
 
 &nbsp;&nbsp;&nbsp;
 
+
+## Intermediate Level
+> Intermediate level is for those who have a basic understanding of the concepts in this section and want to take their skills to the next level. We will look into user research, information architecture, and prototyping. 
+
+<div align="center"> <h4> Intermediate Level - Curriculum</h4> </div>
+
+``` mermaid
+A[Intermediate Level] --> B((User Research))
+A --> C((Information Architecture and Interaction Design))
+A --> D((Prototyping))
+A --> E((Design Thinking))
+
+B --> F[User Research]
+B --> G[User Personas]
+B --> H[User Journey Mapping]
+B --> I[User Testing and Heuristics Evaluation]
+
+C --> J[Information Architecture]
+C --> K[Interaction Design]
+C --> L[Microinteractions]
+
+D --> M[Prototyping]
+D --> N[Wireframing and Low-Fidelity Prototyping]
+D --> O[High-Fidelity Prototyping]
+
+E --> P[Design Thinking]
+E --> Q[Ideation and Brainstorming]
+E --> R[Design Critique]
+```
+
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+&nbsp;&nbsp;&nbsp;
+
 <!--  -->
