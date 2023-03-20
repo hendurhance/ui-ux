@@ -1466,6 +1466,153 @@ F --> T([Professional Development and Networking])
 | **How to Improve Voice User Interface Design** | SoundHound | Houndify combines the smartest voice AI with engineering expertise to help brands build conversational voice assistants. From proprietary components to a customizable and scalable voice AI platform, we have the tools to build a highly accurate and responsive voice user interface. | [Watch](https://www.youtube.com/watch?v=vKM4OMz8qmQ) |
 | **Designing Voice User Interfaces"** | Cathy Pearl | Curious about the future of conversational interfaces? Join Cathy Pearl, Head of Conversation Design Outreach at Google and author of Designing Voice User Interfaces, as she demystifies this rapidly-growing field and provides best practices for building engaging and effective conversational systems. | [Watch](https://www.youtube.com/watch?v=RdCmMMwaFRs) |
 
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+#### Virtual and Augmented Reality Design
+> Virtual reality (VR) and augmented reality (AR) are computer-generated simulations of real-world environments and objects. VR is a fully immersive experience that replaces the real world with a simulated one. AR is a more limited experience that overlays digital objects on top of the real world. Both VR and AR are used in a variety of industries, including gaming, education, and healthcare. In this section, we will cover the basics of VR and AR design, as well as some of the best resources for learning more.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn the basics of VR and AR design. |
+| **Understand** | Understand the differences between VR and AR design. |
+| **Practice** | Practice VR and AR design with tutorials and exercises. |
+| **Apply** | Apply VR and AR design to your own projects. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Book | Author | Description | Link |
+| --- | --- | --- | --- |
+| **3D User Interfaces: Theory and Practice** | Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola | Many people already have seen 3D UIs in computer-aided design, radiation therapy, surgical simulation, data visualization, and virtual-reality entertainment. The next generation of computer games, mobile devices, and desktop applications also will feature 3D interaction. | [Download](https://drive.google.com/file/d/1e0flH4Fr0moRuKXzczwV56SzV6_dkNCG/view?usp=share_link) |
+| **Virtual & Augmented Reality for Dummies** | Paul Mealy | Virtual and augmented reality are the next big thing in computing. They’re the next step in the evolution of the computer, and they’re going to change the way we interact with computers and the world around us. | [Download](https://www.pdfdrive.com/virtual-augmented-reality-for-dummies-e176320670.html) |
+| **Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile** | Tony Parisi | Get an introduction to the technologies, tools, and techniques for programming virtual reality on the latest generation of desktop and mobile VR hardware. With this hands-on guide, you’ll learn essential development and production concepts, including UI design, stereo rendering, 3D input, and programming VR applications for native desktop, mobile and the web. | [Download](https://drive.google.com/file/d/1aszz3Z5VjheSipI8PWULIZRt_PWXtVna/view?usp=share_link) |
+| **Oculus Rift in Action** | Bradley Austin Davis & Karen Bryla & Phillips Alexander Benton | SummaryOculus Rift in Action introduces the powerful Oculus Rift headset and teaches you how to integrate its many features into 3D games and other virtual reality experiences. | [Download](https://www.pdfdrive.com/oculus-rift-in-action-e158612938.html) | 
+| **A Design Model and Methodology for Developing Virtual Reality Interfaces** | Vildan Tanriverdi and Robert J.K. Jacob | Compared to conventional interfaces, Virtual reality (VR)
+interfaces contain a richer variety and more complex types of
+objects, behaviors, interactions and communications. | [Download](http://www.cs.tufts.edu/~jacob/papers/vrst01.tanriverdi.pdf) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Article | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Leap Into VR/AR Design** | Ted Evans | Virtual reality is no longer in the realm of science fiction. Immersive technology desperately needs skilled designers to jump in, get involved, take risks, and create something new. Leap into VR/AR! | [Read](https://www.toptal.com/designers/ui/vr-ar-design-guide) |
+| **Introduction - The Design of Virtual and Augmented Reality** | Good virtual and augmented reality adapts to the diversity of humans as multifaceted, intersectional, and complex beings. We as designers have the opportunity (and responsibility) to create experiences that are inclusive, accessible, and equitable. | [Reading List](hhttps://aliheston.gitbook.io/the-design-of-virtual-and-augmented-reality/) |
+| **UI/UX: Designing for AR & VR** | Nick Lawrence | Understanding augmented reality, virtual reality, and designing for AR/VR experiences. | [Read](https://uxplanet.org/ui-ux-designing-for-ar-vr-8c695caccc5e) |
+| **The hierarchy of needs in virtual reality development** | Beau Cronin | There’s a certain anxiety in the VR community that surfaces in many conference panels and interviews with industry leaders: plenty of veterans are worried that this latest flowering of the technology will end with the same commercial disappointment that we saw in previous decades. | [Read](https://medium.com/@beaucronin/the-hierarchy-of-needs-in-virtual-reality-development-4333a4833acc) |
+| **Speculations on neuro-motivated design for VR** | Beau Cronin | Humans are really good at understanding, moving around, and solving problems in three-dimensional environments. | [Read](https://medium.com/@beaucronin/speculations-on-neuro-motivated-design-for-vr-3f26685c5c40) | 
+| **From Product Design to Virtual Reality** | Jean-Marc Denis | I am a product designer at Google, and I joined the company through Sparrow, a French startup that got acquired on July 20, 2012. Since then, I worked with the Gmail team to build from scratch a flagship product that became Inbox by Gmail. It shipped on October 22, 2014. | [Read](https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b) |
+| **Immersive Design** | Matt Sundstrom | The Nintendo “Virtual Boy” was released in the United States in 1995 and discontinued in 1996 — making it the white whale of gaming tech in our little home town. My youngest brother spotted one at a garage sale and traded the sweat of his summer labor for a glimpse into the future. | [Read](https://medium.com/backchannel/immersive-design-76499204d5f6#.rw8u2q3gp) |
+| **5 Lessons I Learned From Designing the VRUI of Beloola** | Vincient Munoz | The future of social media is in Virtual Reality, no doubt about that. But we’re not there yet. It will take a couple of months or even years for the masses to be able to get their first VR HMDs, which makes enough time for us to switch from 3D Web to Web VR — and actually we are already doing pretty good stuff in VR. | [Read](https://medium.com/beloola-all-our-news-updates/5-lessons-i-learned-from-designing-the-vrui-of-beloola-754f16062c0b#.evgt1cepa) |
+| **The UX of VR** | Creative Bloq | The rise of a new medium: virtual reality (VR). And with this comes a new set of challenges that give UX designers the opportunity to build a new grammar and symbology. | [Read](https://www.creativebloq.com/ux/the-user-experience-of-virtual-reality-31619635) |
+| **Designing VR UI in Figma and testing it with no code** | Albertmauri | UI has been in constant evolution since 1973 when Xerox Palo Alto Research Center created the first UI as we know it nowadays. Read more about the evolution of UI in this article “UI Evolution: From Computers To Virtual Reality Headsets”. | [Read](https://uxdesign.cc/lets-design-xr-ui-in-figma-and-bring-it-to-xr-with-no-code-a123b9b647ab)|
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Video | Author | Description | Link |
+| --- | --- | --- | --- |
+| **VR Interface Design Pre-Visualisation Methods** | Mike Alger | Virtual reality provides new opportunities for user interactions with computer applications. The process of designing a comprehensive interaction paradigm will require a significant amount of consideration and development. | [Watch](https://www.youtube.com/watch?v=id86HeV-Vb8) |
+| **UI/UX design for WebVR** | Josh Carpenter | Josh Carpenter (@joshcarpenter) is a UX Designer with Mozilla, currently focusing on virtual reality and the open web. He has worked previously in architectural visualization, building automation, motion graphics and digital services, the common thread always being a fascination with the intersection of digital design and the built environment. | [Watch](https://www.youtube.com/watch?v=ZOaOYTOpwyM) |
+| **Google I/O 2015 - Designing for virtual reality** | Google | Designing great user experiences in virtual reality is considerably different than designing for the more traditional 2D form factors that you may be familiar with. Virtual reality introduces a new set of physiological and ergonomic considerations to your design work. | [Watch](https://www.youtube.com/watch?v=Qwh1LBzz3AU&t=488s) |
+| **Oculus Connect 2: Navigating New Worlds: Designing UI and UX in VR** | Meta Quest | Oculus Connect 2 is our second annual developer conference where engineers, designers, and creatives from around the world come together to learn about the future of the Oculus platform and push virtual reality forward. | [Watch](https://www.youtube.com/watch?v=braV_c4M8oI) |
+| **How to Prototype AR and VR UI/UX with FIGMA and UNITY! (Tutorial)** | Daniel Marqusee | In this tutorial, we will go over the fundamental skills and tricks you need to create UI for Augmented Reality (AR) and Virtual Reality(VR). From understanding field of vision and comfort, to exporting and building your designs in Unity, it's one hell of a ride! | [Watch](https://www.youtube.com/watch?v=mW8tRQRQD74) |
+| **Designing for AR - UX/UI Case Study** | Ales Nesetril | UX/UI design case study about my first hands-on work experience with AR (augmented reality). I have created my own design concept for skateboarding and explored the design process behind creating a simple AR view screen. | [Watch](https://www.youtube.com/watch?v=v0c5P3prpMM) |
+| **Building a VR app in Figma** | Akash Yadav | In this video, I will be showing you how to build a VR app in Figma. | [Watch](https://www.youtube.com/watch?v=nmlWiK9AokE) |
+| **Designing UI/UX for VR - How to Quickly Prototype with Figma and Unity 3D** | Eva Kuttichova | In this tutorial, we will go over the fundamental skills and tricks you need to create UI for Augmented Reality (AR) and Virtual Reality(VR). From understanding field of vision and comfort, to exporting and building your designs in Unity, it's one hell of a ride! | [Watch](https://www.youtube.com/watch?v=EhUv8CuHb-E) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Tools
+| Tool | Description | Link |
+| --- | --- | --- |
+| **Unity** | Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Inc.'s Worldwide Developers Conference as a Mac OS X-exclusive game engine. | [Visit](https://unity3d.com/) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+#### Designing for AI and Machine Learning
+> Designing for AI means designing for a human-machine relationship that is in flux. This is in contrast to non-AI design where the relationship is static. This is a collection of articles, videos, and tools that will help you get started with designing for AI and Machine Learning.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn about the basics of designing for AI and Machine Learning. |
+| **Understand** | Understand the importance of designing for AI and Machine Learning. |
+| **Inspire** | Get inspired by using AI tools to automate your design process. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Book | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Machine Learning Design Patterns** | O'Reilly Media | The design patterns in this book capture best practices and solutions to recurring problems in machine learning. The authors, three Google engineers, catalog proven methods to help data scientists tackle common problems throughout the ML process.  | [Download](https://drive.google.com/file/d/1lAw9ID4zj_MMgnTw4Jwf9D59VLaP61es/view?usp=share_link) |
+| **Designing Human-Centric AI Experiences: Applied UX Design for Artificial Intelligence (Design Thinking)** | Akshay Kore | User experience (UX) design practices have seen a fundamental shift as more and more software products incorporate machine learning (ML) components and artificial intelligence (AI) algorithms at their core. This book will probe into UX design’s role in making technologies inclusive and enabling user collaboration with AI. | [Download](https://drive.google.com/file/d/1B-MGIQSjooldOL8aTQeMmwEVV6ob_ga3/view?usp=share_link) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+#### Articles
+| Article | Author | Description | Link |
+| --- | --- | --- | --- |
+|**Design for AI: What should people who design AI know?** | Hal Wuertz | It’s 2023 and we are in the early days of artificial intelligence design. We’re certainly not “there” yet (i.e., you’re not running into Commander Data at the bar) but we do have a substantial cadre of narrow AI capabilities sprinkled throughout our daily lives. | [Read](https://uxdesign.cc/design-for-ai-what-should-people-who-design-ai-know-761e78fdabb)
+|  **ML+DESIGN** | ML+Design | A collection of resources for intersection of design, user experience, machine learning and artificial intelligence | [Reading List](https://machinelearning.design/) |
+| **The Present and Future of AI in Design (with Infographic)** |  Miklos Philips | AI has become an over-hyped buzzword and the design world is no exception. Instead of resisting it, designers will soon be co-creating with AI. It will make them smarter. (Includes infographic) | [Read](https://www.toptal.com/designers/product-design/infographic-ai-in-design) |
+| **7 Ways to Get Started Designing for AI/ML Products** | Lola Salehu | What you need to know when designing products using AI and Machine Learning | [Read](https://uxplanet.org/7-ways-to-get-started-designing-for-ai-ml-products-bef764ca1b27) |
+| **Introduction to Machine Learning as a Designer** |  Aijay Odiaka | Why should I be involved in machine learning as a designer? What do algorithms and prediction have to do with UX design? Every day, the reason becomes clearer. | [Read](https://sweetcode.io/introduction-to-machine-learning-as-a-designer/) |
+| **Design for Machine Learning** | George Wang | Picture this. It’s Wednesday afternoon, and we’re ideating new product offerings to solve customer problems we uncovered. | [Read](https://uxdesign.cc/becoming-a-machine-learning-designer-42920afeeb28) |
+
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Video | Author | Description | Link |
+| --- | --- | --- | --- |
+| **AI & Machine Learning Will Change UX Research & Design** | NNgroup | At the virtual UX Conference, Jakob Nielsen was asked "How will #AI and Machine Learning affect #UX Research & Design?" | [Watch](https://www.youtube.com/watch?v=mBu_LmD69tc) |
+| **Designing AI Experiences** | Adrian Zumbrunnen | Mouse to Keyboard to A.I. — A designers journey. Adrian Zumbrunnen is an independent UX Designer and writer, currently design tinkering at Google where he’s worked on products like Google AdWords, Google Maps and most recently Google Assistant and Allo.  | [Watch](https://www.youtube.com/watch?v=AAJ2vQXm5HQ) |
+| **Amazing New UX/UI Design Tools + AI Tools - August 2022** | Punit Chawla | These amazing UX/UI design tools that I discovered will help you improve your design process. We are going through some AI design tools like midjourney. | [Watch](https://www.youtube.com/watch?v=0uvu3TCyZN4) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### ChatGPT Prompts for UI/UX Design
+| Prompt | Description |
+| --- | --- |
+| **Generate copy for a website or section** | This is a prompt to generate copy for a website or section, this can be used for a landing page, about page, or any other section of a website. It can be a replacement for lorem ipsum text. |
+| **Suggest wireframe layout for a {industry} problem** | This is a prompt to generate a wireframe layout for a {industry} problem. |
+| **Suggest methods to perform usability testing on {app type} mobile app** | This is a prompt to generate methods to perform usability testing on {app type} mobile app. This can be used optimize the user experience of a mobile/web app. |
+| **Write a user story for a {app type} mobile app** | This is a prompt to generate a user story for a {app type} mobile app.|
+| **Write a user persona for a {app type} mobile app** | This is a prompt to generate a user persona for a {app type} mobile app. |
+| **Draw out a information architecture for a {app type} mobile app using flowcharts** | This is a prompt to generate a information architecture for a {app type} mobile app using flowcharts. |
+| **Suggest a color palette for a {app type} mobile app** | This is a prompt to generate a color palette for a {app type} mobile app. |
+| **Brainstorm a list of topics to add to my design handoff document** | This is a prompt to generate a list of topics to add to my design handoff document. |
+| **Suggest a design presentation format for a {app type} mobile app** | This is a prompt to generate a design presentation format for a {app type} mobile app. |
+| **Note: Add User Research Data Above : Draw out a user flow using the user research I did for a {app type} mobile app above** | This is a prompt to generate a user flow using the user research I did for a {app type} mobile app. |
+| **Write out ideas to improve the user experience of a {app type} mobile/web app** | This is a prompt to generate ideas to improve the user experience of a {app type} mobile/web app. |
+| **Write a copy for an error message for a {error type} on a {app type} mobile/web app** | This is a prompt to generate a copy for an error message for a {error type} on a {app type} mobile/web app. |
+| **Write a product brief for a {app type} mobile/web app** | This is a prompt to generate a product brief for a {app type} mobile/web app. |
+| **Write a dribbble/behance post hook for a {app type} mobile/web app** | This is a prompt to generate a dribbble/behance post hook for a {app type} mobile/web app. |
+| **Write me a demographic data of my target audience for a {app type} mobile/web app in this {location} using tables** | This is a prompt to generate a demographic data of my target audience for a {app type} mobile/web app in this {location} using tables. |
+| **Write a concise design system documentation for the primary button component. Documentation has to include following points: {.....}** | This is a prompt to generate a concise design system documentation for the primary button component. You can add your own points to the prompt, and how you want the documentation should be displayed (e.g. using tables, lists, etc). |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
