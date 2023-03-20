@@ -1422,6 +1422,52 @@ F --> T([Professional Development and Networking])
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
+### Emerging Technologies
+> In this section, you will find the latest emerging technologies that are making an impact in the design world. We will look into Voice User Interface, Augmented Reality, Virtual Reality, Artificial Intelligence, Machine Learning, and more.
+
+#### Voice User Interface Design
+> Voice User Interface Design is the design of the interaction between a user and a voice-controlled device. It is a new way of interacting with technology, and it is becoming more and more popular. 
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn how to design for voice user interfaces. |
+| **Understand** | Understand the basics of voice user interface design. |
+| **Practice** | Practice voice user interface design. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Book | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Designing Voice User Interfaces: Principles of Conversational Experiences** | Cathy Pearl | Voice user interfaces (VUIs) are becoming all the rage today. But how do you build one that people can actually converse with? Whether you’re designing a mobile app, a toy, or a device such as a home assistant, this practical book guides you through basic VUI design principles, helps you choose the right speech recognition engine, and shows you how to measure your VUI’s performance and improve upon it. | [Download](https://www.pdfdrive.com/designing-voice-user-interfaces-principles-of-conversational-experiences-e158140592.html) |
+| **Voice User Interface Design: Moving from GUI to Mixed Modal Interaction** | Ritwik Dasgupta | Design and implement voice user interfaces. This guide to VUI helps you make decisions as you deal with the challenges of moving from a GUI world to mixed-modal interactions with GUI and VUI. | [Read](https://www.pdfdrive.com/voice-user-interface-design-moving-from-gui-to-mixed-modal-interaction-e184731898.html) |
+| **Studies in Conversational UX Design** | Robert J. Moore & Margaret H. Szymanski & Raphael Arar & Guang-Jie Ren (eds.) | As voice interfaces and virtual assistants have moved out of the industry research labs and into the pockets, desktops and living rooms of the general public, a demand for a new kind of user experience (UX) design is emerging. | [Download](https://www.pdfdrive.com/studies-in-conversational-ux-design-e176549332.html) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Article | Author | Description | Link |
+| --- | --- | --- | --- |
+| **A Definitive Guide to Voice User Interface Design** | Mert Aktas | When we stop for a moment and think about how popular voice-controlled devices and virtual assistants have become, it is only necessary to look deeper into the VUI design and learn more. | [Read](https://userguiding.com/blog/voice-user-interface/) |
+| **What are Voice User Interfaces?** | Interaction Design Foundation | Voice user interfaces (VUIs) allow the user to interact with a system through voice or speech commands. Virtual assistants, such as Siri, Google Assistant, and Alexa, are examples of VUIs. | [Read](https://www.interaction-design.org/literature/topics/voice-user-interfaces) |
+| **Everything You Want To Know About Creating Voice User Interfaces** | Nick Babich & Gleb Kuznetsov | reating voice user interfaces requires a lot of design expertise in various areas such as conversation design, interaction design, visual and motion design. This article covers the most critical aspects of designing for voice user interfaces — designing the conversation and designing visual interfaces. | [Read](https://www.smashingmagazine.com/2022/02/voice-user-interfaces-guide/) |
+| **Voice User Interface Design, Examples & Advantages of VUI** | Paweł Kański | Voice user interface (VUI) has been a regular feature of trending technology lists in the last few years. | [Read](https://www.boldare.com/blog/what-is-voice-user-interface/) |
+| **VUI: Designing for Voice UI** | UXPin | Just about every product features a voice user interface (VUI), from phones, wearables, and speakers to your car and even the fridge. According to Statista, the number of voice assistant devices will exceed 8.4 billion units by 2024-more than the world’s population. | [Read](https://www.uxpin.com/studio/blog/voice-user-interface/) |
+| **Designing a VUI – Voice User Interface** | Frederik Goossens | Discover why conversational UIs and voice apps are surging in popularity and learn how to design voice user interfaces (VUIs) for both mobile and smart home speakers. | [Read](https://www.toptal.com/designers/ui/designing-a-vui) | 
+| **Designing Voice Experience** | Arun George | As a voice user experience designer, I’ve worked with Fortune 500 companies to help improve their speech applications. In this article, I want to share my experience on what are some of the things you should think about when designing for voice. | [Read](https://uxdesign.cc/voice-user-experience-design-and-prototyping-for-mere-mortals-ef080c843640) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Video | Author | Description | Link |
+| --- | --- | --- | --- |
+| **The Voice Design Process For Voice User Interfaces (VUIs)** | CareerFoundry | If you’ve found yourself wondering where to begin the Voice Design Process, you’ve come to the right place! Since voice interface design is so rapidly evolving, there aren’t many resources out there for a clear process or path to designing voice interactions.  | [Watch](https://www.youtube.com/watch?v=8OXN0ZDpwrM) |
+| **How to Improve Voice User Interface Design** | SoundHound | Houndify combines the smartest voice AI with engineering expertise to help brands build conversational voice assistants. From proprietary components to a customizable and scalable voice AI platform, we have the tools to build a highly accurate and responsive voice user interface. | [Watch](https://www.youtube.com/watch?v=vKM4OMz8qmQ) |
+| **Designing Voice User Interfaces"** | Cathy Pearl | Curious about the future of conversational interfaces? Join Cathy Pearl, Head of Conversation Design Outreach at Google and author of Designing Voice User Interfaces, as she demystifies this rapidly-growing field and provides best practices for building engaging and effective conversational systems. | [Watch](https://www.youtube.com/watch?v=RdCmMMwaFRs) |
+
+
+
 
 
 
