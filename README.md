@@ -1226,7 +1226,7 @@ E --> R[Design Critique]
 > In this section, we will be covering advanced design topics such as design systems, design thinking, virtual reality/augmented reality, and more. At the end of this section, you will be confident in your design skills and ready to apply for your dream design job 🎉💲.
 > **Note:** This section is for those who are looking to take their design skills to the next level. If you are just starting out, I recommend you start with the Beginner and Intermediate sections.
 
-<div align="center"> <h4> Intermediate Level - Curriculum</h4> </div>
+<div align="center"> <h4> Expert Level - Curriculum</h4> </div>
 
 ``` mermaid
 graph LR
@@ -1257,6 +1257,171 @@ F --> T([Professional Development and Networking])
 ```
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+### Advanced Design Techniques
+> In this section, we will be covering advanced design techniques such as designing for accessibility, designing for internationalization, and designing for design systems.
+
+#### Designing for Accessibility
+> In this section, we will be covering the basics of designing for accessibility. This means to be inclusive to the needs of your users. This includes your target users, users outside of your target demographic, users with disabilities, etc.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn the basics of designing for accessibility |
+| **Understand** | Understand the importance of designing for accessibility and how it can benefit your users |
+| **Apply** | Apply the knowledge you learned to your own design projects |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Practical Approaches For Designing Accessible Websites** | Smashing Magazine | We design with viewports in mind, keep track of loading times, and hunt down even the smallest browser bugs — all to create the best possible user experience. But despite all these efforts to constantly improve our products, there’s still one aspect that, unfortunately, comes up short quite often: accessibility. | [Download](https://drive.google.com/file/d/1jpN6VI69-zLe5DH7gASXgju3mDXCH5uC/view?usp=share_link) |
+| **Designing for Accessibility: A Business Guide to Countering Design Exclusion** | Simeon Keates | A step by step guide, this book covers how to design products that offer the right combination of functionality, usability, and accessibility for all consumers | [Download](https://drive.google.com/file/d/1ZuOhbNzXGKijvx2BJtwOiPGRlcWFpicP/view?usp=share_link) |
+| **Inclusive Design for a Digital World: Designing with Accessibility in Mind** | Regine M. Gilbert | What is inclusive design? It is simple. It means that your product has been created with the intention of being accessible to as many different users as possible. For a long time, the concept of accessibility has been limited in terms of only defining physical spaces | [Download](https://drive.google.com/file/d/1MwqNkEj8NYi5sPV1yyD9Tj5-xhd-jmtI/view?usp=share_link) |
+| **A web for everyone: designing accessible user experiences** | Horton, Sarah, Quesenbery, Whitney | If you are in charge of the user experience, development, or strategy for a web site, A Web for Everyone will help you make your site accessible without sacrificing design or innovation. Rooted in universal design principles, this book provides solutions: practical advice and examples of how to create sites that everyone can use. | [Download](https://drive.google.com/file/d/1AOPcy1NfXmkUZx7LcENYdQ5NDf1nXXb0/view?usp=share_link) |
+| **Design for Inclusivity: A Practical Guide to Accessible, Innovative and User-centred Design (Design for Social Responsibility)** | Roger Coleman, John Clarkson, Hua Dong, Julia Cassim | Inclusive design not only ensures that products, services, interfaces and environments are easier to use for those with special needs or limitations, but in doing so also makes them better for everyone. | [Download](https://drive.google.com/file/d/1XVUFZJUA0ju9dk6QMC9uOJxYkC8EOeGn/view?usp=share_link) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **What is Accessible Design?** |  Vincent Brathwaite | “Imagine if 90% of the websites or mobile apps you use today locked you out. Everyone else continues to experience the convenience of mobile banking, the connectedness of social media, and the freedom of online shopping, but, for you, they’re inaccessible. For the 57 million people with disabilities in the United States, this is their everyday experience.” | [Read](https://xd.adobe.com/ideas/principles/web-design/what-is-accessible-design/) |
+| **What is Accessibility?** | CareerFoundry | Accessibility is the practice of designing and developing products that are usable by people with disabilities. | [Read](https://www.interaction-design.org/literature/topics/accessibility) |
+| **Accessibility guidelines for UX Designers** | Avinash Kaur | As a UX designer, it is important to build empathy and celebrate accessibility requirements as a set of design constraints to build a better product. | [Read](https://uxdesign.cc/accessibility-guidelines-for-a-ux-designer-c3ba775539be) |
+| **Accessibility for user experience (UX) designers** | Accessibility US Gov| Accessibility is a set of design principles that help people with disabilities use websites, mobile apps, and other digital products. | [Reading List](https://accessibility.digital.gov/ux/getting-started/) | 
+| **Accessibility in UX: The case for radical empathy** | Kriti Krishan | Imagine you were left-handed (and if you are, reflect on your left-handedness). You are part of a 10% minority in the world. Adjusting to certain tasks takes longer — but help in the form of left-handed stationery, sports equipment, etc. is available easily. | [Read](https://uxmag.com/articles/accessibility-in-ux-the-case-for-radical-empathy) |
+| **Accessibility in UX Design: Guidelines and Key Principles** |Ramotion | Learn about the importance of accessibility in UX design. Understand the key principles involved in making designs more accessible to the target audience. | [Read](https://www.ramotion.com/blog/accessibility-in-ux-design/) |
+| **7 Things Every Designer Needs to Know about Accessibility** | Jesse Hausler | Accessibility enables people with disabilities to perceive, understand, navigate, interact with, and contribute to the web. Imagine a world where developers know everything there is to know about accessibility. | [Read](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Designing for Accessibility: Top 3 Strategies for UX Designers** | Liz Brown UX | Learn the top 3 strategies that every UX designer needs to know when it comes to designing for accessibility. | [Watch](https://www.youtube.com/watch?v=hAoZI-yT4aU) |
+|  **Accessible Web Design: What Is It & How To Do It** | Flux Academy | In this video, we will be talking about what is accessible web design and how to do it. | [Watch](https://www.youtube.com/watch?v=-ao_Kc_8rpE) |
+| **Designing for Accessibility: Overview** | Trillium Creative Solutions | Designing for accessibility is important! Learn the ways you can help people with disabilities access your content online. We're here to help. | [Watch](https://www.youtube.com/watch?v=dJfhi2P60Xo) |
+| **Design for Accessibility** | Canva | Join Nissa in this webinar to learn how easy it is to implement simple strategies to ensure that your designs reach every person in your audience. Understand how people with different disabilities engage with your work. Learn how easy it is to make sure that everybody is included. Once you know it's not so hard to implement. | [Watch](https://www.youtube.com/watch?v=GGR8UDCdi14) |
+| **Design for Accessibility** | UX Loop | In this video, we will be talking about how to design for accessibility. We will be talking about the color contrast accessibility, clickable area accessibility and common content accessibility | [Watch](https://www.youtube.com/watch?v=4OuI6Qsh1D0) |
+| **Designing for Accessibility** | UA Technology Accessibility | This recorded webinar provides a brief introduction to designing for accessibility: the importance of accessible design and high-impact practices digital content creators can apply to create accessible documents, images, audio, video, and web content. | [Watch](https://www.youtube.com/watch?v=Ww2wddAZUdU) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+#### Designing for Internationalization
+> Internationalization (i18n) is the process of designing a product, application or document content that enables easy localization for target audiences that vary in culture, region, or language. Internationalization is a key aspect of globalization and enables products and services to be available and relevant to a worldwide audience. Internationalization is also known as globalization, localization, or adaptation. 
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn about the importance of internationalization in UX design. |
+| **Understand** | Understand the key principles involved in making designs more internationalized to the target audience. |
+| **Apply** | Apply the knowledge gained to your own projects. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Usability and Internationalization of Information Technology** | Nuray Aykin | Contributors from the US, Europe, and Asia provide a theoretical foundation and practical examples and guidelines for designing information technology for different cultures, languages, and economic standings, describing methods that can be used to ensure their usability across cultural boundaries. | [Download](https://drive.google.com/file/d/1fMv4a7Jmi5pTTgFIa34SxkbUlocvoZYI/view?usp=share_link) |
+| **Intercultural User Interface Design** | Rüdiger Heimgärtner | The path for developing an internationally usable product with a human-machine interface is described in this textbook, from theory to conception and from design to practical implementation. |  [Download](https://drive.google.com/file/d/1CKU32QGkKzg8AFIY2Q1arTzkAtQcjM4-/view?usp=share_link) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Design for internationalization** | John Saito | In this article, we will be talking about how to design for internationalization. We will be talking about the color contrast internationalization, clickable area internationalization and common content internationalization. | [Read](https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f) |
+| **Internationalization & Localization** | Krisztina Szerovay | So let’s say it turns out that you’ll need to localize the product / service you’re working on to certain countries. What are the main design aspects? This sketch summarizes some of the main things you need to pay attention to. | [Read](https://uxknowledgebase.com/internationalization-localization-d84795b7962c) |
+| **UX Localization: How to Adapt User Experience for International Users** | Phrase | That a visually stunning app won't be a hit if it can’t provide a stellar user experience (UX) is old news. It’s the whole reason UX design appeared on the tech map in the first place. What’s relatively new, though, is UX localization—the art of catering UX across borders. | [Read](https://phrase.com/blog/posts/app-localization-developers-guide-to-user-experience/) |
+| **Internationalization and Localization – Key Differences in App Design** | UXPin | Internationalization is crucial for startups and companies with global aspirations. If organizations want to succeed in an international market and compete locally, they must create relatable, locally relevant product experiences. | [Read](https://www.uxpin.com/studio/blog/internationalization-vs-localization-in-app-design/) |
+| **Localization in UX: way beyond text translation** | Tania Conte | UX design helps companies to deliver the best solutions for their business while being respectful of users, not only with regards to their needs but also to their mindset and culture. | [Read](https://uxdesign.cc/beyond-text-translation-ux-design-and-localization-77b337b1f686) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **What Is Internationalization (I18N) - Localization Basics** | Localization Academy | Are you new to the localization industry? Learn the localization basics in these short whiteboard sessions. In this video, find out what is Internationalization (I18N). | [Watch](https://www.youtube.com/watch?v=CIwNjfTlmgA) |
+| **How to make design really inclusive** | Florence Okoye | Florence Okoye tells us why empathy is good, but not enough, in the world of design. In an era of deep minds and deep learning, Florence believes it's time we start to design deeper and empower each other in the process. | [Watch](https://www.youtube.com/watch?v=7M-VSI9RuPU) |
+| **51. Design - Designing for Internationalization - User Interface Design** | Frederic Desbiens| This episode: With Frederic Desbiens in this week's episode of the ADF Architecture TV series you will learn about the issues you need to take into account when designing user interfaces for internationalization. | [Watch](https://www.youtube.com/watch?v=ARx0hRNGfcU) |
+| **50. Design - Designing for Internationalization - Understanding Internationalization** | Frederic Desbiens| This episode: In this week's episode of the ADF Architecture TV series Frederic Desbiens explores the basic concepts of internationalization (i18n) and explains why it involves much more than simply translating the user interface. | [Watch](https://www.youtube.com/watch?v=wxwKxZW2edQ) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+#### Design Systems
+> A design system is a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications. It’s a visual language that synthesizes UI patterns, interactions, motion, and scale into a unified experience.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn about the importance of design systems in UX design. |
+| **Understand** | Understand the key principles involved in making designs more design systems to the target audience. |
+| **Create** | Create your own design system. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Practical UI Patterns for Design Systems** | Diana MacDonald | Understanding UI patterns is invaluable to anyone creating websites for the first time. It helps you make connections between which tools are right for which jobs, understand the processes, and think deeply about the context of a problem. | [Download](https://drive.google.com/file/d/16yoEyRtayzVnXPECOkHj5yhlsE7E3jQ3/view?usp=share_link) |
+| **Laying the Foundations** | Andrew Couldwell | Laying the Foundations is a comprehensive guide to creating, documenting, and maintaining design systems, and how to design websites and products systematically. It's an ideal book for web designers and product designers (of all levels) and especially design teams. | [Download](https://drive.google.com/file/d/1LRtu2vttReSCecENbu2lOjShXZVUiQ_D/view?usp=share_link) |
+| **Modular Web Design: Creating Reusable Components for User Experience Design and Documentation** | Nathan A. Curtis | User experience design teams often suffer from a decentralized, blank canvas approach to creating and documenting a design solution for each new project. As teams repeatedly reinvent screen designs, inconsistency results, and IT teams scramble to pick up the pieces. | [Download](https://drive.google.com/file/d/1U_yj1oz_Ffshm4CQwLRcVRHbVmGsbP7s/view?usp=share_link) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Everything you need to know about Design Systems** | Audrey Hacq | Design Systems have become a key part of my everyday work… And from discussions around me, it seems that it is now the case for a lot of people | [Read](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969) |
+| **A comprehensive guide to design systems** | Will Fanguy | Companies like Airbnb, Uber, and IBM have changed the ways they design digital products by incorporating their own unique design systems.  | [Read](https://www.invisionapp.com/inside-design/guide-to-design-systems/) |
+| **Design Systems 101** | Therese Fessenden  | A design system is a set of standards to manage design at scale by reducing redundancy while creating a shared language and visual consistency across different pages and channels. | [Read](https://www.nngroup.com/articles/design-systems-101/) |
+| **Design Systems** | Interaction Design Foundation | A design system is a library of reusable components and guidelines that people within a company can combine into interfaces and interactions. What goes into a design system and how it is implemented can vary quite a bit from company to company, depending on the size and maturity of the design practice and the needs of the product team. | [Read](https://www.interaction-design.org/literature/topics/design-systems) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **What is a Design System? Design Systems 101 for Designers** | DesignCourse | Today, we'll take a deep dive into the world of design systems and figure out exactly what they are. We'll take a look at a few definitions and several examples of actual design systems in the real world. By the end, you should have a solid understanding of what a design system actually is, and then (shortly) I will show you how to create one. | [Watch](https://www.youtube.com/watch?v=wc5krC28ynQ) |
+| **Create a Design System with Figma - Full Course** | freeCodeCamp | Learn how to build a design system in Figma. By the end of this course you will become a master of building design systems in Figma and understanding master components.| [Watch](https://www.youtube.com/watch?v=RYDiDpW2VkM) |
+| **Build it in Figma: Create a Design System** | Figma | Create your style guide, type scale, and brand color scheme and turn them into shared styles, grids, and typography to kick off designing a design system from scratch. | [Watch](https://www.youtube.com/watch?v=EK-pHkc5EL4) |
+| **Design Systems, Pattern Libraries & Style Guides... Oh My!** | Jesse Showalter | Style Guides, Pattern Libraries, and Design systems are all anyone is talking about lately, and for good reason. They all share a similar goal of creating a more consistent design process that increases productivity and also effectiveness. Some people don’t know the difference, so let's break them all down. | [Watch](https://www.youtube.com/watch?v=rO5dBA-avfw) |
+| **5 Best Design Systems and How to Learn (and Steal) From Them** | DesignerUp | Design systems (like Material Design, and Lightning Design) are all the rage and while most articles talk about what a design system is and best practices for creating them, at DesignerUp we've been framing them as a teaching tool and design tutorial with our product design students to help them better understand, explore and learn the philosophies, best practices and principles of UI design, UX and Product Design. | [Watch](https://www.youtube.com/watch?v=BISC15OPeGA) |
+| **Design System Series** | Mizko | In this video series, I'll be talking about design systems, how to build them, and how to use them. | [Watch Playlist](https://www.youtube.com/playlist?list=PLvnhVb8yYRQ1rvEFiPEyNbVPiJxvuCbgL) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+<div align="center">
+  <details>
+  <summary> Checklists for your design system </summary>
+
+ **Design System Checklist** - A checklist for your design system. [Visit](https://www.designsystemchecklist.com/)
+
+  </details>
+</div>
+
+##### Inspiration
+| Design Systems | Description | Link |
+| --- | --- | --- |
+| **Airbnb Design System** | Airbnb's design system is a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications. | [Visit](https://airbnb.design/building-a-visual-language/) |
+| **Atlassian Design System** | The Atlassian Design System is a collection of reusable UI components, guidelines and resources for product designers and developers to create exceptional experiences. | [Visit](https://atlassian.design/) |
+| **IBM Design Language** | The IBM Design Language is a living, breathing expression of IBM. It is a toolkit of principles, guidance, and code that serves as the foundation for IBM’s digital user experiences. | [Visit](https://www.ibm.com/design/language/) |
+| **Material Design** | Material Design is a design system – backed by open-source code – that helps teams build high-quality digital experiences. | [Visit](https://material.io/) |
+| **Microsoft Fluent Design System** | The Fluent Design System is a collection of design principles, tools, and resources that help teams create high-quality, engaging experiences for Windows, Windows Phone, and the web. | [Visit](https://www.microsoft.com/design/fluent/) |
+| **Polaris** | Polaris is Shopify’s design system. It’s a collection of reusable components, guidelines, and resources that help teams build exceptional online stores. | [Visit](https://polaris.shopify.com/) |
+| **Primer** | Primer is GitHub’s design system. It’s a collection of design guidelines, resources, and tools that make it easy to design with GitHub. | [Visit](https://primer.style/) |
+| **Salesforce Lightning Design System** | Lightning Design System is the design system for Salesforce Lightning Experience. It is a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications. | [Visit](https://www.lightningdesignsystem.com/) |
+| **Ant Design** | Ant Design is a design system with values of Nature and Determinacy for better user experience of enterprise applications. | [Visit](https://ant.design/) |
+| **Apple Design Resources** | Apple Design Resources for iOS include Sketch, Photoshop, and Adobe XD templates, along with comprehensive UI resources that depict the full range of controls, views, and glyphs available to developers using the iOS SDK. | [Visit](https://developer.apple.com/design/resources/) |
+| **Alta UI** | Alta UI is a design system for building beautiful, usable, and accessible web applications. | [Visit](https://www.oracle.com/webfolder/ux/middleware/alta/index.html) |
+| **AtlasKit** | AtlasKit is a React-based UI toolkit for Atlassian products. | [Visit](https://atlaskit.atlassian.com/) |
+| **Carbon Design Systems** | Carbon is IBM’s open-source design system for products and experiences. With the IBM Design Language as its foundation, the system consists of working code, design tools and resources, human interface guidelines, and a vibrant community of contributors. | [Visit](https://www.carbondesignsystem.com/) |
+| **Atomize** | Atomize is a design system for building beautiful, usable, and accessible web applications. | [Visit](https://atomizecode.com/) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
 
 
 
