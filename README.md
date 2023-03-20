@@ -11,7 +11,7 @@ This repository contains a curated list of resources to help you learn about Use
     * [Introduction to User Experience Design](#introduction-to-user-experience-design)
       * [What is UX Design?](#what-is-ux-design)
       * [The Importance of UX Design](#the-importance-of-ux-design)
-      * [User-Centered Design and Design Thinking](#user-centered-design-and-design-thinking)
+      * [User-Centered Design](#user-centered-design)
     * [Fundamentals of User Interface Design](#fundamentals-of-user-interface-design)
       * [What is UI Design?](#what-is-ui-design)
       * [UI Design Best Practices](#ui-design-best-practices)
@@ -78,7 +78,7 @@ A --> E((Visual Design Fundamentals))
 
 B --> F([What is UX Design?])
 B --> G([The Importance of UX Design])
-B --> H([User-Centered Design and Design Thinking])
+B --> H([User-Centered Design])
 
 C --> I([What is UI Design?])
 C --> J([UI Design Best Practices])
@@ -188,8 +188,8 @@ E --> P([Layout and Composition])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 
-#### User-Centered Design and Design Thinking
-> User-centered design (UCD) is a design approach that focuses on the needs, wants, and limitations of the people who use a product. It is a process that involves the user at every step of the design process. Design thinking is a human-centered approach to problem solving that helps people understand their users and develop innovative solutions to their problems.
+#### User-Centered Design
+> User-centered design (UCD) is a design approach that focuses on the needs, wants, and limitations of the people who use a product. It is a process that involves the user at every step of the design process.
 
 ##### Goals
 | Goal | Description |
@@ -206,8 +206,6 @@ E --> P([Layout and Composition])
 | **Fundamentals of User-Centered Design** | Brian Still, Kate Crane | This book explains in-depth on what that UCD to usability and User Experience (UX) principles and best practices | [Download](https://drive.google.com/file/d/1kBPTr7-Zh-84GQUm0Efymh7wLoj-V57x/view?usp=share_link) |
 | **User-centered design: A developer's guide to building user-friendly applications** | Travis Lowdermilk | You’ll learn valuable strategies for conducting each stage of the design process, from interviewing likely users and discovering your application’s purpose to creating a rich user experience with sound design principles. | [Download](https://www.pdfdrive.com/user-centered-design-a-developers-guide-to-building-user-friendly-applications-e157676576.html) |
 | **User-Centered Design Stories: Real-World UCD Case Studies** | Carol Righi, Janice James | In this book, the reader is asked to perform analysis of dozens of UCD work situations and propose solutions for the problem set.. | [Download](https://drive.google.com/file/d/1HxQLcUgiwrv2sLfUp44c-Rx1e_pQfr8Z/view?usp=share_link) |
-| **Basics Design: Design Thinking** | Gavin Ambrose, Paul Harris | Design Thinking is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success. | [Download](https://www.pdfdrive.com/basics-design-design-thinking-e12052373.html) |
-| **Design Thinking: New Product Development Essentials from the PDMA** | Michael G. Luchs & Scott Swan & Abbie Griffin | Design Thinking is the Product Development and Management Association's (PDMA) guide to better problem solving and decision-making in product development and beyond. | [Download](https://www.pdfdrive.com/design-thinking-new-product-development-essentials-from-the-pdma-e176078498.html) |
 
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -265,7 +263,6 @@ E --> P([Layout and Composition])
 | **What is UI Design?** | UX Design Institute | What is user interface (UI) design, and how is it different from UX? What is the UI design process? Learn everything you need to know about UI design here. | [Read](https://www.uxdesigninstitute.com/blog/what-is-ui-design/) |
 | **What Is UI Design? Definition, Tips, Best Practices** | Coursera | UI stands for user interface. It is the point of contact between humans and computers. Any technology you interact with as a user is part of the user interface. | [Read](https://www.coursera.org/articles/ui-design) |
 | **What is UI Design?** | CareerFoundry | User interface (UI) design is an incredibly broad, multidisciplinary, and creative field. Good UI design is increasingly recognized as an essential tool to increase user engagement and create products that are both useful and visually pleasing.| [Read](https://careerfoundry.com/en/blog/ux-design/what-is-ui-design/) |
-| **What is Design Thinking?** | Interaction Design Foundation | Design thinking is a non-linear, iterative process that teams use to understand users, challenge assumptions, redefine problems and create innovative solutions to prototype and test. | [Read](https://www.interaction-design.org/literature/topics/design-thinking) |
 | **What is Design Thinking?** | Ideou | How design thinking can help you transform the way you develop products, services, processes, and organizations. | [Read](https://www.ideou.com/blogs/inspiration/what-is-design-thinking) |
 | **What Is Design Thinking? A Comprehensive Beginner's Guide** | CareerFoundry | Design thinking is both an ideology and a process, concerned with solving complex problems in a highly user-centric way. | [Read](https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/) |
 
@@ -409,7 +406,6 @@ E --> P([Layout and Composition])
 | **Figma UI Design Tutorial: Get Started in Just 24 Minutes!** | AJ&Smart | Do you want to learn Figma but don’t know where to start? Well, if you follow this step-by-step tutorial, it will only take you 24 minutes to learn all the basics you need to know to start designing apps and websites in Figma. | [Watch](https://www.youtube.com/watch?v=8gmdqejK0HI) |
 | **Figma Tutorial for Beginners** | DesignCourse | In this video, I'll be going over the basics of Figma and how to use it to create a simple website design. | [Watch](https://www.youtube.com/watch?v=3q3FV65ZrUs) |
 | **Figma tutorial for Beginners: Complete Website from Start to Finish** | Flux Academy | Learn how to use Figma to design a website from start to finish. | [Watch](https://www.youtube.com/watch?v=HZuk6Wkx_Eg) |
-| **Free Figma Tutorial: Designing Wireframes with Figma** | Butter Academy | In this video, I'll be going over how to use Figma to design wireframes. | [Watch](https://www.youtube.com/watch?v=6t_dYhXyYjI) |
 | **UI Design Live: UI Patterns, Visual Hierarchy and Iterations** | DesignCourse | How we can take one UI and make multiple iterations of it by looking at different UI patterns and visual hierarchy. | [Watch](https://www.youtube.com/watch?v=D1pO4AQTfes&t=68s) |
 | **Intro to Sketch for Beginners - Sketch Tutorial (2020)** | Joseph | In this video, I'll be going over the basics of Sketch and how to use it to create a simple website design. | [Watch](https://www.youtube.com/watch?v=3q3FV65ZrUs) |
 | **Learn Adobe XD in 2021 by Example (Crash Course)** | DesignCourse | Today, we're going to step back into the world of UI/UX design and cover one of the most popular UI/UX design and prototyping tools: Adobe Experience Design (Adobe XD). You're going to learn all major features of this powerful app in crash course format, all while doing so by creating a UI for a fictional business. | [Watch](https://www.youtube.com/watch?v=3rQ-eTmWah0) |
@@ -983,9 +979,225 @@ E --> R[Design Critique]
 | **Micro-interactions in Figma under 9 mins-UI Animation Series - 09** | Design with Aashish | In this video of the UI Animation series, we'll create 2 micro-interactions inside Figma. | [Watch](https://www.youtube.com/watch?v=l0EkLsZiWUg) |
 | **Awesome Micro Animations With Figma Tutorial** | developedbyed | In this video, I will show you how to create awesome micro animations with Figma. | [Watch](https://www.youtube.com/watch?v=0YIovQXnwBY) |
 | **How to create complex micro interactions in Figma!** | Kimo | In one of my previous videos, I showed some examples of micro-interactions with smooth and complex animations. in this video, I will remake one of them to show how you can do it in Figma. | [Watch](https://www.youtube.com/watch?v=moLF7t3HwYk) |
-| **UI Animation Series in Figma** |  | In this video, you'll learn about the basics of interaction design. You'll learn about the different types of interaction design, and how to design for tasks. | [Watch Playlist](https://www.youtube.com/playlist?list=PLtU8M9giqjPuObPhJrS6z54hMEZRZfws3) |
+| **UI Animation Series in Figma** | Design with Aashish | In this video, you'll learn about the basics of interaction design. You'll learn about the different types of interaction design, and how to design for tasks. | [Watch Playlist](https://www.youtube.com/playlist?list=PLtU8M9giqjPuObPhJrS6z54hMEZRZfws3) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+
+### Prototyping
+> It is used to test or validate design assumptions that were made to construct the prototype quickly and in a less expensive way than developing a full-fledged product or service. 
+
+#### Introduction to Prototyping
+> Prototyping is a process of creating a model or a sample of a product or a service. It is a crucial part of the design process, during the this phase, we start to make our potential solutions real so that we can get feedback from our stakeholders.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn about how prototyping works in low-fidelity and high-fidelity designs. |
+| **Understand** | Understand the importance of prototyping. |
+| **Apply** | Apply prototyping to your own projects both in low-fidelity and high-fidelity designs. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Designing UX: Prototyping: Because Modern Design is Never Static** | Ben Coleman, Dan Goodwin | It's well known that identifying and fixing problems in design is easier and cheaper if it can be done earlier in the process of design and build. That's because as the fidelity of the project we're working on increases, the effort involved in making changes increases. | [Download](https://www.pdfdrive.com/designing-ux-prototyping-because-modern-design-is-never-static-e184651741.html) |
+| **How to Prototype: The Rapid Prototyping Process** | UXPin | In this book, you will learn how to prototype, how to prototype quickly, and how to prototype efficiently. | [Download](https://www.pdfdrive.com/how-to-prototype-e34906914.html) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **An Introduction to Prototyping in UX Design** | DesignGuru | Prototyping is an essential part of any UX design process. It allows designers to quickly and easily create a working model of their design that can be tested and iterated upon. | [Read](https://bootcamp.uxdesign.cc/an-introduction-to-prototyping-in-ux-design-e19455eccb5e) |
+| **4 Steps to Build Your Product's First Prototype** | Cherie Nelson | Here are four steps to get your first prototype built so you can turn your idea into a patented, profitable product. | [Read](https://athgo.org/4-steps-build-products-first-prototype/) |
+| **Guide to prototyping in Figma** | Figma | We will cover the basics of prototyping in Figma, including how to create a prototype, how to add interactions, and how to share your prototype. | [Read](https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma) |
+| **5 Common Low-Fidelity Prototypes and Their Best Practices** |  Rikke Friis Dam & Teo Yu Siang  | Low-fidelity prototypes allow us to quickly and inexpensively test ideas, so we can validate our hypotheses and improve our solutions. | [Read](https://www.interaction-design.org/literature/article/prototyping-learn-eight-common-methods-and-best-practices) |
+| **Perfect Your UX Design Process: A Guide to Prototype Design** |  Judit Casacuberta | The process of prototyping—from creating simple wireframes to testing fully functional mockups—is one of the most potent and powerful set of skills any designer can master. It’s also fraught with peril in workplaces where the process is skipped in lieu of just “designing a prototype” as a simple deliverable to give to the next department to build.  | [Read](https://www.toptal.com/designers/prototyping/guide-to-prototype-design) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Figma Tutorial - Prototyping in Figma** | Butter Academy | In this video, we will cover the basics of prototyping in Figma, including how to create a prototype, how to add interactions, and how to share your prototype. | [Watch](https://www.youtube.com/watch?v=iBkXf6u8htI) |
+| **What is prototyping?** | Nesta | Prototyping is a low-cost, low-risk way of developing, testing, and improving ideas at an early stage. | [Watch](https://www.youtube.com/watch?v=_1bOaNSy5XY) |
+| **Figma Tutorial: Prototyping & Transitions** | Figma | In this video we'll show you how to add simple transitions to your prototypes. | [Watch](https://www.youtube.com/watch?v=-d6zNGeF59M) |
+| **Learn Figma Prototyping** | DesignCode | Master interaction design with Figma Prototyping. Create an animated app experience using after delay, scrolling content, video prototype.  | [Watch](https://www.youtube.com/watch?v=_1bOaNSy5XY) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+#### Wireframing and Low-Fidelity Prototyping
+> Wireframing is a process of creating a skeleton of a product or a service. A wireframe is low-fidelity that takes less time to create, and it is used to test or validate design assumptions that were made to construct the prototype quickly and in a less expensive way than developing a full-fledged product or service.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn about how wireframing and low-fidelity prototyping works. |
+| **Understand** | Understand why wireframing and low-fidelity prototyping is important. |
+| **Apply** | Apply wireframing and low-fidelity prototyping to your own projects. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Wireframing essentials : An Introduction to User Experience Design** | Hamm & Matthew J | Whether you are looking to become a professional UX Designer, or just need to get the job done, the principles and processes discussed in this book will help you understand how to craft reliably effective and successful design solutions. | [Download](https://www.pdfdrive.com/wireframing-essentials-an-introduction-to-user-experience-design-e158514021.html) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **What Is A Wireframe? Your Best Guide** | CareerFoundry | A wireframe is a low-fidelity prototype that is used to test and validate design assumptions. | [Read](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/) |
+| **What is wireframing** | Experience UX | Wireframing is a way to design a website service at the structural level. A wireframe is commonly used to layout content and functionality on a page which takes into account user needs and user journeys. | [Read](https://www.experienceux.co.uk/faqs/what-is-wireframing/) |
+| **What Are Wireframes?** | Balsamiq Wireframing Academy |A wireframe is a schematic or blueprint that is useful for helping you, your programmers and designers think and communicate about the structure of the software or website you're building. | [Read](https://balsamiq.com/learn/articles/what-are-wireframes/) |
+| **Low-Fidelity Prototypes** |  TillerDigital | Low-fidelity prototyping is a fundamental phase in the web design process. Ideas and concepts are presented using simple lines and shapes (e.g. boxes for content blocks, circles for photos, etc.), without concern for aesthetics or detailed content. | [Read](https://tillerdigital.com/glossary/low-fidelity/) |
+| **Prototyping vs Wireframing: What's The Difference?** |  The Product Manager | A wireframe is low-fidelity that takes less time to create, while a prototype is high-fidelity that is more time consuming. | [Read](https://tillerdigital.com/glossary/wireframing/) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Wireframing – Low Fidelity vs. High Fidelity** | Relab Studios | In this video Alvin talks about the difference between Lo-fi vs. High-fi wireframes, when to best use them respectively and also some examples of what they might look like. | [Watch](https://www.youtube.com/watch?v=J3FXDVe-6ws) |
+| **Build Wireframes and Low-Fidelity Prototypes** | My Lesson | In this video, we will cover the basics of prototyping in Figma, including how to create a prototype, how to add interactions, and how to share your prototype. | [Watch](https://www.youtube.com/watch?v=wJ3vof9Er5c) |
+| **Free Figma Tutorial: Designing Wireframes with Figma** | Butter Academy | In this video, I'll be going over how to use Figma to design wireframes. | [Watch](https://www.youtube.com/watch?v=6t_dYhXyYjI) |
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Courses
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Build Wireframes and Low-Fidelity Prototypes** | Coursera | Build Wireframes and Low-Fidelity Prototypes is the third course in a certificate program that will equip you with the skills you need to apply to entry-level jobs in user experience (UX) design. In this course, you’ll continue to design a mobile app for your professional UX portfolio. | [Enroll](https://www.coursera.org/learn/wireframes-low-fidelity-prototypes) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+#### High-Fidelity Prototyping
+> High-fidelity prototypes are computer-based, and usually allow realistic (mouse-keyboard) user interactions. High-fidelity prototypes take you as close as possible to a true representation of the user interface.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn about how high-fidelity prototyping works. |
+| **Understand** | Understand why high-fidelity prototyping is important. |
+| **Apply** | Apply high-fidelity prototyping to your own projects. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Prototyping for Designers: Developing the Best Digital and Physical Products** | Kathryn McElroy | Prototyping and user testing is the best way to create successful products, but many designers skip this important step and use gut instinct instead. | [Download](https://www.pdfdrive.com/high-fidelity-prototyping-e158514021.html) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **High-fidelity prototyping: What, When, Why and How?** | Eleonora Ibragimova | As part of the user experience design series at MOBGEN, we have recently covered the benefits of low-fidelity prototyping within design process of digital products. | [Read](https://blog.prototypr.io/high-fidelity-prototyping-what-when-why-and-how-f5bbde6a7fd4) |
+| **What is a high-fidelity prototype?** |  Zarmeen Zehra | A prototype is the work product of the prototyping phase of the interface design process. Since it is a simulation of the end product, it is used for user testing to identify pain points and improvements earlier in the design process. | [Read](https://www.educative.io/answers/what-is-a-high-fidelity-prototype) |
+| **High-Fidelity Prototype: Why & When to Create Them** | Anurag | In this blog, we dig into high-fidelity prototypes and understand their benefits as well as explore a better solution at the end. | [Read](https://www.locofy.ai/blog/high-fidelity-prototype) |
+| **Low-fidelity vs. High-fidelity Design Prototypes (and when to use which)** | Ravneet Singh | User Experience (UX) is an essential element of software design, and it’s something software companies work to understand before spending precious resources writing code. Prototyping makes this possible. | [Read](https://www.netsolutions.com/insights/low-fidelity-vs-high-fidelity-prototypes/) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **What are High Fidelity Prototypes?Types and Examples.** | Club UX | Often mistaken as the Final Product, High Fidelity Prototypes are closer to the finished product. They are highly functional and engaging but takes longer to be built and Costly. | [Watch](https://www.youtube.com/watch?v=O3FyvQq068U) |
+| **High-Fidelity Prototyping Demand is GROWING! (Don’t Miss Out)** | Mizko | ProtoPie is the easiest prototyping tool for all digital products. Turn your interaction design ideas into high-fidelity prototypes for mobile, desktop, web, all the way to IoT. Import your designs from Figma and create dynamic prototypes beyond what Figma can do.  | [Watch](https://www.youtube.com/watch?v=cbhxy4OOReU) | 
+| **Food App Design - UX/UI ( Wireframe, Prototype, Export)** | DesignSesne | Today we will learn to design a food app in Adobe XD. We will start with the wireframe and then move on to the prototype. | [Watch](https://www.youtube.com/watch?v=195RY7jCuZg) |
+| **Figma Mobile App Design Tutorial** | Building Amazing Things | In this Figma Mobile App Design Tutorial, you are going to learn how to design a Modern Mobile App in Figma. Figma is a free UI Design tool used creating Mobile App UI and UX.  | [Watch](https://www.youtube.com/watch?v=PeGfX7W1mJk) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+### Design Thinking
+> Design thinking is a non-linear, iterative process that teams use to understand users, challenge assumptions, redefine problems and create innovative solutions to prototype and test. Involving five phases—Empathize, Define, Ideate, Prototype and Test—it is most useful to tackle problems that are ill-defined or unknown. Although we have talked about some of these phases in the previous sections, we will now go into more detail on how it all fits together.
+
+#### Design Thinking Process
+> The design thinking process is a five-step process that helps you to solve problems and create innovative solutions. It is a human-centered approach to problem solving that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn about how design thinking works and how it integrates with the other phases. |
+| **Understand** | Understand why design thinking is important. |
+| **Apply** | Apply design thinking to your own projects. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Basics Design: Design Thinking** | Gavin Ambrose, Paul Harris | Design Thinking is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success. | [Download](https://www.pdfdrive.com/basics-design-design-thinking-e12052373.html) |
+| **Design Thinking: New Product Development Essentials from the PDMA** | Michael G. Luchs & Scott Swan & Abbie Griffin | Design Thinking is the Product Development and Management Association's (PDMA) guide to better problem solving and decision-making in product development and beyond. | [Download](https://www.pdfdrive.com/design-thinking-new-product-development-essentials-from-the-pdma-e176078498.html) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **What is Design Thinking?** | Interaction Design Foundation | Design thinking is a non-linear, iterative process that teams use to understand users, challenge assumptions, redefine problems and create innovative solutions to prototype and test. | [Read](https://www.interaction-design.org/literature/topics/design-thinking) |
+| **The 5 Phases of Design Thinking** | AMA |The short form of the design thinking process can be articulated in five steps or phases: empathize, define, ideate, prototype and test. | [Read](https://www.ama.org/marketing-news/the-5-phases-of-design-thinking/) |
+| **The 5 Stages in the Design Thinking Process** | Interaction Design Foundation | The design thinking process is a five-step process that helps you to solve problems and create innovative solutions. It is a human-centered approach to problem solving that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success. | [Read](https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process) |
+| **A Complete Guide to the Design Thinking Process in 5 Steps**| CareerFoundry | The Design Thinking process can be divided into five key steps: Empathize, Define, Ideate, Prototype, and Test. The 5 steps in the Design Thinking process are: **Empathize** **Define** **Ideate** **Prototype** **Test** | [Read](https://careerfoundry.com/en/blog/ux-design/design-thinking-process/) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **5 Stages of the Design Thinking Process** | InVision | In life we’re always bumping into new problems, and while we have the desire to solve them, it’s often hard to find the right solution or even know where to start. That’s where “design thinking” comes in. | [Watch](https://www.youtube.com/watch?v=-ySx-S5FcCI) |
+| **Design Thinking Full Course - Design Thinking Process** | Simplilearn | In this design thinking tutorial, we will be looking at what is design thinking, why design thing is important,  steps of design thinking, empathy mapping, five phases and four pillars of design thinking and agile methodology with design thinking. It is extremely helpful in solving problems that are ill-defined or unknown. Design Thinking is an iterative method that helps resolve user issues or redefines problems in alternative strategies and solutions. | [Watch](https://www.youtube.com/watch?v=4nTh3AP6knM) |
+| **ADVANCED DESIGN PROCESS: MUST KNOW!!** | Satori Graphics | In this video, I will be going over the advanced design process. This is a process that I have developed over the years and it has helped me to create some of my best work. | [Watch](https://www.youtube.com/watch?v=YzSooKa1PwM) |
+| **UX Design Process: Empathize, Define, and Ideate** | My Lesson | We will be going over the UX design process in this video. We will be going over the first three steps of the UX design process: Empathize, Define, and Ideate. | [Watch](https://www.youtube.com/watch?v=7V8k4uwAll8) |
+| **The Design Thinking Process (Explained By An Expert)** | CareerFoundry | In this video, we explore the wonderful world of Design Thinking. Design Thinking is both an ideology and a process; it's all about solving complex problems in a user-centric way. Design Thinking was created as a way of taking the processes and approaches that designers use and applying them to problems that designers don't typically approach — for example: organizational design, business or marketing issues within a company. | [Watch](https://www.youtube.com/watch?v=FrsQSplB_Cg) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+#### Design Critique
+> Design critique is a process of giving and receiving feedback on a design. It is a way to improve the design by identifying problems and opportunities. It is a way to learn from others and to teach others. It is a way to build a community of designers.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn about how design critique is performed |
+| **Understand** | Understand why design critique is important |
+| **Recieve** | Recieve feedback with an open mind (no ego 😁) |
+| **Apply** | Make changes to your own designs based on feedback |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Discussing Design: Improving Communication and Collaboration through Critique** | Adam Connor, Aaron Irizarry | Real critique has become a lost skill among collaborative teams today. Critique is intended to help teams strengthen their designs, products, and services, rather than be used to assert authority or push agendas under the guise of "feedback." | [Download](https://drive.google.com/file/d/1y8FWs9lGxBdW3rIq1zh0Bic4WzticXXN/view?usp=share_link) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Productive design critique guide** | Alexandre Brito | A design critique is performed in order to evaluate a design and provide feedback on whether or not it meets business objectives and user needs. | [Read](https://www.toptal.com/designers/product-design/productive-design-critique-guide) |
+| **Design Critiques: Encourage a Positive Culture to Improve Products** |  Sarah Gibbons | Open feedback is essential for a collaborative UX process. However, sharing unfinished work is naturally uncomfortable and often generates tension. The right facilitation process can foster an efficient, honest feedback loop. | [Read](https://www.nngroup.com/articles/design-critiques/) |
+| **What is a Design Critique and How Can it Improve Your Designs?** | UXPin | Collecting feedback is an integral part of a product designer’s work – one which allows them to make sure that the product they’re designing is both intuitive and adds value to users’ lives. | [Read](https://www.uxpin.com/studio/blog/what-is-design-critique/) |
+| **5 Powerful Do’s & Don’ts of Design Critique** | Justin Morales | When you’re working on a team, there are a lot of opportunities for collaboration. But this also means there are opportunities for mixed messages, differing opinions, and multiple rounds of edits along the way. | [Read](https://xd.adobe.com/ideas/process/ui-design/design-critique-tips/) |
+| **Design critiques at Figma** | Noah Levin | Design critiques are a key part of just about every design culture, and one of the few consistent rituals design teams share. | [Read](https://www.figma.com/blog/design-critiques-at-figma/) |
+| **A practical guide for design critiques** | Monica Galvan | If you have ever taken a design or art class, you may already be familiar with design critiques. But as you grow as a designer, how do you know what to look out for when giving and receiving a design critique? In this article, we’ll share our tips. | [Read](https://uxplanet.org/a-practical-guide-for-design-critiques-ea72028de8bb) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Design Feedback in Action** | Google | Get a detailed look at giving and receiving feedback as you learn about design critique sessions. Watch part of a mock design critique session in action and see how you can turn feedback into concrete actions.  | [Watch](https://www.youtube.com/watch?v=VLwZc0JNAT8) |
+| **Websites Design Critique: Student Work** | Flux Academy | In this video, we will be going over the websites design critique. We will be going over the websites design critique of a student. | [Watch](https://www.youtube.com/watch?v=E84GpsDuaS0) |
+| **Product Design Critique Sessions for Beginners** | Sera Tajima | In this video, I talk about product design critique sessions. This is a broad overview of what critiques are, why designers have critiques, who is involved, and tips for an effective critique. The video is geared towards beginners, design students, and junior designers. | [Watch](https://www.youtube.com/watch?v=Ti5AATPgjMk) |
+| **Critique an app with me! + tips for ux interviews (Product design 2019)** | I'm here to talk tips from what I've learned over the past 4 years in hopes to help others out. Today, I walk through an app (SoundCloud - one of my favorites) and do a mini critique. Hope this helps! | [Watch](https://www.youtube.com/watch?v=eNooH3W9Qgo) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
 
 
 
