@@ -52,7 +52,7 @@ This repository contains a curated list of resources to help you learn about Use
     * [UX Strategy](#ux-strategy)
       * [User Research and Analysis](#user-research-and-analysis)
       * [Information Architecture and Content Strategy](#information-architecture-and-content-strategy)
-      * [Design Thinking and Innovation](#design-thinking-and-innovation)
+      * [Design Sprints and Innovation](#design-sprints-and-innovation)
     * [Portfolio Development](#portfolio-development)
       * [Building Projects for your UX/UI Design Portfolio](#building-a-uxui-design-portfolio)
       * [Case Studies and Presentations](#case-studies-and-presentations)
@@ -1197,6 +1197,36 @@ E --> R[Design Critique]
 | **Critique an app with me! + tips for ux interviews (Product design 2019)** | I'm here to talk tips from what I've learned over the past 4 years in hopes to help others out. Today, I walk through an app (SoundCloud - one of my favorites) and do a mini critique. Hope this helps! | [Watch](https://www.youtube.com/watch?v=eNooH3W9Qgo) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Tasks
+- **Project One: Building a Recipe App [Use this as Inspiration](https://www.behance.net/gallery/153624479/Fridge-Recipes-App-UX-UI-Case-Study)**
+    * Task One: Conduct a user research session with a friend or family member
+    * Task Two: Using the information you gathered from your user research session, create a user persona and apply Design Thinking to solve a problem for your user
+    * Task Three: Create an information architecture diagram, journey map, and user flow diagram
+    * Task Four: Create a low-fidelity prototype using Figma/Adobe XD
+    * Task Five: Conduct a design critique session with a friend or family member
+    * Task Six: Make changes to your prototype based on the feedback you received during your design critique session
+    * Task Seven: Create a high-fidelity prototype using Figma/Adobe XD
+
+- **Project Two: Redesign [Fitness Mobile App](https://www.behance.net/gallery/120589209/Fitness-Mobile-App)**
+    * Task One : Identify the user experience problems with the current design
+    * Task Two : Analyze these problems and identify the root causes
+    * Task Three : Perform a competitive analysis to identify the strengths and weaknesses of the current design
+    * Task Four : Create a user journey map to identify the user's pain points and opportunities for improvement
+    * Task Five : Develop an information architecture that organizes the app's content in a logical and user-friendly way, apply the principles of interaction design to create intuitive and engaging user interactions, such as animations and feedback
+    * Task Six : Create a low-fidelity prototype using Figma/Adobe XD
+    * Task Seven : Identify opportunities for microinteractions that enhance the user experience, such as providing feedback on completed workouts or congratulating the user on reaching their goals
+    * Task Eight: Conduct a design critique session with a friend or family member
+    * Tasks Nine: Iterate on the design based on user feedback and refine the create the high-fidelity prototype using Figma/Adobe XD
+    * Tasks Ten: Create a presentation that explains the design process and the design decisions you made
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+## Expert Level
+> In this section, we will be covering advanced design topics such as design systems, design thinking, virtual reality/augmented reality, and more. At the end of this section, you will be confident in your design skills and ready to apply for your dream design job 🎉💲.
+> **Note:** This section is for those who are looking to take their design skills to the next level. If you are just starting out, I recommend you start with the Beginner and Intermediate sections.
+
+
 
 
 
