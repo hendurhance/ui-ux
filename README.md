@@ -799,7 +799,193 @@ E --> R[Design Critique]
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 
+#### User Testing and Heuristics Evaluation
+> User testing is a method of evaluating a product by testing it on users. It is a common practice designed to find usability problems early in the development cycle. Heuristic evaluation is a usability inspection method for finding problems in a design.
 
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn how to conduct user testing and heuristic evaluation. |
+| **Understand** | Understand the difference between user testing and heuristic evaluation and its benefits. |
+| **Practice** | Practice conducting user testing and heuristic evaluation. |
+| **Apply** | Apply heuristics evaluation to test products. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Handbook of Usability Testing: Howto Plan, Design, and Conduct Effective Tests** | Jeffrey Rubin & Dana Chisnell & Jared Spool | This book is a comprehensive guide to usability testing, from planning and designing tests to analyzing and reporting results. It provides a thorough overview of the field, including the latest research and best practices. | [Download](https://www.pdfdrive.com/handbook-of-usability-testing-howto-plan-design-and-conduct-effective-tests-e162411229.html) |
+| **Usability Inspection Methods** | Jakob Nielsen, Robert L. Mack |Step-by-step guidance on all important methods now in use, including the heuristic evaluation method, the pluralistic walkthrough method, the cognitive walkthrough method, and more. The first comprehensive, book-length work in the field of usability evaluation. Designed to get you quickly up and running with a full complement of UI strategies, tools, and techniques. | [Download](https://drive.google.com/file/d/1Spy1taKRnuRwBVILYIyOuBYNlcVtMwhB/view?usp=share_link) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **What is User Testing? - Learn UX - Keep It Usable** | KeepItUsable | User testing, aka usability testing, user research, UX testing… everyone’s talking about it, all the best companies are doing it, but what exactly is user testing? And why are your peers banging on about it so much? | [Read](https://www.keepitusable.com/blog/what-is-user-testing) |
+| **6 Simple Steps to Conduct User Testing Successfully** | Adam Fard | User testing, or usability testing, is a key component in designing, finalizing and launching a great digital product. It’s about detecting usability issues at any stage of the product development cycle with the aim of improving the overall user experience. | [Read](https://adamfard.com/blog/conduct-user-testing) |
+| **How to Conduct a Heuristic Evaluation** | Hsin-Jou Lin | Heuristic evaluation is a usability inspection method for finding problems in a design. It is a method of usability inspection that helps to find usability problems in a design. | [Read](https://uxplanet.org/how-to-conduct-heuristic-evaluation-85548a355dca) |
+| **Usability Testing 101** | Nielsen Norman Group | Usability testing is a method of evaluating a product by testing it on users. It is a common practice designed to find usability problems early in the development cycle. | [Read](https://www.nngroup.com/articles/usability-testing-101/) |
+| **8 Usability Testing Methods That Work** | HotJar | Usability testing is a powerful tool for evaluating a website's functionality and making sure people can navigate it efficiently. In this section, we explore different usability testing methods, when you should use them, and why. | [Read](https://www.hotjar.com/usability-testing/methods/) |
+| **Conducting an Heuristic Evaluation** | Olympia U. | Heuristic evaluation is a process where experts use rules of thumb to measure the usability of user interfaces in independent walkthroughs and report issues. | [Read](https://www.uxmatters.com/mt/archives/2009/03/conducting-an-heuristic-evaluation.php) |
+| **The A to Z of UX — H is for Heuristics: 9 steps to carry out a heuristic evaluation** | Darren Wilson | Heuristics are a well established and accepted list of UX principles used to assess how well a user interface has been designed for its intended purpose. | [Read](https://uxdesign.cc/the-a-to-z-of-ux-h-is-for-heuristics-9-steps-to-carry-out-a-heuristic-evaluation-a1f5225c4e83) |
+| **User & Usability Testing - Methods & Tips**| Adobe | What is user testing? User testing is a technique used in user-centered design to evaluate a proposed solution or product by testing it with real or potential users.  | [Read](https://xd.adobe.com/ideas/process/user-testing/) |
+| **Heuristic Evaluation: GoodReads, LibraryThing, Litsy** | Nóra Sárga | Heuristic evaluation is a great way to test and discover usability issues of your product and competitors’ as well. | [Read](https://uxplanet.org/heuristic-evaluation-goodreads-librarything-litsy-a3a4d8373255) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Uncovering Secrets of User Testing in 5 Minutes!** | Antony Conboy |In this video, you'll learn how to uncover secrets of user testing in just 5 minutes! User testing is an essential part of the user experience design process, and this video will teach you how to use it to your advantage. | [Watch](https://www.youtube.com/watch?v=CU_tfEGwit8) |
+| **You need to know Usability Testing (with Maze)** | DesignCourse | In this video, you'll learn how to conduct usability testing with Maze. Usability testing is a method of evaluating a product by testing it on users. It is a common practice designed to find usability problems early in the development cycle. | [Watch](https://www.youtube.com/watch?v=ID0fwi2q028) |
+| **Intro to Usability Testing and Heuristic Evaluations** | Yves Rannou | Learn about Intro to Usability Testing and Heuristic Evaluations. Yves Rannou, Professor @ Humber College. | [Watch](https://www.youtube.com/watch?v=-PxgUK9u3Rk) |
+| **Usability Testing Tips & Tools: Powerful UX Research Method** |ProjectUX | ProjectUX creator and UX Researcher Rob Andrews breaks down the process of usability testing with some specific tips and tools to help you with this powerful UX method of user research. | [Watch](https://www.youtube.com/watch?v=RyGFEmimwoM) |
+| **The 10 Usability Heuristics** | NNgroup | The 10 basic principles for designing a good user experience:  these have remained true for decades, since they were introduced for heuristic evaluation of user interfaces. | [Watch Playlist](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idtb2YeifXlG1-TYoMBLoG6I) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Tools
+| Title | Author | Description | Link | Free/Paid |
+| --- | --- | --- | --- | --- |
+| **Maze** | Maze | Maze is a usability testing platform that helps you get the most out of your user testing. | [Visit](https://maze.design/) | Free |
+| **UserTesting** | UserTesting | UserTesting is the world’s leading on-demand human insight platform. | [Visit](https://www.usertesting.com/) | Paid |
+| **UserZoom** | UserZoom | UserZoom is the leading provider of on-demand user experience research. | [Visit](https://www.userzoom.com/) | Free |
+| **Userlytics** | Userlytics | Userlytics is a user testing platform that helps you get the most out of your user testing. | [Visit](https://userlytics.com/) | Paid |
+| **Userfeel** | Userfeel | Userfeel is a user testing platform that helps you get the most out of your user testing. | [Visit](https://userfeel.com/) | Paid |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+### Information Architecture and Interaction Design
+> Information architecture (IA) is the practice of planning and structuring information in a way that makes it easy to find, use, and manage. Interaction design is the practice of designing interactive digital products, environments, systems, and services. Interaction design focuses on creating meaningful and relevant experiences between users and their products.
+
+#### Information Architecture
+> An information architecture is a document that provides an operational map to how a product acts and functions work for users. It's akin to a blueprint for digital products, and it displays pages, content, interactions, and behaviors for the entire product.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn about how information architecture works. |
+| **Understand** | Understand the importance of information architecture. |
+| **Apply** | Apply information architecture to your own projects. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Information Architecture: The Design and Integration of Information Spaces** | Wei Ding & Xia Lin | Information Architecture is about organizing and simplifying information, designing and integrating information spaces/systems, and creating ways for people to find and interact with information content. | [Download](https://www.pdfdrive.com/information-architecture-the-design-and-integration-of-information-spaces-synthesis-lectures-on-information-concepts-retrieval-and-services-e160952086.html) | 
+| **Information Architecture: For the Web and Beyond** | Louis Rosenfeld & Peter Morville & Jorge Arango | Information Architecture for the Web and Beyond is the first book to provide a comprehensive, practical, and accessible introduction to the field of information architecture. | [Download](https://www.pdfdrive.com/information-architecture-for-the-web-and-beyond-e158738770.html) |
+| **Information Architecture for the World Wide Web** | Peter Morville  | Information architecture (IA) is far more challenging—and necessary—than ever. With the glut of information available today, anything your organization wants to share should be easy to find, navigate, and understand | | [Download](https://repo.zenk-security.com/Others/Information%20Architecture%20For%20The%20World%20Wide%20Web.pdf) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **A Beginner's Guide To Information Architecture in UX [2023]** |  Pia Kluncar | If you’ve heard about UX design, you’ve probably come across information architecture, or as it’s often written for short ‘IA’. | [Read](https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/) |
+| **Information Architecture Guide for UX Architects & Designers** | Nick Babich | If you want to build a great house, the person to call is an architect. We all know this, but architecture applies not only to traditional buildings but also to the information space. | [Read](https://xd.adobe.com/ideas/process/information-architecture/information-ux-architect/) |
+| **The UX Process for Information Architecture** | James Pikover |  Learn about information architecture—how designers and product managers build an IA using design principles, as well as IA tools and best practices. | [Read](https://www.toptal.com/designers/ia/guide-to-information-architecture) |
+| **Information Architecture. Basics for Designers.** | Tubik | The World Wide Web contains a tremendous amount of information which is hard to imagine unstructured because a human brain wouldn’t be able to perceive any single thing. | [Read](https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20) |
+| **Information Architecture Design: A Step-By-Step Guide** | Nick Babich | Information architecture is a discipline that focuses on organizing information within digital products clearly and logically. It helps users answer the question, “Where can I find the information I’m looking for?” | [Read](https://uxplanet.org/information-architecture-design-a-step-by-step-guide-41dcd4405ee3) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **A Beginner’s Guide To Information Architecture** | Toptal | In this video, you'll find a comprehensive introduction to information architecture. Learn exactly what information architecture is and why it's so important, and discover an easy-to-follow process for defining the information architecture of your website. | [Watch](https://www.youtube.com/watch?v=Ij4WquJaRTc) |
+| **What Is Information Architecture? (UX Design Guide)** | CareerFoundry | In this video, Maureen will give you an introduction to information architecture, as well as detailing the three key components to good information architecture: the user, the content, and the context. | [Watch](https://www.youtube.com/watch?v=OJLfjgVlwDo) |
+|  **Information Architecture (IA)** | NNgroup | In this video, you'll learn about information architecture (IA), a discipline that focuses on organizing information within digital products clearly and logically. | [Watch Playlist](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idv3UGVmUktgRrVbl0X45RTY) |
+| **Information Architecture & Sketching for UI/UX Projects** | Maddy Beard | I go through my process for determining important touch-points, putting together the information architecture for the app, and starting to sketch the important flows. | [Watch](https://www.youtube.com/watch?v=CkQ3q0gewrQ) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+#### Interaction Design
+> Interaction Design (IxD) is the design of interactive products and services in which a designer's focus goes beyond the item in development to include the way users will interact with it. Thus, close scrutiny of users' needs, limitations and contexts, etc. empowers designers to customize output to suit precise demands.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn about how interaction design works. |
+| **Understand** | Understand the importance of interaction design. |
+| **Apply** | Apply interaction design to your own projects. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **About Face: The Essentials of Interaction Design** | Alan Cooper | The essential interaction design guide, fully revised and updated for the mobile age About Face: The Essentials of Interaction Design, Fourth Edition is the latest update to the book that shaped and evolved the landscape of interaction design. | [Download](https://www.pdfdrive.com/wiley-about-face-the-essentials-of-interaction-design-4th-e31675467.html) |
+| **Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences (Voices That Matter)** | Stephen P. Anderson | What happens when you’ve built a great website or app, but no one seems to care? How do you get people to stick around long enough to see how your service might be of value? | [Download](https://drive.google.com/file/d/1sEif_ND5rYq0wkCxJBAbmKr3hFY1De38/view?usp=share_link) |
+| **Interaction Design: Beyond Human-Computer Interaction** | Helen Sharp & Jenny Preece & Yvonne Rogers | Interaction Design: Beyond Human-Computer Interaction is a comprehensive introduction to the field of interaction design. | [Download](https://www.pdfdrive.com/interaction-design-beyond-human-computer-interaction-e190044261.html) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **What is Interaction Design?** | Interaction Design Foundation | Interaction design is an important component within the giant umbrella of user experience (UX) design. In this article, we’ll explain what interaction design is, some useful models of interaction design, as well as briefly describe what an interaction designer usually does. | [Read](https://www.interaction-design.org/literature/article/what-is-interaction-design) |
+| **Complete Beginner’s Guide to Interaction Design** | UX Booth | Interaction design has its origins in web and graphic design, but has grown into a realm of its own. Far from merely working with text and pictures, interaction designers are now responsible for creating every element on the screen that a user might swipe, click, tap, or type: in short, the interactions of an experience. | [Read](https://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/?ref=hackdesign) |
+| **What is Interaction Design?** | UX Pin | Interaction design is a specialized discipline within UX design. Where UX looks at the entire user experience and how everything ties together to create a cohesive experience, interaction design focuses on the interactions between the user and the product. | [Read](https://www.uxpin.com/studio/blog/interaction-design-its-origin-and-principles/) |
+| **What Is Interaction Design in UX Development?** | Indeed  | Interaction design (IxD) is a connection between a product and the user. The role of interaction design is to give users information concisely and efficiently to help them accomplish their goals.  | [Read](https://www.indeed.com/career-advice/career-development/what-is-interaction-design) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Basics of Interaction Design** | CareerFoundry | In this video, you'll learn about the basics of interaction design. You'll learn about the different types of interaction design, the different types of interaction design roles, and the different types of interaction design tools. | [Watch](https://www.youtube.com/watch?v=U7rS_2ch_Ps) |
+| **What is Interaction Design** | Jamal | In this video, I give a very basic overview of what Interaction Design is in a UX context. | [Watch](https://www.youtube.com/watch?v=KWtWqbJSP5E) |
+| **User Experience Design vs Interaction Design** | Club UX | There’s a lot of common area between the two fields, and both of the design disciplines strives to improve overall User Experience with a product/service.  | [Watch](https://www.youtube.com/watch?v=UsV_UBkiKSk)|
+| **What is Interaction Design? Learn Interaction Design in Product Design like a Pro!** | Design Pilot | In this tutorial, we will learn about Interaction Design for Mobile Apps and get into the core basics and depth of what Interaction Design is. | [Watch](https://www.youtube.com/watch?v=DlQ75eTM_AM) |
+| **Interaction Design and Tasks** | Udacity | In this video, you'll learn about the basics of interaction design. You'll learn about the different types of interaction design, and how to design for tasks. | [Watch](https://www.youtube.com/watch?v=_vsbkvm1w4w) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+#### Microinteractions
+> Microinteractions are the building blocks of a user’s experience. They are the small, discrete interactions that occur within a larger system. 
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn about how microinteractions work. |
+| **Understand** | Understand the importance of microinteractions. |
+| **Apply** | Apply microinteractions to your own projects. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Microinteractions: Full Color Edition: Designing with Details** | Dan Saffer | Microinteractions is a book about the details of interaction design. It’s about the small, seemingly insignificant moments that make up the experience of using a product. | [Download](https://www.pdfdrive.com/microinteractions-full-color-edition-designing-with-details-e167843495.html) |
+| **Designing Interface Animation: Improving the User Experience** | Val Head | Designing Interface Animation is a practical guide to creating animation for user interfaces. It covers the entire process of creating animation, from the initial concept to the final implementation. | [Download](https://drive.google.com/file/d/1bUd0fwdFvMkRU6DhJhSKQ5nnls-0M1mK/view?usp=share_link) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Better UX Through Microinteractions** | Ondřej | Microinteractions are single interactive moments in a product that enhance the workflow and make a product more enjoyable. This article highlights key parts of microinteractions and patterns. | [Read](https://www.toptal.com/designers/product-design/microinteractions-better-ux) |
+| **10 Micro-interactions Examples and How They Boost UX** | Jeff Cardello | Micro-interactions let visitors take action and guide them through the things you want them to accomplish. | [Read](https://www.vev.design/blog/micro-interaction-examples/) |
+| **Microinteractions in User Experience** | Alita Joyce | Microinteractions convey system status, support error prevention, and communicate brand. They are initiated by a trigger, are single-purpose, and can make the experience engaging. | [Read](https://www.nngroup.com/articles/microinteractions/) |
+| **The power of microinteractions in UX design** | ShapingDesign | Microinteractions can help craft a more engaging experience, while providing users with feedback and a sense of satisfaction. | [Read](https://www.editorx.com/shaping-design/article/microinteractions-ux-design) |
+| **How Micro Interactions have become an essential part of great products.** | Prayag Gangadharan | The world of User Experience design is growing fast, everyone wants their user to have the best experience. There are many ways to improve the user experience, including defining personas, well-structured information architecture and thoughtful written content. | [Read](https://uxplanet.org/how-micro-interactions-have-become-an-essential-part-of-great-products-2ac8e02b5f2) |
+| **Micro-interactions: why, when and how to use them to improve the user experience** | Vamsi Batchu | Micro-interactions are events which have one main task — a single purpose — and they’re found all over your device and within apps. Their purpose is to delight the user; to create a moment that is engaging, welcoming and, dare we say it — human. | [Read](https://uxdesign.cc/micro-interactions-why-when-and-how-to-use-them-to-boost-the-ux-17094b3baaa0) |
+| **Creating meaningful micro-interactions** | Denislav Jeliazkov | While design solves universal problems, micro-interactions are the delightful moments your users have while using the product. | [Read](https://uxplanet.org/creating-meaningful-micro-interactions-99cbde1fbee7) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Micro-interactions in Figma under 9 mins-UI Animation Series - 09** | Design with Aashish | In this video of the UI Animation series, we'll create 2 micro-interactions inside Figma. | [Watch](https://www.youtube.com/watch?v=l0EkLsZiWUg) |
+| **Awesome Micro Animations With Figma Tutorial** | developedbyed | In this video, I will show you how to create awesome micro animations with Figma. | [Watch](https://www.youtube.com/watch?v=0YIovQXnwBY) |
+| **How to create complex micro interactions in Figma!** | Kimo | In one of my previous videos, I showed some examples of micro-interactions with smooth and complex animations. in this video, I will remake one of them to show how you can do it in Figma. | [Watch](https://www.youtube.com/watch?v=moLF7t3HwYk) |
+| **UI Animation Series in Figma** |  | In this video, you'll learn about the basics of interaction design. You'll learn about the different types of interaction design, and how to design for tasks. | [Watch Playlist](https://www.youtube.com/playlist?list=PLtU8M9giqjPuObPhJrS6z54hMEZRZfws3) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 
 
