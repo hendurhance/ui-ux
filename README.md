@@ -1226,7 +1226,37 @@ E --> R[Design Critique]
 > In this section, we will be covering advanced design topics such as design systems, design thinking, virtual reality/augmented reality, and more. At the end of this section, you will be confident in your design skills and ready to apply for your dream design job 🎉💲.
 > **Note:** This section is for those who are looking to take their design skills to the next level. If you are just starting out, I recommend you start with the Beginner and Intermediate sections.
 
+<div align="center"> <h4> Intermediate Level - Curriculum</h4> </div>
 
+``` mermaid
+graph LR
+A[Expert Level] --> B((Advanced Design Techniques))
+A --> C((Emerging Technologies))
+A --> D((UX Strategy))
+A --> E((Portfolio Development))
+A --> F((Career Development))
+
+B --> G([Designing for Accessibility])
+B --> H([Designing for Internationalization])
+B --> I([Design Systems])
+
+C --> J([Voice User Interface Design])
+C --> K([Virtual and Augmented Reality Design])
+C --> L([Designing for AI and Machine Learning])
+
+D --> M([User Research and Analysis])
+D --> N([Information Architecture and Content Strategy])
+D --> O([Design Sprints and Innovation])
+
+E --> P([Building a UX/UI Design Portfolio])
+E --> Q([Case Studies and Presentations])
+
+F --> R([Job Search and Interviewing])
+F --> S([Freelancing and Entrepreneurship])
+F --> T([Professional Development and Networking])
+```
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 
 
