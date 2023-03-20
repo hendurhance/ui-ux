@@ -4,7 +4,7 @@
 
 This repository contains a curated list of resources to help you learn about User Interface and User Experience design. The learning guide is divided into three levels: Basics, Intermediate, and Advanced, and includes a wide range of resources such as articles, tutorials, videos, and courses. Whether you're just starting out or looking to expand your knowledge, this guide has something for everyone. So, come explore and enhance your skills in UI/UX design! 🎨
 
-`&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 # Table of Contents
 - **[Beginner Level](#beginner-level)**
@@ -39,7 +39,6 @@ This repository contains a curated list of resources to help you learn about Use
       * [High-Fidelity Prototyping](#high-fidelity-prototyping)
     * [Design Thinking](#design-thinking)
       * [Design Thinking Process](#design-thinking-process)
-      * [Ideation and Brainstorming](#ideation-and-brainstorming)
       * [Design Critique](#design-critique)
 - **[Expert Level](#expert-level)**
     * [Advanced Design Techniques](#advanced-design-techniques)
@@ -601,6 +600,8 @@ E --> P([Layout and Composition])
 <div align="center"> <h4> Intermediate Level - Curriculum</h4> </div>
 
 ``` mermaid
+graph LR
+
 A[Intermediate Level] --> B((User Research))
 A --> C((Information Architecture and Interaction Design))
 A --> D((Prototyping))
@@ -619,8 +620,7 @@ D --> M[Prototyping]
 D --> N[Wireframing and Low-Fidelity Prototyping]
 D --> O[High-Fidelity Prototyping]
 
-E --> P[Design Thinking]
-E --> Q[Ideation and Brainstorming]
+E --> P[Design Thinking Process]
 E --> R[Design Critique]
 ```
 
@@ -628,5 +628,185 @@ E --> R[Design Critique]
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 &nbsp;&nbsp;&nbsp;
+
+### User Research
+> User research is the process of gathering information about your users. It is a critical step in the design process. It helps you understand your users, their needs, and how to solve their problems.
+
+#### Introduction to User Research
+> We will look into the importance of user research, the different types of user research, and how to conduct user research.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn the importance of user research, the different types of user research, and how to conduct user research. |
+| **Understand** | Understand how user research helps you understand your users, their needs, and how to solve their problems. |
+| **Apply** | Apply the concepts you learnt in this section to your design process. |
+| **Practice** | Practice conducting user research by conducting user research on a product you use. |
+| **Reflect** | Reflect on the user research you conducted and how you can use the information you gathered to improve the product. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Think Like a UX Researcher: How to Observe Users, Influence Design, and Shape Business Strategy** | David Travis & Philip Hodgson | Think Like a UX Researcher will challenge your preconceptions about user experience (UX) research and encourage you to think beyond the obvious. You’ll discover how to plan and conduct UX research, analyze data, persuade teams to take action on the results and build a career in UX. | [Download](https://www.pdfdrive.com/think-like-a-ux-researcher-how-to-observe-users-influence-design-and-shape-business-strategy-e192305226.html) |
+| **Researching UX: User Research** |James Lang & Emma Howell | How well do you really know your users? With properly conducted user research, you can discover what really makes your audience tick. | [Download](https://www.pdfdrive.com/researching-ux-user-research-e196802418.html) |
+| **Quantifying the User Experience. Practical Statistics for User Research** | Jeff Sauro & James R Lewis | The book presents a practical guide on how to use statistics to solve common quantitative problems that arise in user research. It addresses questions such as: How do I know if my results are statistically significant? How do I know if my results are reliable? How do I know if my results are valid? | [Download](https://www.pdfdrive.com/quantifying-the-user-experience-practical-statistics-for-user-research-e185366686.html) |
+| **Observing the User Experience, Second Edition: A Practitioner's Guide to User Research** | Elizabeth Goodman & Mike Kuniavsky & Andrea Moed | Observing the User Experience is a practical guide to conducting user research in the field. It provides a step-by-step approach to planning and conducting user research, and includes a wealth of examples and case studies. | [Download](https://www.pdfdrive.com/observing-the-user-experience-second-edition-a-practitioners-guide-to-user-research-e159311671.html) |
+| **Starter questions for User research interviews** | Sarah Doody | This book is a collection of starter questions for user research interviews. | [Download](https://projects.iq.harvard.edu/files/harvarduxgroup/files/ux-research-guide-sample-questions-for-user-interviews.pdf) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Introduction To UX Research ( User Research)** | UX Planet | User Research focuses on understanding user behaviours, needs, and motivations through interviews, surveys, usability evaluations and other feedback methods. | [Read](https://uxplanet.org/introduction-to-ux-research-user-research-a2f27a6413ff) |
+| **The UX Research Methods You Need To Know** | CareerFoundry | As we know, UX research is all about gathering insights that can be used to inform the design process. Different research methods will uncover different insights. | [Read](https://careerfoundry.com/en/tutorials/ux-research-for-beginners/an-introduction-to-ux-research-methods/) |
+| **Complete Beginner's Guide to UX Research** | UX Booth | In an industry devoted to the people who use our products, services, and applications, research is paramount. We ask questions. We take notes. We learn everything we can about the target audience, and then iteratively test our work throughout the design process. | [Read](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/) |
+| **Intro to UX research** | Optimal Workshop | User research is a critical part of the design process. It helps you understand your users, their needs, and how to solve their problems. | [Read](https://blog.optimalworkshop.com/intro-to-ux-research/) |
+| **What is User Research?** | Interaction Design Foundation | User research is the methodic study of target users—including their needs and pain points—so designers have the sharpest possible insights to work with to create a product or service that meets those needs. | [Read](https://www.interaction-design.org/literature/topics/user-research) |
+| **User Research Introduction** | Brad Dalrymple | Research can be intimidating, especially if you’re new to it. Here are a few things to help you understand the basics! | [Reading List](https://medium.com/user-research/user-research-introduction-126ce1e4e546) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **What is UX Research?** | Google | The goal of UX research is to prioritize the user and help bridge the gap between what a business thinks the user needs and what the user actually needs, before an expensive and time-consuming product is made.| [Watch](https://www.youtube.com/watch?v=kQ_6faxhyIw) |
+| **UX Research - Get Started With Qualitative User Research (2023)** | CareerFoundry | User research is a vital part of the UX design process. It influences design solutions and the entire product development process! In this video we’ll give you an intro to user research and show you how to conduct amazing user interviews! | [Watch](https://www.youtube.com/watch?v=bAARmsv1tms) |
+| **Great Design With User Research - Design a Mobile App Using Figma** | freeCodeCamp | In this video, we will be designing a mobile app using Figma. We will be using user research to inform our design decisions. | [Watch](https://www.youtube.com/watch?v=YD0egXpd-Y0) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Tools
+| Title | Description | Link | Free/Paid |
+| --- | --- | --- | --- |
+| **UXtweaks** | The only UX research platform you need. Conduct UX research where users complete specific tasks directly on your web.  | [Visit](https://www.uxtweak.com/) | Free |
+| **Hotjar** | "Hotjar is a critical tool for us to understand our users and identify any pain points where they might be getting stuck. | [Visit](https://www.hotjar.com/) | Free |
+| **UserTesting** | UserTesting is a platform for conducting user research. It helps you find the right users, conduct interviews, and analyze the results. | [Visit](https://www.usertesting.com/) | Paid |
+| **Userbrain** | Userbrain shows you what's working for your product — and what's not. A simple tool that lets you create a user test in minutes and get results in just a few hours. | [Visit](https://userbrain.com/) | Paid |
+| **UserZoom** | UserZoom is a platform for conducting user research. It helps you find the right users, conduct interviews, and analyze the results. | [Visit](https://www.userzoom.com/) | Free |
+| **UsabilityHub** | UsabilityHub is a remote user research platform that takes the guesswork out of design decisions by validating them with real users. | [Visit](https://usabilityhub.com/) | Free |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+#### Creating User Personas
+> User personas are fictional characters that represent your target users. They are based on real data and are used to help you design better products and services.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn what user personas are and why they are important. |
+| **Understand** | You need to understand your users and their needs. |
+| **Design** | You need to design a product or service that meets your users' needs. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+##### Books
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Personas - User Focused Design** | Lene Nielsen |Personas, a user centered design methodology covers topics from interaction design within IT, through to issues surrounding product design, communication, and marketing. |[Download](https://www.pdfdrive.com/personas-user-focused-design-e189850627.html/) |
+| **UX Strategy: How to Devise Innovative Digital Products that People Want** | Jaime Levy | Define and validate your target users through provisional personas and customer discovery techniques. | [Download](https://www.pdfdrive.com/ux-strategy-how-to-devise-innovative-digital-products-that-people-want-e158608997.html) |
+| **Modeling Users: Personas and Goals** | Alan Cooper | Cooper's book is a must-read for anyone who wants to understand the importance of personas and how to create them. | [Download](http://www.cs.cmu.edu/~jhm/Readings/cooper_personas.pdf) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Personas – A Simple Introduction** | Interaction Design Foundation | Personas are fictional characters that represent your target users. They are based on real data and are used to help you design better products and services. | [Read](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them) |
+| **What Are User Personas and Why Are They Important?** | Adobe | User personas are archetypical users whose goals and characteristics represent the needs of a larger group of users. Usually, a persona is a composite of several real users. | [Read](https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/) |
+| **How to Define a User Persona** | CareerFoundry | As you break into a career in UX, user personas are one tool you’ll certainly want to have available as you gather user research and find design solutions to solve problems and create more human-friendly products and experiences. | [Read](https://careerfoundry.com/en/blog/ux-design/how-to-define-a-user-persona/) |
+| **Introduction to Developing User Personas** |  Judit Kertesz | You can create the best service with the most modern technology, but if you do not understand the user’s preferences and desires, our efforts towards creating the best service are easily lost. | [Read](https://miro.com/blog/introduction-user-personas/) |
+| **What Are User Personas? How to Create Personas in 4 Steps** | Louis Grenier | Developing an accurate picture of your customers doesn’t need to cost you large amounts of money and effort. | [Read](https://uxplanet.org/how-to-create-user-personas-2f9d5e3a0e2b) |
+| **An Overview of User Personas** | UX Planet |  Personas help product teams with exactly that: to understand, empathize with, and design for their target users, thereby putting faces to people they are designing for. | [Read](https://uxplanet.org/an-overview-of-user-personas-b26e9c543be5) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Intro to Personas in UX Design** | Jamal Nichols | In this video, we’ll cover what personas are, why they’re important, and how to create them. | [Watch](https://www.youtube.com/watch?v=An2qbKbyY6g) |
+| **What are Personas?** | CareerFoundry | What are personas and why are they so crucial to the design process? Explore the different types of personas, as well as how to create and make use of them, in this topic definition video from UX expert William Hudson. | [Watch](https://www.youtube.com/watch?v=XnG4c4gXaQY) |
+| **How To Create A User Persona (Video Guide)** | CareerFoundry | In this video, we’ll walk you through the process of creating a user persona. | [Watch](https://www.youtube.com/watch?v=DvV7ZcRVQ4g) |
+| **Creating Personas for User Experience Research** | PlaybookUX | We’ll cover the basics of personas, how to create them, and how to use them in your research. | [Watch](https://www.youtube.com/watch?v=u44pBnAn7cM) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Tools
+| Title | Description | Link | Free/Paid |
+| --- | --- | --- | --- |
+| **User Forge** |  User Forge provides a lot of freedom to add your own criteria than other persona generators in the market. It is a collaborative tool with an excellent UI which makes the process of generating personas much easier. | [Visit](https://userforge.com/) | Free |
+| **Xtensio** | User Personas represent real, living and breathing people who will engage with your product. While individuals featured on a persona are technically hypothetical, the information on the document should not be hypothetical. | [Visit](https://xtensio.com/how-to-create-a-persona/) | Free |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+
+#### User Journey Mapping
+> User journey mapping is a process of mapping out the steps a user takes to complete a task or achieve a goal. It is a visual representation of the user’s experience with a product or service. It
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn what user journey mapping is and why it is important. |
+| **Understand** | You need to understand concepts like site mapping, user flow, and user journey |
+| **Implement** | You need to implement journey mapping in your project. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams** | James Kalbach | Customers who have inconsistent, broken experiences with products and services are understandably frustrated. | [Download](https://www.pdfdrive.com/mapping-experiences-a-complete-guide-to-creating-value-through-journeys-blueprints-and-diagrams-e188172335.html) |
+| **User Journey Mapping** | Stephanie Walter | User journey map is a powerful asset that's used to understand how people use our products. It is an essential tool for building websites, applications, and services. | [Download](https://drive.google.com/file/d/1fRiKD6HDCmDt9gT0zcxClHIuqkA7UboU/view?usp=share_link) |
+
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **User journey map** | Optimizely | A user journey map (also known as a customer journey map) is a diagram that visually illustrates the user flow through your site, starting with initial contact or discovery, and continuing through the process of engagement into long-term loyalty and advocacy. | [Read](https://www.optimizely.com/optimization-glossary/user-journey-map/) |
+| **Journey Mapping 101** | Nielsen Norman Group | Journey mapping is a process that provides a holistic view of the customer experience by uncovering moments of both frustration and delight along the way. | [Read](https://www.nngroup.com/articles/journey-mapping-101/) |
+| **A Beginner's Guide To User Journey Mapping** | Nick Babich | ‘How do people actually use our product?’ is a fundamental question that every product creator must answer. In order to answer this question, product designers need to understand the essence of the whole experience from the user’s perspective. | [Read](https://marvelapp.com/blog/beginners-guide-user-journey-mapping/) |
+| **What are User Flows in User Experience (UX) Design?** | Camren Browne | The concept of flow in UX design was first coined by the psychologist Mihaly Csikszentmihalyi. He deemed it a highly focused mental state where the user is fully immersed in what they are doing and the task they aim to accomplish. | [Read](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/) |
+| **How to create a UX Sitemap: a simple guideline** | Jennifer Jhang | Sometimes UX design requires the perspective of a kid, full of curiosity, to find new heights. By creating a UX sitemap, you’ll be able to take an early glance at your website or application from the tree tops. Let’s look at the what, when, how, and why of UX sitemaps. | [Read](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1) | 
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Title | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Customer Journey Mapping 101** | NNgroup | The 5 components of a journey map and the benefits of using this qualitative method as part of a UX design process to discover, document, and share the bigger picture of what users want. | [Watch](https://www.youtube.com/watch?v=2W13ext26kQ) |
+| **How to make a User Journey Map** | Mallory Dean | Hey guys! I hope you enjoy today's video about how to make a user journey map. This is one of my favorite tools to utilize at the beginning stages of a project. Journey mapping is all about visualizing a narrative for a selective actor or user group in your product. | [Watch](https://www.youtube.com/watch?v=3Tge09u8RQ8) |
+| **Customer Journey Map Workshop** | PlaybookUX | In this video, we’ll walk you through the process of creating a user journey map. | [Watch](https://www.youtube.com/watch?v=X7iXcP-wIkk) |
+| **Customer Journey Mapping Tutorial** | Jesper Lowgren | In this video, I teach you the basics of customer journey mapping, followed by a tutorial. This is one of the most powerful techniques you can use to dramatically improve the customer experience and the performance of your business. | [Watch](https://www.youtube.com/watch?v=3iwL2OEeWiw) |
+| **How to do User Story Mapping** | UXClub | A practical guide of how to do user story mapping. In this lesson we'll be covering how you can get the stories from your product backlog ready for software development. | [Watch](https://www.youtube.com/watch?v=k_4SchJgAI4) |
+| UX Design - Why you NEED to know User Flows! | DesignCourse | Today, we're stepping into the world of UX design and we're going to tackle a common task: creating a user flow diagram. In this video, I'll address the what, why and how of ux design flows. I will also create my own user flow for the upcoming relaunch of DesignCourse.com so that you can see a user flow constructed in a real-world context. | [Watch](https://www.youtube.com/watch?v=4uHxJMCzeGg) | 
+| **Create User Flow Diagrams From Customer Journey Maps** | Headway | Learn how to create user flow diagrams from customer journey maps in the UX design process with Billy, Head of Design at Headway. | [Watch](https://www.youtube.com/watch?v=pcCUP23X9g8) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Tools
+| Title | Description | Link | Free
+| --- | --- | --- | --- |
+| **Whimsical** | Whimsical is a collaborative whiteboard tool that helps teams visualize and plan projects. | [Visit](https://whimsical.com/) | ✅ |
+| **Miro** | Miro is a collaborative whiteboard platform that enables teams to work together visually. | [Visit](https://miro.com/) | ✅ |
+| **Figjam** | Figjam is a collaborative design tool that helps teams create, test, and iterate on ideas together. | [Visit](https://www.figma.com/figjam/) | ✅ |
+| **Lucidchart** | Lucidchart is a visual workspace that combines diagramming, data visualization, and collaboration. | [Visit](https://www.lucidchart.com/) | ✅ |
+| **Cacoo** | Cacoo is a collaborative diagramming tool that helps teams work together visually. | [Visit](https://cacoo.com/) | ✅ |
+| **Drawio** | Draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. | [Visit](https://app.diagrams.net/) | ✅ |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+
+
+
+
+
+
+<!--  -->
+
+
+
 
 <!--  -->
