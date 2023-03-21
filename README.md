@@ -2,13 +2,13 @@
 ![UI/UX Design Learning Guide](/images/thumbnail.png)
 > Roadmap to becoming a UI/UX Designer
 
-This repository contains a curated list of resources to help you learn about User Interface and User Experience design. The learning guide is divided into three levels: Beginner, Intermediate, and Expert, and includes a wide range of resources such as articles, tutorials, videos, and courses. Whether you're just starting out or looking to expand your knowledge, this guide has something for everyone. So, come explore and enhance your skills in UI/UX design! 🎨
+This repository contains a curated list of resources to help you learn about User Interface and User Experience design. The learning guide is divided into three levels: Beginner, Intermediate, and Expert, and includes a wide range of resources such as articles, tutorials, videos, and courses. Whether you're just starting or looking to expand your knowledge, this guide has something for everyone. So, come explore and enhance your skills in UI/UX design! 🎨
 
 &nbsp;&nbsp;&nbsp;
 
 <div align="center"> <h3>Overview</h3>
 <summary> 
-  <p> 📚 A comprehensive user interface and user experience learning resource for beginners, intermediates and experts . </p>
+  <p> 📚 A comprehensive user interface and user experience learning resource for beginners, intermediates and experts. </p>
 
   [![View ui-ux on GitHub](https://img.shields.io/github/stars/hendurhance/ui-ux?color=232323&label=ui-ux&logo=github&labelColor=232323)](https://github.com/hendurhance/ui-ux/) [![Author hendurhance](https://img.shields.io/badge/hendurhance-blue?labelColor=000000&logo=githubsponsors&logoColor=fff)](https://github.com/hendurhance) [![License: Creative Commons Zero v1.0 Universal](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Twitter](https://img.shields.io/twitter/follow/hendurhance?style=social)](https://twitter.com/hendurhance) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hendurhance/) [![Donate](https://img.shields.io/badge/Donate-Flutterwave-blue.svg)](https://barter.me/hendurhance) [![Donate](https://img.shields.io/badge/Donate-Payday-blue.svg)](https://usepayday.me/hendurhance) 
   <a href='https://github.com/hendurhance/ui-ux/tree/%40deprecated-2021-resource' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Old_ Learning Guide Version-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=grey&color=black'/></a>
@@ -139,7 +139,7 @@ E --> P([Layout and Composition])
 | **What is UX Design?** | UX Planet | UX Design primarily focuses on understanding and improving the interaction users have with a tool or product. | [Read](https://uxplanet.org/what-is-ux-design-bb02fc45aba5) |
 | **What is user experience (UX) design?** | UsabilityHub | Learn all about UX design, and the skills you need to become a UX designer, in this comprehensive guide. | [Read](https://usabilityhub.com/blog/what-is-user-experience-design) |
 | **What is User Experience (UX) Design?** | Interaction Design Foundation| User experience (UX) design is the process design teams use to create products that provide meaningful and relevant experiences to users. | [Read](https://www.interaction-design.org/literature/topics/ux-design) |
-| **An Introduction to User Experience Design** | Ben Ralph | The deceptively tricky challenge of designing for user behaviour | [Read](https://medium.com/beakerandflint/an-introduction-user-experience-design-2a7f8167bf03)
+| **An Introduction to User Experience Design** | Ben Ralph | The deceptively tricky challenge of designing for user behavior | [Read](https://medium.com/beakerandflint/an-introduction-user-experience-design-2a7f8167bf03)
 | **Laws of UX** | Laws of UX | Laws of UX is a collection of 100+ UX laws, principles, and patterns for designing better digital products. | [Read](https://lawsofux.com/) |
 | **UI, UX: Who Does What? A Designer’s Guide To The Tech Industry.** | Lo Min Ming | This article will help you understand the difference between UI and UX design, and how they work together to create a great user experience. | [Read](https://www.fastcompany.com/3032719/ui-ux-who-does-what-a-designers-guide-to-the-tech-industry) |
 | **An Introduction to User Experience Design.**  | HackDesign Authors |You'll get an idea of how designers think, and how diverse the design disciplines are.  | [Reading List](https://hackdesign.org/lessons#user-experience) |
@@ -592,10 +592,10 @@ E --> P([Layout and Composition])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Project Tasks #1
-- Project: Redesign the following dribbble shots using the concepts you learnt in this section `Beginner Level`
+- Project: Redesign the following dribbble shots using the concepts you learned in this section `Beginner Level`
     * [#Exploration - Fashion Website](https://dribbble.com/shots/14836845--Exploration-Fashion-Website)
     * [#Exploration - E-commerce Website](https://dribbble.com/shots/14865120--Exploration-More-Screens-Fashion-Mobile-App)
-- Create an auto layout, style guide, typography, and color palette for a the design you created above. 
+- Create an auto layout, style guide, typography, and color palette for a design you created above. 
 
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -1224,16 +1224,16 @@ E --> R[Design Critique]
 
 
 - **Project Two: Redesign [Fitness Mobile App](https://www.behance.net/gallery/120589209/Fitness-Mobile-App)**
-    * Task One : Identify the user experience problems with the current design
-    * Task Two : Analyze these problems and identify the root causes
-    * Task Three : Perform a competitive analysis to identify the strengths and weaknesses of the current design
-    * Task Four : Create a user journey map to identify the user's pain points and opportunities for improvement
-    * Task Five : Develop an information architecture that organizes the app's content in a logical and user-friendly way, apply the principles of interaction design to create intuitive and engaging user interactions, such as animations and feedback
-    * Task Six : Create a low-fidelity prototype using Figma/Adobe XD
-    * Task Seven : Identify opportunities for microinteractions that enhance the user experience, such as providing feedback on completed workouts or congratulating the user on reaching their goals
+    * Task One: Identify the user experience problems with the current design
+    * Task Two: Analyze these problems and identify the root causes
+    * Task Three: Perform a competitive analysis to identify the strengths and weaknesses of the current design
+    * Task Four: Create a user journey map to identify the user's pain points and opportunities for improvement
+    * Task Five: Develop an information architecture that organizes the app's content in a logical and user-friendly way, and apply the principles of interaction design to create intuitive and engaging user interactions, such as animations and feedback
+    * Task Six: Create a low-fidelity prototype using Figma/Adobe XD
+    * Task Seven: Identify opportunities for micro-interactions that enhance the user experience, such as providing feedback on completed workouts or congratulating the user on reaching their goals
     * Task Eight: Conduct a design critique session with a friend or family member
-    * Tasks Nine: Iterate on the design based on user feedback and refine the create the high-fidelity prototype using Figma/Adobe XD
-    * Tasks Ten: Create a presentation that explains the design process and the design decisions you made
+    * Task Nine: Iterate on the design based on user feedback and refine the create the high-fidelity prototype using Figma/Adobe XD
+    * Task Ten: Create a presentation that explains the design process and the design decisions you made
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -1454,7 +1454,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Books
-| Book | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Designing Voice User Interfaces: Principles of Conversational Experiences** | Cathy Pearl | Voice user interfaces (VUIs) are becoming all the rage today. But how do you build one that people can actually converse with? Whether you’re designing a mobile app, a toy, or a device such as a home assistant, this practical book guides you through basic VUI design principles, helps you choose the right speech recognition engine, and shows you how to measure your VUI’s performance and improve upon it. | [Download](https://www.pdfdrive.com/designing-voice-user-interfaces-principles-of-conversational-experiences-e158140592.html) |
 | **Voice User Interface Design: Moving from GUI to Mixed Modal Interaction** | Ritwik Dasgupta | Design and implement voice user interfaces. This guide to VUI helps you make decisions as you deal with the challenges of moving from a GUI world to mixed-modal interactions with GUI and VUI. | [Read](https://www.pdfdrive.com/voice-user-interface-design-moving-from-gui-to-mixed-modal-interaction-e184731898.html) |
@@ -1463,7 +1463,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Articles
-| Article | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **A Definitive Guide to Voice User Interface Design** | Mert Aktas | When we stop for a moment and think about how popular voice-controlled devices and virtual assistants have become, it is only necessary to look deeper into the VUI design and learn more. | [Read](https://userguiding.com/blog/voice-user-interface/) |
 | **What are Voice User Interfaces?** | Interaction Design Foundation | Voice user interfaces (VUIs) allow the user to interact with a system through voice or speech commands. Virtual assistants, such as Siri, Google Assistant, and Alexa, are examples of VUIs. | [Read](https://www.interaction-design.org/literature/topics/voice-user-interfaces) |
@@ -1476,7 +1476,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Videos
-| Video | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **The Voice Design Process For Voice User Interfaces (VUIs)** | CareerFoundry | If you’ve found yourself wondering where to begin the Voice Design Process, you’ve come to the right place! Since voice interface design is so rapidly evolving, there aren’t many resources out there for a clear process or path to designing voice interactions.  | [Watch](https://www.youtube.com/watch?v=8OXN0ZDpwrM) |
 | **How to Improve Voice User Interface Design** | SoundHound | Houndify combines the smartest voice AI with engineering expertise to help brands build conversational voice assistants. From proprietary components to a customizable and scalable voice AI platform, we have the tools to build a highly accurate and responsive voice user interface. | [Watch](https://www.youtube.com/watch?v=vKM4OMz8qmQ) |
@@ -1498,7 +1498,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Books
-| Book | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **3D User Interfaces: Theory and Practice** | Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola | Many people already have seen 3D UIs in computer-aided design, radiation therapy, surgical simulation, data visualization, and virtual-reality entertainment. The next generation of computer games, mobile devices, and desktop applications also will feature 3D interaction. | [Download](https://drive.google.com/file/d/1e0flH4Fr0moRuKXzczwV56SzV6_dkNCG/view?usp=share_link) |
 | **Virtual & Augmented Reality for Dummies** | Paul Mealy | Virtual and augmented reality are the next big thing in computing. They’re the next step in the evolution of the computer, and they’re going to change the way we interact with computers and the world around us. | [Download](https://www.pdfdrive.com/virtual-augmented-reality-for-dummies-e176320670.html) |
@@ -1509,7 +1509,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Articles
-| Article | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Leap Into VR/AR Design** | Ted Evans | Virtual reality is no longer in the realm of science fiction. Immersive technology desperately needs skilled designers to jump in, get involved, take risks, and create something new. Leap into VR/AR! | [Read](https://www.toptal.com/designers/ui/vr-ar-design-guide) |
 | **Introduction - The Design of Virtual and Augmented Reality** | Good virtual and augmented reality adapts to the diversity of humans as multifaceted, intersectional, and complex beings. We as designers have the opportunity (and responsibility) to create experiences that are inclusive, accessible, and equitable. | [Reading List](hhttps://aliheston.gitbook.io/the-design-of-virtual-and-augmented-reality/) |
@@ -1525,7 +1525,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Videos
-| Video | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **VR Interface Design Pre-Visualisation Methods** | Mike Alger | Virtual reality provides new opportunities for user interactions with computer applications. The process of designing a comprehensive interaction paradigm will require a significant amount of consideration and development. | [Watch](https://www.youtube.com/watch?v=id86HeV-Vb8) |
 | **UI/UX design for WebVR** | Josh Carpenter | Josh Carpenter (@joshcarpenter) is a UX Designer with Mozilla, currently focusing on virtual reality and the open web. He has worked previously in architectural visualization, building automation, motion graphics and digital services, the common thread always being a fascination with the intersection of digital design and the built environment. | [Watch](https://www.youtube.com/watch?v=ZOaOYTOpwyM) |
@@ -1558,7 +1558,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Books
-| Book | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Machine Learning Design Patterns** | O'Reilly Media | The design patterns in this book capture best practices and solutions to recurring problems in machine learning. The authors, three Google engineers, catalog proven methods to help data scientists tackle common problems throughout the ML process.  | [Download](https://drive.google.com/file/d/1lAw9ID4zj_MMgnTw4Jwf9D59VLaP61es/view?usp=share_link) |
 | **Designing Human-Centric AI Experiences: Applied UX Design for Artificial Intelligence (Design Thinking)** | Akshay Kore | User experience (UX) design practices have seen a fundamental shift as more and more software products incorporate machine learning (ML) components and artificial intelligence (AI) algorithms at their core. This book will probe into UX design’s role in making technologies inclusive and enabling user collaboration with AI. | [Download](https://drive.google.com/file/d/1B-MGIQSjooldOL8aTQeMmwEVV6ob_ga3/view?usp=share_link) |
@@ -1566,7 +1566,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 #### Articles
-| Article | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 |**Design for AI: What should people who design AI know?** | Hal Wuertz | It’s 2023 and we are in the early days of artificial intelligence design. We’re certainly not “there” yet (i.e., you’re not running into Commander Data at the bar) but we do have a substantial cadre of narrow AI capabilities sprinkled throughout our daily lives. | [Read](https://uxdesign.cc/design-for-ai-what-should-people-who-design-ai-know-761e78fdabb)
 |  **ML+DESIGN** | ML+Design | A collection of resources for intersection of design, user experience, machine learning and artificial intelligence | [Reading List](https://machinelearning.design/) |
@@ -1626,7 +1626,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Books
-| Book | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Starter Questions for User Research** | Sarah Doody | User research is a critical part of the design process. It helps us understand our users, their needs, and how we can best meet those needs. | [Read](https://projects.iq.harvard.edu/files/harvarduxgroup/files/ux-research-guide-sample-questions-for-user-interviews.pdf) |
 | **UX Strategy: How to Devise Innovative Digital Products that People Want** | Jaime Levy | Define and validate your target users through provisional personas and customer discovery techniques. | [Download](https://www.pdfdrive.com/ux-strategy-how-to-devise-innovative-digital-products-that-people-want-e158608997.html) |
@@ -1636,7 +1636,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Articles
-| Article | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **How to nail your UX research strategy** | Maze | The old anecdote goes that ‘anything worth doing at all is worth doing well’, and UX research is no different. If you’re investing time and resources into UX research, it deserves to be conducted properly. | [Read](https://maze.co/guides/ux-research/ux-research-strategy/) |
 | **How to Conduct User Experience Research Like a Professional** | CareerFoundry | User experience research is a crucial part of the design process. It helps us understand our users, their needs, and how we can best meet those needs. | [Read](https://careerfoundry.com/en/blog/ux-design/how-to-conduct-user-experience-research-like-a-professional/) |
@@ -1668,7 +1668,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Books
-| Book | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Content Strategy for the Web** | Kristina Halvorson, Melissa Rach | Your content is a mess: the website redesigns didn’t help, and the new CMS just made things worse. Or, maybe your content is full of potential: you know new revenue and cost-savings opportunities exist, but you’re not sure where to start. How can you realize the value of content while planning for its long-term success? | [Download](https://drive.google.com/file/d/1drmRlyuJpZAsiHtuxJFFHgsUyHig9Bot/view?usp=share_link) | 
 | **Content Strategy at Work. Real-world Stories to Strengthen Every Interactive Project** | Margot Bloomstein (Auth.) | 'Bloomstein is at her most thought provoking when she shines the light on complex projects that present a host of strategic, editorial, design, organizational and technical challenges. | [Download](https://drive.google.com/file/d/1iG9LC9o-nhvB_rVg4D_Q-flvewSCdmdL/view?usp=share_link) |
@@ -1676,7 +1676,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Articles
-| Article | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Content 101: Information Architecture** | Theresa Putkey | Information architecture is a process is often carried out by a team of UX designers, developers, content strategists, and other professionals. | [Read](https://gathercontent.com/blog/content-101-information-architecture) |
 | **What is Content Strategy in UX?** | Josh Fechter |Content strategy is part of the overall strategy of a business. Its purpose is to achieve business goals. | [Read](https://technicalwriterhq.com/content/content-strategy/content-strategy-in-ux/) |
@@ -1686,7 +1686,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Videos
-| Video | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Full Workshop: Content Strategy & Information Architecture** | Flux Academy | Content strategy and information architecture are two of the most important parts of the UX process. | [Watch](https://www.youtube.com/watch?v=j0y8YBhDjIA) |
 | **Plan Before You Build: Information Architecture & Content Strategy** | Jim True | If you’ve been doing websites for clients for a while, you know the hardest thing to get out of them is their CONTENT. What if you could create an information model for their business, how pertinent information can be re-used, modeled and promoted to develop a Content strategy for your clients? | [Watch](https://www.youtube.com/watch?v=OPHfDVWyuZU) |
@@ -1707,7 +1707,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Books
-| Book | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Design Sprint: A Practical Guidebook for Creating Great Digital Products** |  Richard Banfield & C. Todd Lombardo & Trace Wax | Design Sprints is a practical, action-oriented guide to solving tough problems and testing new ideas in just five days. | [Download](https://www.pdfdrive.com/design-sprint-a-practical-guidebook-for-creating-great-digital-products-e157808141.html) |
 | **Design Sprint** | Richard Banfield, C.Todd Lombardo, Trace Wax | With more than 500 new apps entering the market every day, what does it take to build a successful digital product? You can greatly reduce your risk of failure with design sprints, a process that enables your team to prototype and test a digital product idea within a week. | [Download](https://www.pdfdrive.com/design-sprint-e51019435.html) |
@@ -1717,7 +1717,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Articles
-| Article | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **What's a Design Sprint and why is it important?** | Gloria Lo | I recently had the opportunity to participate in a masterclass called “Dive into Design Sprints” organised by More Space For Light. | [Read](https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09) |
 | **Design Sprints** | Interaction Design Foundation | Design Sprints are a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers. | [Read](https://www.interaction-design.org/literature/topics/design-sprints) |
@@ -1729,7 +1729,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Videos
-| Video | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **UX vs Design Thinking vs Design Sprint** | vaexperience | As a UX designer who employs design sprints, design thinking and deep UX research and design methods, it's mind-boggling why the industry is becoming so fragmented. | [Watch](https://www.youtube.com/watch?v=Kma42sfOZds) |
 | **An Introduction To Design Thinking & Design Sprints** | Rob Hamblem | If you’re getting started in the world of UX design, you’ll have likely heard of the terms “design thinking” and “design sprints.” But what do these two terms mean, how are they related, and how will having a better understanding of their relevance, and application, help you as a designer? | [Watch](https://www.youtube.com/watch?v=9lljOVfOi6o)|
@@ -1755,7 +1755,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Books
-| Book | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Burn Your Portfolio** | Michael Janda | Burn Your Portfolio is a book for designers who want to build a successful career. It's a book for designers who want to build a successful career. | [Download](https://drive.google.com/file/d/16wzmm5M2sxRLvpSBteVyQdHOmtqWyuuw/view?usp=share_link) |
 | **Design Matters: Portfolios 01: An Essential Primer for Today's Competitive Market** | Maura Keller | During the past few years, portfolio management and self-promotion have taken on a far greater role within a graphic designer’s business model. The degree to which they can increase their earned revenue through exceptionally defined, marketing-oriented promotions and portfolio management is paramount. | [Download](https://drive.google.com/file/d/1aAA35HVOA9k3Ug89-GRr9LPl3Kd4kgov/view?usp=share_link) |
@@ -1765,7 +1765,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Articles
-| Article | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Tips For Your First Great UX Portfolio** | CareerFoundry | Every UX designer has a portfolio, no matter how long they’ve been in the industry or how much experience they have. Whether you’re a brand new designer with just one project under your belt, or a seasoned expert with years in the industry, you must have a polished, up-to-date portfolio. | [Read](https://careerfoundry.com/en/tutorials/ux-design-for-beginners/tips-for-your-first-great-ux-portfolio/) |
 | **The Best UX Designer Portfolios – Inspiring Case Studies and Examples** | Miklos Philips | What makes a winning UX portfolio? More than a showcase of skills, a UX designer’s portfolio is an opportunity for them to create an enjoyable user experience as well as demonstrate their UX mastery. | [Read](https://www.toptal.com/designers/ux/ux-designer-portfolios) | 
@@ -1777,7 +1777,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Videos
-| Video | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **My First UX Design Portfolio - Advice for Beginners** | Tanya Niu | Hi! I recently graduated from UX bootcamp and I created my first UX design portfolio. I'm not an expert on the subject, but I do know how overwhelming it can be to create your first UX portfolio from scratch, so I wanted to share some tips and advice for any other UX designers in the same boat. | [Watch](https://www.youtube.com/watch?v=NGiQCBsVayI) |
 | **How to prepare your design portfolio / Design Tutorial** | Cuberto Design | Using our example, we show and tell how to design projects in a portfolio so that it looks presentable and tasty, and most importantly - generate new leads. | [Watch](https://www.youtube.com/watch?v=emSv9TTHZVY) |
@@ -1833,7 +1833,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Books
-| Book | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Understanding Your Users, Second Edition: A Practical Guide to User Research Methods** | Kathy Baxter, Catherine Courage, Kelly Caine | You will find brand new case studies from leaders in industry and academia that demonstrate each method in action. | [Download](https://drive.google.com/file/d/16u7-lIr96aUICUd9g3iv7V9y762FeM1p/view?usp=share_link) |
 | **A UI Design Case Study and a Prototype of a Travel Search Engine Project Report** | Serguei A. Mokhov, Mashrur Mia, P. Solodov, Kai Zhao, J. Halimi | We review a case study of a UI design project for a complete travel search engine system prototype for regular and corporate users. We discuss various usage scenarios, guidelines, and so for, and put them into a web-based prototype with screenshots and the like. | [Download](https://www.pdfdrive.com/a-ui-design-case-study-and-a-prototype-of-a-travel-search-engine-project-report-concordia-e35194567.html) |
@@ -1841,7 +1841,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Articles
-| Article | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **What are UX Case Studies?** | Interaction Design Foundation | UX case studies are examples of design work which designers include in their portfolio.  | [Read](https://www.interaction-design.org/literature/topics/ux-case-studies) |
 | **How to write a UX case study** | Ariana Shives | A good case study tells the story behind a design — the research, decisions, and process that went into its creation. | [Read](https://uxdesign.cc/how-to-write-a-case-study-1b1b5f5e3e2c) |
@@ -1856,7 +1856,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Videos
-| Video | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **How to Present a UX Case Study in a Job Interview** | Mizko | In this video, I’ll show you how to present a UX case study in a job interview. | [Watch](https://www.youtube.com/watch?v=ZVZfWfqmRBY) |
 | **How to Write & Structure Your UX Case Study - Website Presentation Design** | Sharon Yeun Kim| This is a walk-through of how to write, present and structure your UX case study material on your portfolio website. | [Watch](https://www.youtube.com/watch?v=hx7XyA8RNIw) | 
@@ -1881,7 +1881,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Project Tasks #4
-- **Task One:** Using the list of case study [above](#case-study-inspiration) as a source of inspiration, create a case study for a project you have worked on in [Project Tasks #1](#project-tasks-1). You can use this [template](https://www.figma.com/community/file/1067428863353945820) as a guide.
+- **Task One:** Using the list of the case study [above](#case-study-inspiration)](#case-study-inspiration) as a source of inspiration, create a case study for a project you have worked on in [Project Tasks #1](#project-tasks-1). You can use this [template](https://www.figma.com/community/file/1067428863353945820) as a guide.
 - **Task Two:** Create a case study for a project you have worked on in [Project Tasks #2](#project-tasks-2). You can use this [template](https://www.figma.com/community/file/1015129345947090766/Case-Study-Template) as a guide.
 - Task Three: Create a case study for a project you have worked on in [Project Tasks #3](#project-tasks-3). You can use this [template one](https://www.figma.com/community/file/949395060452790372/Case-Study-Template---Creative-Ferry) or [template two](https://www.figma.com/community/file/1079111124242711698/Behance-Presentation-Template-UI%2FUX-Case-study) as a guide.
 
@@ -1890,7 +1890,7 @@ F --> T([Professional Development and Networking])
 ##### Project Tasks #5 (Final Project)
 > In this final project, you will be given two problems to solve. You will be required to pick one of the problems to solve. Each of the problems revolves around the curriculum we have covered in this learning path. You will be required to create a case study for the project you have worked on.
 
-- **Problem One:** You are a UX designer at a company that is looking to create a new product that will help people learn new languages. You have been tasked with creating to follow design thinking process to create a solution for this problem. The solution you create should be a product that is user centered, and uses voice interface design. Incorporating virtual or augmented reality features to enhance the user experience is **optional**. The application should be designed for mobile devices with a personalized approach to learning, allowing users to set their learning goals and track their progress. Incorporating accessibility features, such as subtitles for videos, and internationalization features, such as translation for multiple languages is a must. 
+- **Problem One:** You are a UI/UX designer at a company that is looking to create a new product that will help people learn new languages. You have been tasked with creating this product and following the design thinking process to create a solution for this problem. The solution you create should be a product that is user-centered and uses voice interface design. Incorporating virtual or augmented reality features to enhance the user experience is **optional**. The application should be designed for mobile devices with a personalized approach to learning, allowing users to set their learning goals and track their progress. Incorporating accessibility features, such as subtitles for videos, and internationalization features, such as translation for multiple languages, is a must. 
   * Design Thinking Process: 
     * Empathize
     * Define
@@ -1904,7 +1904,7 @@ F --> T([Professional Development and Networking])
       * Layouts
       * Components
       * Avatar
-      * Others (if any) - Follow [Design System Checklist](https://www.designsystemchecklist.com/)
+      * Others (if any) - Follow the [Design System Checklist](https://www.designsystemchecklist.com/)
     * A case study that includes the following sections: 
       * Problem Statement
       * User Research
@@ -1916,8 +1916,10 @@ F --> T([Professional Development and Networking])
       * Usability Testing
       * Reflection
     * Prototype
+  
 &nbsp;&nbsp;
-- **Problem Two:** You are a UX designer at a company that is looking to create a new product that will offer personalized health and wellness recommendation based on user preference including diet and exercise plans, mindfulness and meditation practices, and sleep tracking. You have been tasked with creating to follow design thinking process to create a solution for this problem. The solution you create should be a product that is user centered, and incorporate accessibility features for users with disabilities, such as voice recognition and alternative text for images. Additionally, internationalization features could be implemented to offer the app in multiple languages, optionally you can incorporate virtual or augmented reality features to provide an immersive experiences for users, such as guided meditation. 
+
+- **Problem Two:** You are a UI/UX designer at a company that is looking to create a new product that will offer personalized health and wellness recommendations based on user preference, including diet and exercise plans, mindfulness and meditation practices, and sleep tracking. You have been tasked with creating this product and following the design thinking process to create a solution for this problem. The solution you create should be a product that is user-centered and incorporates accessibility features for users with disabilities, such as voice recognition and alternative text for images. Additionally, internationalization features could be implemented to offer the app in multiple languages. **Optionally**, you can incorporate virtual or augmented reality features to provide immersive experiences for users, such as guided meditation. 
   * Design Thinking Process: 
     * Empathize
     * Define
@@ -1931,7 +1933,7 @@ F --> T([Professional Development and Networking])
       * Layouts
       * Components
       * Avatar
-      * Others (if any) - Follow [Design System Checklist](https://www.designsystemchecklist.com/)
+      * Others (if any) - Follow the [Design System Checklist](https://www.designsystemchecklist.com/)
     * A case study that includes the following sections: 
       * Problem Statement
       * User Research
@@ -1962,7 +1964,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Books
-| Book | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Solving Product Design Exercises: Questions & Answers** | Artiom Dashinsky | Practice your product design and UX skills. Prepare for your next job interview. Learn how to solve and present exercises like these, that top startups use to interview designers for product design and UI/UX roles. | [Download](https://drive.google.com/file/d/1Jcuq9VrVyQ22Oe6RIXx09vBM5c9Eg3YP/view?usp=share_link) |
 | **Get Into UX: A Foolproof Guide to Getting Your First User Experience Job** | Alechnavicius, Vy | Get Into UX book is a career advice book written to help new and experienced designers get unstuck in their pursuits to get UX jobs. | [Download](https://drive.google.com/file/d/1xvmr9iUtbByVxkctw6ugVSwqd3bNfIUv/view?usp=share_link) |
@@ -1970,7 +1972,7 @@ F --> T([Professional Development and Networking])
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Articles
-| Article | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **21 Essential UX Interview Questions & How to Answer Them** | Dribbble | Preparing for your next UX interview? Get answers to the most common UX interview questions to land your next UX design job. | [Read](https://dribbble.com/resources/ux-interview-questions) |
 | **The 4 Types of UX Interview Questions to Master** | UX Beginner | Interviewing used to be one of those painful, tedious chores for me. That’s because I didn’t understand the underlying structure of interview questions. | [Read](https://www.uxbeginner.com/the-4-types-of-ux-interview-questions-to-master/) | 
@@ -1978,13 +1980,13 @@ F --> T([Professional Development and Networking])
 | **The Big List of 119 UX Interview Questions** | Lewis | In this article, I’ve compiled a list of 119 UX interview questions that you can use to prepare for your next UX interview. | [Read](https://www.impactinterview.com/2017/01/big-list-ux-interview-questions/) |
 | **Cracking the UX Design Interview** | Sanny | I remember my first full-time design job — it was a whirlwind 5 months of applications and interviews. I talked to hundreds of people and sat in over 50 rounds of interviews. | [Read](https://medium.com/interactive-mind/cracking-the-ux-design-interview-3ea6407093f5) |
 | **11 Common UX Design Interview Questions You'll Be Asked** | Emily Stevens | Wouldn’t it be great if you could go into your next UX design interview knowing exactly what questions you were going to be asked? And, even better, knowing just how to answer them? | [Read](https://careerfoundry.com/en/blog/ux-design/make-sure-you-can-answer-these-11-ux-design-interview-questions/) |
-| **12 UX Designer Interview Questions and Answers** | Interviews can be intimidating. Spend some time preparing ahead of your next user experience (UX) designer interview, and you can walk in (or sign on) with more confidence. A big part of preparing for an interview is going over some common interview questions and thinking through how you’ll answer them. | [Read](https://www.coursera.org/articles/ux-designer-interview-questions-and-answers) |
+| **12 UX Designer Interview Questions and Answers** | Coursera | Interviews can be intimidating. Spend some time preparing ahead of your next user experience (UX) designer interview, and you can walk in (or sign on) with more confidence. A big part of preparing for an interview is going over some common interview questions and thinking through how you’ll answer them. | [Read](https://www.coursera.org/articles/ux-designer-interview-questions-and-answers) |
 | **UX Design Job Interview Tips for Global Candidates: Landing Your Dream Role in the US** | Elena Bukhonok | Searching for a design job is never easy—and it’s even more challenging if you’re new to the country and culture you want to work in. Here are steps one designer took to build a successful design career in America. | [Read](https://www.toptal.com/designers/ux/ux-design-job-interview-tips) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Videos
-| Video | Author | Description | Link |
+| Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **The Essential UX Interview Questions (And How To Answer Them!)** | Dee Scarano | Interviewing for UX design roles? Well you’ve come to the right place. In this video, we’ll share the 4 most commonly asked UX interview questions, and share tangible solutions on how to best answer them! | [Watch](https://www.youtube.com/watch?v=vu3xcQm7cEo) |
 | **UX Design: How to ACE Your Next UX Job Interview** | AJ&Smart | In this video, AJ&Smart’s UX Designers share how to best prepare for your next UX interview, which rookie mistakes to avoid, and how to set yourself apart from the crowd. | [Watch](https://www.youtube.com/watch?v=I00LwSMABtk) |
@@ -1998,7 +2000,7 @@ F --> T([Professional Development and Networking])
   <details>
   <summary> UI/UX Resume/CV Examples </summary>
 
- **Bestfolios** - Featuring the best resumes from UI/UX and graphic design community around the world. [Visit](https://www.bestfolios.com/resumes)
+ **Bestfolios** - Featuring the best resumes from UI/UX and graphic design communities around the world. [Visit](https://www.bestfolios.com/resumes)
 
   </details>
 </div>
@@ -2113,7 +2115,7 @@ F --> T([Professional Development and Networking])
 
 &nbsp;
 
-###### We have come to the end of this resource. If you have any suggestions, please feel free to reach out to me on [Twitter](https://twitter.com/hendurhance), [LinkedIn](https://www.linkedin.com/in/hendurhance/), or [Email](mailto:hendurhance@outlook.com). I would love to hear from you.
+###### We have come to the end of this resource. If you have any suggestions, please feel free to reach out to me on [Twitter](https://twitter.com/hendurhance), [LinkedIn](https://www.linkedin.com/in/hendurhance/), or [by Email](mailto:hendurhance@outlook.com). I would love to hear from you.
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 # Contributing
