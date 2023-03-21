@@ -52,7 +52,7 @@ This repository contains a curated list of resources to help you learn about Use
     * [UX Strategy](#ux-strategy)
       * [User Research and Analysis](#user-research-and-analysis)
       * [Information Architecture and Content Strategy](#information-architecture-and-content-strategy)
-      * [Design Sprints and Innovation](#design-sprints-and-innovation)
+      * [Design Sprints](#design-sprints)
     * [Portfolio Development](#portfolio-development)
       * [Building Projects for your UX/UI Design Portfolio](#building-a-uxui-design-portfolio)
       * [Case Studies and Presentations](#case-studies-and-presentations)
@@ -701,7 +701,6 @@ E --> R[Design Critique]
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Personas - User Focused Design** | Lene Nielsen |Personas, a user centered design methodology covers topics from interaction design within IT, through to issues surrounding product design, communication, and marketing. |[Download](https://www.pdfdrive.com/personas-user-focused-design-e189850627.html/) |
-| **UX Strategy: How to Devise Innovative Digital Products that People Want** | Jaime Levy | Define and validate your target users through provisional personas and customer discovery techniques. | [Download](https://www.pdfdrive.com/ux-strategy-how-to-devise-innovative-digital-products-that-people-want-e158608997.html) |
 | **Modeling Users: Personas and Goals** | Alan Cooper | Cooper's book is a must-read for anyone who wants to understand the importance of personas and how to create them. | [Download](http://www.cs.cmu.edu/~jhm/Readings/cooper_personas.pdf) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -1594,6 +1593,138 @@ objects, behaviors, interactions and communications. | [Download](http://www.cs.
 | **Write a concise design system documentation for the primary button component. Documentation has to include following points: {.....}** | This is a prompt to generate a concise design system documentation for the primary button component. You can add your own points to the prompt, and how you want the documentation should be displayed (e.g. using tables, lists, etc). |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+### UX Strategy
+> A UX strategy is a plan of actions designed to reach an improved future state of the organization's user experience over an established period of time.
+
+
+#### User Research and Analysis
+> User research analysis is a vital part of any research process because it is the very act of making sense of what was learned so that informed recommendations can be made on behalf of customers or users. Although the process of user research analysis is often overlooked, it is a critical step in the research process that can make or break the success of a project.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Understand** | Userstand what UX Strategy is and how a product can be improved using user research and analysis. |
+| **Learn** | Learn how to conduct user research and analysis. |
+| **Practice** | Practice conducting user research and analysis. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Book | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Starter Questions for User Research** | Sarah Doody | User research is a critical part of the design process. It helps us understand our users, their needs, and how we can best meet those needs. | [Read](https://projects.iq.harvard.edu/files/harvarduxgroup/files/ux-research-guide-sample-questions-for-user-interviews.pdf) |
+| **UX Strategy: How to Devise Innovative Digital Products that People Want** | Jaime Levy | Define and validate your target users through provisional personas and customer discovery techniques. | [Download](https://www.pdfdrive.com/ux-strategy-how-to-devise-innovative-digital-products-that-people-want-e158608997.html) |
+| **Designing Search: UX Strategies for eCommerce Success** | Greg Nudelman & Pabini Gabriel-Petit | Best practices, practical advice, and design ideas for successful ecommerce search A glaring gap has existed in the market for a resource that offers a comprehensive, actionable design patterns and design strategies for ecommerce search that can be applied to any ecommerce site. | [Download](https://www.pdfdrive.com/designing-search-ux-strategies-for-ecommerce-success-e157641730.html) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Article | Author | Description | Link |
+| --- | --- | --- | --- |
+| **How to nail your UX research strategy** | Maze | The old anecdote goes that ‘anything worth doing at all is worth doing well’, and UX research is no different. If you’re investing time and resources into UX research, it deserves to be conducted properly. | [Read](https://maze.co/guides/ux-research/ux-research-strategy/) |
+| **How to Conduct User Experience Research Like a Professional** | CareerFoundry | User experience research is a crucial part of the design process. It helps us understand our users, their needs, and how we can best meet those needs. | [Read](https://careerfoundry.com/en/blog/ux-design/how-to-conduct-user-experience-research-like-a-professional/) |
+| **The Ultimate Guide to UX Research Strategy** | Carrie Boyd | User-centric designers, PMs, and researchers often repeat this phrase, like a prayer, as they try to convince internal stakeholders that user need is not the same as stakeholder want. | [Read](https://www.userinterviews.com/blog/the-ultimate-guide-to-ux-research-strategy) |
+| **How To Do A UX Competitor Analysis: A Step By Step Guide** | Steven Douglas | Getting to grips with the ins and outs of a UX competitor analysis can help you know your market, product and goals better. | [Read](https://usabilitygeek.com/how-to-do-ux-competitor-analysis/) |
+| **UX analysis: best methods and key tools** | Hotjar | User experience (UX) analysis helps you understand how users experience your website and product, so you can prioritize decisions about how to improve it for them and ensure the user experience is as frictionless and intuitive as possible. | [Read](https://www.hotjar.com/ux-design/analysis/) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Video | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Strategic & Reactionary User Research** | NNgroup | User research is often initiated during a sprint, after a design is implemented, or is part of the MVP. But, mindfully planning research reaps far better results. | [Watch](https://www.youtube.com/watch?v=Kj16KEqHsy4) |
+| **What's UX Strategy? And Why You Should Have It In Place?**| Koru UX Design | A UX strategy is preparing a roadmap before you start creating something or attempting to solve the problem to achieve business goals. | [Watch](https://www.youtube.com/watch?v=iTYulrROJP8) |
+| **How to create a UX Research Report – free template included!** | femke.design |Once you've gone out in the field and gathered your initial research insights, how do you relay this back to your team? In this video I walk you through how to create a foundational research report packed with insights that will help designers, product managers and content strategists on your team make product decisions. | [Watch](https://www.youtube.com/watch?v=esg5iUALAJM) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+#### Information Architecture and Content Strategy
+> Information architecture (IA) is the practice of organizing information in a way that makes it easy to find and use. Content strategy is the practice of planning and managing the creation, delivery, and governance of content. Together, they help you create a great user experience.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Understand** | Userstand what Information Architecture and Content Strategy is and how a product can be improved using IA and CS. |
+| **Learn** | Learn how to conduct Information Architecture and Content Strategy. |
+| **Practice** | Practice conducting Information Architecture and Content Strategy. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Book | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Content Strategy for the Web** | Kristina Halvorson, Melissa Rach | Your content is a mess: the website redesigns didn’t help, and the new CMS just made things worse. Or, maybe your content is full of potential: you know new revenue and cost-savings opportunities exist, but you’re not sure where to start. How can you realize the value of content while planning for its long-term success? | [Download](https://drive.google.com/file/d/1drmRlyuJpZAsiHtuxJFFHgsUyHig9Bot/view?usp=share_link) | 
+| **Content Strategy at Work. Real-world Stories to Strengthen Every Interactive Project** | Margot Bloomstein (Auth.) | 'Bloomstein is at her most thought provoking when she shines the light on complex projects that present a host of strategic, editorial, design, organizational and technical challenges. | [Download](https://drive.google.com/file/d/1iG9LC9o-nhvB_rVg4D_Q-flvewSCdmdL/view?usp=share_link) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Article | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Content 101: Information Architecture** | Theresa Putkey | Information architecture is a process is often carried out by a team of UX designers, developers, content strategists, and other professionals. | [Read](https://gathercontent.com/blog/content-101-information-architecture) |
+| **What is Content Strategy in UX?** | Josh Fechter |Content strategy is part of the overall strategy of a business. Its purpose is to achieve business goals. | [Read](https://technicalwriterhq.com/content/content-strategy/content-strategy-in-ux/) |
+| **Complete Beginner’s Guide to Content Strategy** | UX Booth | “Content” is everywhere. It’s ads and longform copy, images and videos, stories and metadata. But what’s the point of it all? That depends on the content strategy. Content strategy plans for valuable, findable, meaningful content. | [Read](https://www.uxbooth.com/articles/complete-beginners-guide-to-content-strategy/) |
+| **The Comprehensive Guide to Information Architecture** | James Pikover | As a standard part of the UX process, designers create information architecture when building products. Learn about information architecture—how designers and product managers build an IA using design principles, as well as IA tools and best practices. | [Read](https://www.toptal.com/designers/ia/guide-to-information-architecture) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Video | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Full Workshop: Content Strategy & Information Architecture** | Flux Academy | Content strategy and information architecture are two of the most important parts of the UX process. | [Watch](https://www.youtube.com/watch?v=j0y8YBhDjIA) |
+| **Plan Before You Build: Information Architecture & Content Strategy** | Jim True | If you’ve been doing websites for clients for a while, you know the hardest thing to get out of them is their CONTENT. What if you could create an information model for their business, how pertinent information can be re-used, modeled and promoted to develop a Content strategy for your clients? | [Watch](https://www.youtube.com/watch?v=OPHfDVWyuZU) |
+| **Case Study: The Role of Information Architecture in Adaptive Content Strategy** | Eli Lilly | The authors at Eli Lilly’s Global Medical Information team have transformed from traditional authoring to authoring adaptive components of content. The transformation was approached in a pragmatic way starting from changing writing behaviors, streamlining processes, and implementing a new component authoring technology. | [Watch](https://www.youtube.com/watch?v=6yVDY3bGxz8) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+#### Design Sprints
+> A design sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers. It’s a lot like an agile sprint, but with a design focus. The sprint is a process, not a deliverable. It’s a way of working, not a checklist of deliverables.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Understand** | Userstand what Design Sprints are and how they can be used to solve problems. |
+| **Learn** | Learn how to conduct Design Sprints. |
+| **Practice** | Practice conducting Design Sprints. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Book | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Design Sprint: A Practical Guidebook for Creating Great Digital Products** |  Richard Banfield & C. Todd Lombardo & Trace Wax | Design Sprints is a practical, action-oriented guide to solving tough problems and testing new ideas in just five days. | [Download](https://www.pdfdrive.com/design-sprint-a-practical-guidebook-for-creating-great-digital-products-e157808141.html) |
+| **Design Sprint** | Richard Banfield, C.Todd Lombardo, Trace Wax | With more than 500 new apps entering the market every day, what does it take to build a successful digital product? You can greatly reduce your risk of failure with design sprints, a process that enables your team to prototype and test a digital product idea within a week. | [Download](https://www.pdfdrive.com/design-sprint-e51019435.html) |
+| **Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days** | Jake Knapp, John Zeratsky, Braden Kowitz |This is awesome book and every UX designer should read this, it's a great book for anyone who wants to learn how to solve big problems and test new ideas in just five days. | [Download](https://drive.google.com/file/d/11Edv8u3GD3fI8KuHXdtpZR2iDEsyW_dU/view?usp=share_link) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Article | Author | Description | Link |
+| --- | --- | --- | --- |
+| **What's a Design Sprint and why is it important?** | Gloria Lo | I recently had the opportunity to participate in a masterclass called “Dive into Design Sprints” organised by More Space For Light. | [Read](https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09) |
+| **Design Sprints** | Interaction Design Foundation | Design Sprints are a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers. | [Read](https://www.interaction-design.org/literature/topics/design-sprints) |
+| **What Are Design Sprints?** | John Cheung | If you’re involved in any aspect of product design, UX design, or marketing, you’ve likely heard the term “design sprints”. | [Read](https://careerfoundry.com/en/blog/ux-design/what-are-design-sprints/) |
+| **I ran a one-person Design Sprint to create my UX/UI design portfolio** | Laura Eiche | Design Sprint is a method to solve big problems and test new ideas in just five days. Originally it’s made for teams, to build better products faster. | [Read](https://sprintstories.com/i-ran-a-one-person-google-design-sprint-to-create-my-ux-ui-design-portfolio-4661c3e97858) |
+| **How to Conduct an Effective Design Sprint** | Ondřej Dostál | A design sprint is a methodology used to validate ideas through design, prototyping, user testing, and collaboration in only five days, offering a more structured, effective approach to creative thinking. | [Read](https://www.toptal.com/designers/product-design/effective-design-sprint) |
+| **The UX Sprint** | Johannes Holl &  Thorsten Moser | A repeatable two-week process for shipping high-quality tested UX and UI design rapidly. | [Read](https://boanastudio.com/blog/ux-design-sprint-digital-products) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Video | Author | Description | Link |
+| --- | --- | --- | --- |
+| **UX vs Design Thinking vs Design Sprint** | vaexperience | As a UX designer who employs design sprints, design thinking and deep UX research and design methods, it's mind-boggling why the industry is becoming so fragmented. | [Watch](https://www.youtube.com/watch?v=Kma42sfOZds) |
+| **An Introduction To Design Thinking & Design Sprints** | Rob Hamblem | If you’re getting started in the world of UX design, you’ll have likely heard of the terms “design thinking” and “design sprints.” But what do these two terms mean, how are they related, and how will having a better understanding of their relevance, and application, help you as a designer? | [Watch](https://www.youtube.com/watch?v=9lljOVfOi6o)|
+| **What is a Design Sprint?** | Google | Take a look around the room you’re in right now. Notice the ergonomics of your chair? What about the device you’re using to play this video on right now? Almost everything around you started off as a design problem or design challenge. | [Watch](https://www.youtube.com/watch?v=xVvVaIWTuck) |
+| **Design Sprint 2.0: Every Excercise** | AJ&Smart | Introducing the Design Sprint 2.0! This is the 2019 version of the ever efficient Design Sprint. With new updates, improvements and hacks to make it even BETTER! | [Watch](https://www.youtube.com/playlist?list=PLxk9zj3EDi0X5CgoFckoheIFAx-uT2i7j) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+
+
+
+
 
 
 
