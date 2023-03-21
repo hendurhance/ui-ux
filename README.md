@@ -2,9 +2,22 @@
 ![UI/UX Design Learning Guide](/images/thumbnail.png)
 > Roadmap to becoming a UI/UX Designer
 
-This repository contains a curated list of resources to help you learn about User Interface and User Experience design. The learning guide is divided into three levels: Basics, Intermediate, and Advanced, and includes a wide range of resources such as articles, tutorials, videos, and courses. Whether you're just starting out or looking to expand your knowledge, this guide has something for everyone. So, come explore and enhance your skills in UI/UX design! 🎨
+This repository contains a curated list of resources to help you learn about User Interface and User Experience design. The learning guide is divided into three levels: Beginner, Intermediate, and Expert, and includes a wide range of resources such as articles, tutorials, videos, and courses. Whether you're just starting out or looking to expand your knowledge, this guide has something for everyone. So, come explore and enhance your skills in UI/UX design! 🎨
 
 &nbsp;&nbsp;&nbsp;
+
+<div align="center"> <h3>Overview</h3>
+<summary> 
+  <p> Thus</p>
+
+  [![View ui-ux on GitHub](https://img.shields.io/github/stars/hendurhance/ui-ux?color=232323&label=ui-ux&logo=github&labelColor=232323)](https://github.com/hendurhance/ui-ux/) [![Author hendurhance](https://img.shields.io/badge/hendurhance-blue?labelColor=000000&logo=githubsponsors&logoColor=fff)](https://github.com/hendurhance) [![License: Creative Commons Zero v1.0 Universal](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Twitter](https://img.shields.io/twitter/follow/hendurhance?style=social)](https://twitter.com/hendurhance) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hendurhance/)[![Donate](https://img.shields.io/badge/Donate-Flutterwave-blue.svg)](https://barter.me/hendurhance) [![Donate](https://img.shields.io/badge/Donate-Payday-blue.svg)](https://usepayday.me/hendurhance) 
+  <a href='https://github.com/hendurhance/ui-ux/tree/%40deprecated-2021-resource' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Old_ Learning Guide Version-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=grey&color=black'/></a>
+</summary>
+</div>
+
+
+&nbsp;&nbsp;&nbsp;
+
 
 # Table of Contents
 - **[Beginner Level](#beginner-level)**
@@ -54,7 +67,7 @@ This repository contains a curated list of resources to help you learn about Use
       * [Information Architecture and Content Strategy](#information-architecture-and-content-strategy)
       * [Design Sprints](#design-sprints)
     * [Portfolio Development](#portfolio-development)
-      * [Building Projects for your UX/UI Design Portfolio](#building-a-uxui-design-portfolio)
+      * [Building Projects for your UX/UI Design Portfolio](#building-projects-for-your-uxui-design-portfolio)
       * [Case Studies and Presentations](#case-studies-and-presentations)
     * [Career Development](#career-development)
       * [Job Search and Interviewing](#job-search-and-interviewing)
@@ -578,7 +591,7 @@ E --> P([Layout and Composition])
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
-##### Tasks
+##### Project Tasks #1
 - Project: Redesign the following dribbble shots using the concepts you learnt in this section `Beginner Level`
     * [#Exploration - Fashion Website](https://dribbble.com/shots/14836845--Exploration-Fashion-Website)
     * [#Exploration - E-commerce Website](https://dribbble.com/shots/14865120--Exploration-More-Screens-Fashion-Mobile-App)
@@ -1197,7 +1210,7 @@ E --> R[Design Critique]
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
-##### Tasks
+##### Project Tasks #2
 - **Project One: Building a Recipe App [Use this as Inspiration](https://www.behance.net/gallery/153624479/Fridge-Recipes-App-UX-UI-Case-Study)**
     * Task One: Conduct a user research session with a friend or family member
     * Task Two: Using the information you gathered from your user research session, create a user persona and apply Design Thinking to solve a problem for your user
@@ -1206,6 +1219,9 @@ E --> R[Design Critique]
     * Task Five: Conduct a design critique session with a friend or family member
     * Task Six: Make changes to your prototype based on the feedback you received during your design critique session
     * Task Seven: Create a high-fidelity prototype using Figma/Adobe XD
+
+##### Project Tasks #3
+
 
 - **Project Two: Redesign [Fitness Mobile App](https://www.behance.net/gallery/120589209/Fitness-Mobile-App)**
     * Task One : Identify the user experience problems with the current design
@@ -1287,6 +1303,7 @@ F --> T([Professional Development and Networking])
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **What is Accessible Design?** |  Vincent Brathwaite | “Imagine if 90% of the websites or mobile apps you use today locked you out. Everyone else continues to experience the convenience of mobile banking, the connectedness of social media, and the freedom of online shopping, but, for you, they’re inaccessible. For the 57 million people with disabilities in the United States, this is their everyday experience.” | [Read](https://xd.adobe.com/ideas/principles/web-design/what-is-accessible-design/) |
+| **How to build an accessible design system** | Eric Chung | People come with all different types of abilities and disabilities. By designing with accessibility in mind, you can open up a world of opportunities for users of all abilities to engage with your work. | [Read](https://blog.logrocket.com/ux-design/how-to-build-accessible-design-system/) |
 | **What is Accessibility?** | CareerFoundry | Accessibility is the practice of designing and developing products that are usable by people with disabilities. | [Read](https://www.interaction-design.org/literature/topics/accessibility) |
 | **Accessibility guidelines for UX Designers** | Avinash Kaur | As a UX designer, it is important to build empathy and celebrate accessibility requirements as a set of design constraints to build a better product. | [Read](https://uxdesign.cc/accessibility-guidelines-for-a-ux-designer-c3ba775539be) |
 | **Accessibility for user experience (UX) designers** | Accessibility US Gov| Accessibility is a set of design principles that help people with disabilities use websites, mobile apps, and other digital products. | [Reading List](https://accessibility.digital.gov/ux/getting-started/) | 
@@ -1487,9 +1504,7 @@ F --> T([Professional Development and Networking])
 | **Virtual & Augmented Reality for Dummies** | Paul Mealy | Virtual and augmented reality are the next big thing in computing. They’re the next step in the evolution of the computer, and they’re going to change the way we interact with computers and the world around us. | [Download](https://www.pdfdrive.com/virtual-augmented-reality-for-dummies-e176320670.html) |
 | **Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile** | Tony Parisi | Get an introduction to the technologies, tools, and techniques for programming virtual reality on the latest generation of desktop and mobile VR hardware. With this hands-on guide, you’ll learn essential development and production concepts, including UI design, stereo rendering, 3D input, and programming VR applications for native desktop, mobile and the web. | [Download](https://drive.google.com/file/d/1aszz3Z5VjheSipI8PWULIZRt_PWXtVna/view?usp=share_link) |
 | **Oculus Rift in Action** | Bradley Austin Davis & Karen Bryla & Phillips Alexander Benton | SummaryOculus Rift in Action introduces the powerful Oculus Rift headset and teaches you how to integrate its many features into 3D games and other virtual reality experiences. | [Download](https://www.pdfdrive.com/oculus-rift-in-action-e158612938.html) | 
-| **A Design Model and Methodology for Developing Virtual Reality Interfaces** | Vildan Tanriverdi and Robert J.K. Jacob | Compared to conventional interfaces, Virtual reality (VR)
-interfaces contain a richer variety and more complex types of
-objects, behaviors, interactions and communications. | [Download](http://www.cs.tufts.edu/~jacob/papers/vrst01.tanriverdi.pdf) |
+| **A Design Model and Methodology for Developing Virtual Reality Interfaces** | Vildan Tanriverdi and Robert J.K. Jacob | Compared to conventional interfaces, Virtual reality (VR) interfaces contain a richer variety and more complex types of objects, behaviors, interactions and communications. | [Download](http://www.cs.tufts.edu/~jacob/papers/vrst01.tanriverdi.pdf) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -1616,6 +1631,7 @@ objects, behaviors, interactions and communications. | [Download](http://www.cs.
 | **Starter Questions for User Research** | Sarah Doody | User research is a critical part of the design process. It helps us understand our users, their needs, and how we can best meet those needs. | [Read](https://projects.iq.harvard.edu/files/harvarduxgroup/files/ux-research-guide-sample-questions-for-user-interviews.pdf) |
 | **UX Strategy: How to Devise Innovative Digital Products that People Want** | Jaime Levy | Define and validate your target users through provisional personas and customer discovery techniques. | [Download](https://www.pdfdrive.com/ux-strategy-how-to-devise-innovative-digital-products-that-people-want-e158608997.html) |
 | **Designing Search: UX Strategies for eCommerce Success** | Greg Nudelman & Pabini Gabriel-Petit | Best practices, practical advice, and design ideas for successful ecommerce search A glaring gap has existed in the market for a resource that offers a comprehensive, actionable design patterns and design strategies for ecommerce search that can be applied to any ecommerce site. | [Download](https://www.pdfdrive.com/designing-search-ux-strategies-for-ecommerce-success-e157641730.html) |
+| **UX for Lean Startups: Faster, Smarter User Experience Research and Design** | Jeff Gothelf & Josh Seiden | The Lean UX approach to interaction design is tailor-made for today’s web-driven reality. In this insightful book, leading advocate Jeff Gothelf teaches you valuable Lean UX principles, tactics, and techniques from the ground up—how to rapidly experiment with design ideas, validate them with real users, and continually adjust your design based on what you learn. | [Download](https://www.pdfdrive.com/lean-ux-applying-lean-principles-to-improve-user-experience-e163056559.html) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -1696,6 +1712,7 @@ objects, behaviors, interactions and communications. | [Download](http://www.cs.
 | **Design Sprint: A Practical Guidebook for Creating Great Digital Products** |  Richard Banfield & C. Todd Lombardo & Trace Wax | Design Sprints is a practical, action-oriented guide to solving tough problems and testing new ideas in just five days. | [Download](https://www.pdfdrive.com/design-sprint-a-practical-guidebook-for-creating-great-digital-products-e157808141.html) |
 | **Design Sprint** | Richard Banfield, C.Todd Lombardo, Trace Wax | With more than 500 new apps entering the market every day, what does it take to build a successful digital product? You can greatly reduce your risk of failure with design sprints, a process that enables your team to prototype and test a digital product idea within a week. | [Download](https://www.pdfdrive.com/design-sprint-e51019435.html) |
 | **Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days** | Jake Knapp, John Zeratsky, Braden Kowitz |This is awesome book and every UX designer should read this, it's a great book for anyone who wants to learn how to solve big problems and test new ideas in just five days. | [Download](https://drive.google.com/file/d/11Edv8u3GD3fI8KuHXdtpZR2iDEsyW_dU/view?usp=share_link) |
+| UX for Lean Startups: Faster, Smarter User Experience Research and Design |  Laura Klein | Great user experiences (UX) are essential for products today, but designing one can be a lengthy and expensive process. With this practical, hands-on book, you’ll learn how to do it faster and smarter using Lean UX techniques.  | [Download](https://www.pdfdrive.com/ux-for-lean-startups-faster-smarter-user-experience-research-and-design-e165771691.html) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -1721,16 +1738,387 @@ objects, behaviors, interactions and communications. | [Download](http://www.cs.
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
+### Portfolio Development
+> A portfolio is a collection of work that demonstrates your abilities. It is a tool that can help you find a job or build your client base. In this section, you will learn how to create a portfolio that will help you showcase your skills and talents to potential employers, clients, or collaborators.
+
+#### Building Projects for your UX/UI Design Portfolio
+> In this section, you will learn how to build projects for your UX/UI Design Portfolio. Building projects for your portfolio is a great way to showcase your skills and talents to potential employers, clients, or collaborators.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Understand** | Userstand what a portfolio is and how it can be used to showcase your skills. |
+| **Learn** | Learn how to create a portfolio. |
+| **Practice** | Practice creating a portfolio. |
 
 
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Book | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Burn Your Portfolio** | Michael Janda | Burn Your Portfolio is a book for designers who want to build a successful career. It's a book for designers who want to build a successful career. | [Download](https://drive.google.com/file/d/16wzmm5M2sxRLvpSBteVyQdHOmtqWyuuw/view?usp=share_link) |
+| **Design Matters: Portfolios 01: An Essential Primer for Today's Competitive Market** | Maura Keller | During the past few years, portfolio management and self-promotion have taken on a far greater role within a graphic designer’s business model. The degree to which they can increase their earned revenue through exceptionally defined, marketing-oriented promotions and portfolio management is paramount. | [Download](https://drive.google.com/file/d/1aAA35HVOA9k3Ug89-GRr9LPl3Kd4kgov/view?usp=share_link) |
+| **Stand Out: Design a personal brand. Build a killer portfolio. Find a great design job.** | Denise Anderson | The design marketplace has never been more competitive, or demanded more from emerging talent. To succeed, you must navigate the transition from learner to professional with purpose and precision. In Stand Out: Building Your Design Portfolio, Denise Anderson offers a hands-on, three-step, full-color action plan for establishing your unique brand, crafting a killer portfolio, tailoring and delivering your message, getting your perfect design job, and excelling once you're hired. | [Download](https://drive.google.com/file/d/1_-9PxIb8GesiHXKj3TB7iaq-OptRWPvU/view?usp=share_link) |
+| **The Squiggly Career: Ditch the ladder, discover opportunity, design your career: The five skills you need to succeed in work today** | Helen Tupper, Sarah Ellis |  Career ladders and jobs for life are a thing of the past. Today, we're living in a world of squiggly careers, where moving frequently and fluidly between roles, industries, locations, and even careers, is becoming the new normal.  | [Download](https://drive.google.com/file/d/1Hc3q8Gl8B71ZKDwbHzGL_ydMmyxHQZpW/view?usp=share_link) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Article | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Tips For Your First Great UX Portfolio** | CareerFoundry | Every UX designer has a portfolio, no matter how long they’ve been in the industry or how much experience they have. Whether you’re a brand new designer with just one project under your belt, or a seasoned expert with years in the industry, you must have a polished, up-to-date portfolio. | [Read](https://careerfoundry.com/en/tutorials/ux-design-for-beginners/tips-for-your-first-great-ux-portfolio/) |
+| **The Best UX Designer Portfolios – Inspiring Case Studies and Examples** | Miklos Philips | What makes a winning UX portfolio? More than a showcase of skills, a UX designer’s portfolio is an opportunity for them to create an enjoyable user experience as well as demonstrate their UX mastery. | [Read](https://www.toptal.com/designers/ux/ux-designer-portfolios) | 
+| **How To Build a UI Portfolio [2023 Career Guide]** | Lizzie Parmenter | To land a job in UI design you’ll need an outstanding portfolio. A UI portfolio is more than a roundup of your best work. It’s an opportunity to showcase your design process and illustrate the tangible ways that you create value. | [Read](https://www.springboard.com/blog/design/ui-portfolio/) |
+| **110+ Essential User Experience Portfolios for Inspiration**  | Zacharia Curtis | In this article, we’ll take a look at 110+ of the best UX portfolios from around the web. | [Read](https://uxplanet.org/110-curated-ux-portfolios-for-inspiration-492e6156ed2b) |
+| **Expert Tips for Creating a UX/UI Portfolio That Stands Out** | Victoria | A designer's portfolio is their main tool for finding his dream job. It is not enough to prepare a resume in which you write about how of a great specialist you are and what skills you have. | [Read](https://extrahut.com/blog/business/expert-tips-for-creating-a-ux-ui-portfolio-that-stands-out) |
+| **How to Create Your UX/UI Portfolio (Without Much Experience)** |Erik D. Kennedy | In some ways, this seems like an insurmountable obstacle. Abandon all hope! The spiral of pessimism will win! You can never transition careers! | [Read](https://www.learnui.design/blog/how-create-ux-ui-portfolio-without-much-experience.html) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Video | Author | Description | Link |
+| --- | --- | --- | --- |
+| **My First UX Design Portfolio - Advice for Beginners** | Tanya Niu | Hi! I recently graduated from UX bootcamp and I created my first UX design portfolio. I'm not an expert on the subject, but I do know how overwhelming it can be to create your first UX portfolio from scratch, so I wanted to share some tips and advice for any other UX designers in the same boat. | [Watch](https://www.youtube.com/watch?v=NGiQCBsVayI) |
+| **How to prepare your design portfolio / Design Tutorial** | Cuberto Design | Using our example, we show and tell how to design projects in a portfolio so that it looks presentable and tasty, and most importantly - generate new leads. | [Watch](https://www.youtube.com/watch?v=emSv9TTHZVY) |
+| **How to Build a UX Design Portfolio Website with Notion for FREE [Step-by-Step Tutorial]** | Aliena Cai | Learn how to create an impressive design portfolio using Notion and Figma! In this tutorial, we'll walk you through the step-by-step process of building a UI/UX or product design website portfolio. | [Watch](https://www.youtube.com/watch?v=t5OYI-IEkgU) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Portfolio Building Tools
+| Tool | Description | Link |
+| --- | --- | --- |
+| **Notion** | Notion is a new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team | [Visit](https://www.notion.so/) |
+| **Dribbble** | Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals. | [Visit](https://dribbble.com/) |
+| **Behance** | Behance is the world's largest creative network for showcasing and discovering creative work. | [Visit](https://www.behance.net/) |
+| **Adobe Portfolio** | Adobe Portfolio is a simple way to build and share your own professional website. | [Visit](https://www.adobe.com/products/portfolio.html) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Portfolios Inspiration
+| Author | Description | Link |
+| --- | --- | --- |
+| **Rama Krushna** | A digital product designer based in India, who love using cognitive psychology to humanize tech and solve people problems. I am a keen learner, team player, and enjoy taking on new challenges and side projects | [Visit](https://www.notion.so/Hey-I-m-Rama-Krushna-53ebad1b8bb04bd491108cac9c293be9) |
+| **Cofolios - UX portfolios of interns at FAANG** | Cofolios is a collection of UX portfolios of interns at FAANG companies. | [Visit](https://cofolios.com/) |
+| **Lisa Fisher** | Lisa Fischer is a designer focused on building brands and creating digital experiences  — currently working at Google. | [Visit](http://www.lisasuefischer.com/) |
+| **Sasha** | I’m Sascha — I elevate products through human-centered design & storytelling. | [Visit](https://saschas.ai/) |
+| **Gloria Lo** | Gloria Lo is a self-taught product designer based in Sydney, Australia. In her own words, she is passionate about improving the lives of others through design, and is constantly looking to learn new things everyday. | [View](https://www.glorialo.design/) |
+| **Moritz Oesterlau** | Moritz Oesterlau is a multi-skilled product/UX designer based in Germany. He also dabbles in interface design and frontend development. | [View](https://www.moritzoesterlau.de/) |
+| **Elizabeth Lin** | Elizabeth Lin is a San Francisco-based product designer and self-proclaimed fashion, teaching, and classical saxophone enthusiast. | [View](https://www.elizabethylin.com/) |
+| **Olivia Truong** | Olivia Truong is a product designer based in Boston, Massachusetts. In her own words, Olivia likes to go out into the world and capture its beauty and weirdness. | [View](https://www.oliviatruong.design/) |
+| **Priyanka Gupta** | Priyanka Gupta is a product designer and tech enthusiast based in San Francisco. Aside from creating awesome user experiences, Priyanka is also [pretty active on Medium](https://medium.com/@priyankagupta.rj). | [View](https://priyanka.io/) |
+| **Lola Jiang** | Lola Jiang is a California-based UX designer currently working at Google. Lola’s impressive resume includes having worked at YouTube as an interaction designer. | [View](https://lolajiang.com/index.html) |
+| **Druids** | He is a web 3.0 and game designer based in Nigeria. He loves going beyond the limits of what is possible and creating new experiences. | [View](https://dribbble.com/druids01) |
+| **Daniel Autry** | Daniel Autry is a designer, developer, and behavioural researcher based in Charlottesville, Virginia. He is fascinated by the social product space and is currently researching the intersection between technology and mental illness. | [View](https://danielautry.com/#portfolio) |
+| **Sara Soueidan** | Sara Soueidan is a web developer and designer based in Berlin, Germany. She is the author of the book [SVG Animations](https://svg-animations.surge.sh/). | [View](https://www.sarasoueidan.com/) |
+| **Vera Chen** | Vera Chen is a product designer and former Facebook intern. She has a Master’s degree in Human-Centered Design and Engineering, and has also dabbled in singing and acting. | [View](https://www.verachen.me/) |
+| **Daniel Abayomi** | Daniel Abayomi is a product designer based in Lagos, Nigeria. He is currently working at Meta. | [View](https://pixeldahn.com/) |
+| **Jan Mraz** | Jan Mraz is a product designer who belive in solving complex problems simply. He is based in Prague, Czech Republic. He is currently working at Google. | [View](https://janmraz.com/) |
+| **Michael Ajah** | Michael Ajah is a product designer based in Lagos, Nigeria. He has 5+ years of experience in solving usability problems . | [View](https://dribbble.com/naijatechguy) |
+| **Zara Drei** | Zara Drei is a London-based UX designer. When she’s not solving problems with beautiful, user-centric web products, you can find her playing around with electronics, making video loops, building ceramic and metal sculptures, or producing electronic music. | [View](http://zaradrei.com/) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+#### Case Studies and Presentations
+> Case Studies*are a great way to showcase your work and skills. They are also a great way to learn from other designers. In this section, we will take a deep dive into what case studies are, how to write them, and how to present them.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn from other designers case studies |
+| **Understand** | Understand what a case study is and how to write one |
+| **Present** | Present your case study to the world |
 
 
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Book | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Understanding Your Users, Second Edition: A Practical Guide to User Research Methods** | Kathy Baxter, Catherine Courage, Kelly Caine | You will find brand new case studies from leaders in industry and academia that demonstrate each method in action. | [Download](https://drive.google.com/file/d/16u7-lIr96aUICUd9g3iv7V9y762FeM1p/view?usp=share_link) |
+| **A UI Design Case Study and a Prototype of a Travel Search Engine Project Report** | Serguei A. Mokhov, Mashrur Mia, P. Solodov, Kai Zhao, J. Halimi | We review a case study of a UI design project for a complete travel search engine system prototype for regular and corporate users. We discuss various usage scenarios, guidelines, and so for, and put them into a web-based prototype with screenshots and the like. | [Download](https://www.pdfdrive.com/a-ui-design-case-study-and-a-prototype-of-a-travel-search-engine-project-report-concordia-e35194567.html) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Article | Author | Description | Link |
+| --- | --- | --- | --- |
+| **What are UX Case Studies?** | Interaction Design Foundation | UX case studies are examples of design work which designers include in their portfolio.  | [Read](https://www.interaction-design.org/literature/topics/ux-case-studies) |
+| **How to write a UX case study** | Ariana Shives | A good case study tells the story behind a design — the research, decisions, and process that went into its creation. | [Read](https://uxdesign.cc/how-to-write-a-case-study-1b1b5f5e3e2c) |
+| **How to write a UX case study** | Sarah Doody | Have you ever been told your UX portfolio lacks depth, or what you did is unclear, or that it doesn’t seem like you have enough experience, even though you know you do? | [Read](https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/) |
+| **8 step guide to write an amazing UX Case study** | Reetika Gupta | See, creating UX case studies for your UX design portfolio is a very strong way that can help you stand out among the crowd. Writing a UX case study is simple. However there are certain things that you need to make sure while you create it. | [Read](https://www.linkedin.com/pulse/8-step-guide-write-amazing-ux-case-study-reetika-gupta-1c/) |
+| **UX Portfolio Case Study template (plus examples from successful hires)** | Calvin | Your portfolio is the most critical piece of the puzzle when it comes to selling your design skills to recruiters and clients. It’s the single most vital component of any design career move you will ever make. | [Download](https://uxplanet.org/ux-portfolio-case-study-template-plus-examples-from-successful-hires-86d5b0faa2d6) |
+| **How to Craft an Outstanding Case Study for Your UX Portfolio** | Jonny Grass | Writing case studies for your UX portfolio can feel opaque and overwhelming. There are so many examples out there, and often the ones that make the rounds are the stunning portfolios of top visual designers. It can be inspiring to see the most beautiful work, but don’t let that distract you from the straightforward format of a good UX case study. | [Read](https://careerfoundry.com/en/blog/ux-design/ux-case-study/) |
+| **How To Write a UX Case Study in 5 Steps** | Cameron Chapman | When you’re starting out as a UX designer, you know that you need case studies for your portfolio. People have different expectations for UX case studies, but we’ll give you the 5 basic elements they should all include. ‍ | [Read](https://uxcel.com/blog/how-to-write-a-ux-case-study-in-5-steps) |
+| **How to Write a UX Case Study: Template and Examples** | Justin Morales | Ready to land your dream job? Designing a few UX case studies for your portfolio is a powerful way to help you stand out among the crowd. | [Read](https://xd.adobe.com/ideas/perspectives/leadership-insights/ux-case-study-template/) |
+| **How to build your own case study** | Emma Demers | A few weeks ago I sat down to do what I always do after finishing up a DALI Lab project: document it on Medium, complete with section headings, bullet points and lots of wireframe PNGs. | [Read](https://uxdesign.cc/case-study-template-8832941a9d1b) | 
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Video | Author | Description | Link |
+| --- | --- | --- | --- |
+| **How to Present a UX Case Study in a Job Interview** | Mizko | In this video, I’ll show you how to present a UX case study in a job interview. | [Watch](https://www.youtube.com/watch?v=ZVZfWfqmRBY) |
+| **How to Write & Structure Your UX Case Study - Website Presentation Design** | Sharon Yeun Kim| This is a walk-through of how to write, present and structure your UX case study material on your portfolio website. | [Watch](https://www.youtube.com/watch?v=hx7XyA8RNIw) | 
+| **UX case study that got me hired - A walkthrough** | Anfisa Bogomolova | In this video, I’ll walk you through a UX case study that got me hired. | [Watch](https://www.youtube.com/watch?v=ptnYGRPlzN8) |
+| **How to Outline & Write your UX Case Study** | Maddy Beard | Many designers have some self-doubt when it comes to writing, so today I'm going to show you how I outline my UX case study, what I include, and exactly what I've written so that you can learn from a real example. | [Watch](https://www.youtube.com/watch?v=M5HC58tTC2U) |
+| **UX Portfolio - How to Create a UX Case Study** | Yobi | In this video, you’ll learn what makes a great UX case study. I shared one of my first case studies (Houzz mobile app),  which turned into an awesome project in my portfolio, and helped me land my first UX job in the Silicon Valley. | [Watch](https://www.youtube.com/watch?v=mWnfc0Lm_F4) |
+| **Writing the Perfect UI/UX Case Study!** | Design Pilot | The intent of this ui/ux case study video is not to demean or look down upon the work of another designer. It is just to provide valuable and actionable feedback for the benefit of everyone who is watching this video. | [Watch](https://www.youtube.com/watch?v=d8FtsgQyGXw) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Case Study Inspiration
+| Case Study | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Health Wise Case Study** | Mosope Adebowale | In this case study, I will be sharing the process I went through to design the Health Wise app. | [View](https://mosopeadebowale.com/wp-content/uploads/2019/09/Mosope_Adebowale_Healthwise_CaseStudy.pdf) |
+| **Google Mentor Case Study** | Surja Sen Das Raj | In this case study, I will be sharing the process I went through to design the Google Mentor app. | [View](https://www.behance.net/gallery/90958309/Google-Mentor-Design-Case-Study) |
+| **Money transfer - A Better Way to Handle Your Money** | surja Sen Das Raj | In this case study, I will be sharing the process I went through to design the Money transfer app. | [View](https://www.behance.net/gallery/95491533/Money-transfer-A-Better-Way-to-Handle-Your-Money) |
+| **Medico - Case Study** | Surja Sen Das Raj | In this case study, I will be sharing the process I went through to design the Medico app. | [View](https://www.behance.net/gallery/91410737/Medico-Online-Medical-Services-Case-Study) |
+| **Case study: Designing an in-app messaging feature** | Miracle Onesimus | In this case study, I will be sharing the process I went through to design the in-app messaging feature. | [View](https://bootcamp.uxdesign.cc/a-ux-case-study-on-carbon-an-in-app-messaging-feature-7b5c819982aa) |
+| **Case Studies Curated List** | BestFolios | Featuring the best case studies from top design talents around the world. | [View List](https://www.bestfolios.com/casestudy) |
+| **Behance: Case Study List** | Behance | A curated list of case studies from the Behance community. | [View List](https://www.behance.net/search?content=projects&sort=appreciations&time=week&search=case+study) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Project Tasks #4
+- **Task One:** Using the list of case study [above](#case-study-inspiration) as a source of inspiration, create a case study for a project you have worked on in [Project Tasks #1](#project-tasks-1). You can use this [template](https://www.figma.com/community/file/1067428863353945820) as a guide.
+- **Task Two:** Create a case study for a project you have worked on in [Project Tasks #2](#project-tasks-2). You can use this [template](https://www.figma.com/community/file/1015129345947090766/Case-Study-Template) as a guide.
+- Task Three: Create a case study for a project you have worked on in [Project Tasks #3](#project-tasks-3). You can use this [template one](https://www.figma.com/community/file/949395060452790372/Case-Study-Template---Creative-Ferry) or [template two](https://www.figma.com/community/file/1079111124242711698/Behance-Presentation-Template-UI%2FUX-Case-study) as a guide.
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Project Tasks #5 (Final Project)
+> In this final project, you will be given two problems to solve. You will be required to pick one of the problems to solve. Each of the problems revolves around the curriculum we have covered in this learning path. You will be required to create a case study for the project you have worked on.
+
+- **Problem One:** You are a UX designer at a company that is looking to create a new product that will help people learn new languages. You have been tasked with creating to follow design thinking process to create a solution for this problem. The solution you create should be a product that is user centered, and uses voice interface design. Incorporating virtual or augmented reality features to enhance the user experience is **optional**. The application should be designed for mobile devices with a personalized approach to learning, allowing users to set their learning goals and track their progress. Incorporating accessibility features, such as subtitles for videos, and internationalization features, such as translation for multiple languages is a must. 
+  * Design Thinking Process: 
+    * Empathize
+    * Define
+    * Ideate
+    * Prototype
+    * Test
+  * Deliverables: 
+    * Design system
+      * Typography
+      * Color Palette
+      * Layouts
+      * Components
+      * Avatar
+      * Others (if any) - Follow [Design System Checklist](https://www.designsystemchecklist.com/)
+    * A case study that includes the following sections: 
+      * Problem Statement
+      * User Research
+      * User Personas
+      * User Journey Map
+      * User Flows
+      * Wireframes
+      * Visual Design
+      * Usability Testing
+      * Reflection
+    * Prototype
+&nbsp;&nbsp;
+- **Problem Two:** You are a UX designer at a company that is looking to create a new product that will offer personalized health and wellness recommendation based on user preference including diet and exercise plans, mindfulness and meditation practices, and sleep tracking. You have been tasked with creating to follow design thinking process to create a solution for this problem. The solution you create should be a product that is user centered, and incorporate accessibility features for users with disabilities, such as voice recognition and alternative text for images. Additionally, internationalization features could be implemented to offer the app in multiple languages, optionally you can incorporate virtual or augmented reality features to provide an immersive experiences for users, such as guided meditation. 
+  * Design Thinking Process: 
+    * Empathize
+    * Define
+    * Ideate
+    * Prototype
+    * Test
+  * Deliverables: 
+    * Design system
+      * Typography
+      * Color Palette
+      * Layouts
+      * Components
+      * Avatar
+      * Others (if any) - Follow [Design System Checklist](https://www.designsystemchecklist.com/)
+    * A case study that includes the following sections: 
+      * Problem Statement
+      * User Research
+      * User Personas
+      * User Journey Map
+      * User Flows
+      * Wireframes
+      * Visual Design
+      * Usability Testing
+      * Reflection
+    * Prototype
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+### Career Development
+> In this section, you will find resources that will help you with your career development and job search. Landing a job as a UX designer is not easy, but with your current skill set, you are well on your way to landing your dream job.
+
+#### Job Search and Interviewing
+> In this section, you will find resources that will help you with your job search and interviewing. Interviewing is a skill that can be learned and improved upon. The more you practice, the better you will become at interviewing.
+
+#####  Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn how to prepare for a UX design interview. |
+| **Understand** | Understand what to expect during a UX design interview. |
+| **Practice** | Practice answering common UX design interview questions. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Books
+| Book | Author | Description | Link |
+| --- | --- | --- | --- |
+| **Solving Product Design Exercises: Questions & Answers** | Artiom Dashinsky | Practice your product design and UX skills. Prepare for your next job interview. Learn how to solve and present exercises like these, that top startups use to interview designers for product design and UI/UX roles. | [Download](https://drive.google.com/file/d/1Jcuq9VrVyQ22Oe6RIXx09vBM5c9Eg3YP/view?usp=share_link) |
+| **Get Into UX: A Foolproof Guide to Getting Your First User Experience Job** | Alechnavicius, Vy | Get Into UX book is a career advice book written to help new and experienced designers get unstuck in their pursuits to get UX jobs. | [Download](https://drive.google.com/file/d/1xvmr9iUtbByVxkctw6ugVSwqd3bNfIUv/view?usp=share_link) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Articles
+| Article | Author | Description | Link |
+| --- | --- | --- | --- |
+| **21 Essential UX Interview Questions & How to Answer Them** | Dribbble | Preparing for your next UX interview? Get answers to the most common UX interview questions to land your next UX design job. | [Read](https://dribbble.com/resources/ux-interview-questions) |
+| **The 4 Types of UX Interview Questions to Master** | UX Beginner | Interviewing used to be one of those painful, tedious chores for me. That’s because I didn’t understand the underlying structure of interview questions. | [Read](https://www.uxbeginner.com/the-4-types-of-ux-interview-questions-to-master/) | 
+| **46 Interview Questions for User Experience Researchers at Google, Amazon, Microsoft and Facebook** | Eleonora Zucconi | A selection of inspiring and challenging questions (and a bonus presentation to practice them) | [Read](https://medium.com/@eleonorazucconi/46-interview-questions-for-user-experience-researchers-at-google-amazon-microsoft-and-facebook-c582827267b9) |
+| **The Big List of 119 UX Interview Questions** | Lewis | In this article, I’ve compiled a list of 119 UX interview questions that you can use to prepare for your next UX interview. | [Read](https://www.impactinterview.com/2017/01/big-list-ux-interview-questions/) |
+| **Cracking the UX Design Interview** | Sanny | I remember my first full-time design job — it was a whirlwind 5 months of applications and interviews. I talked to hundreds of people and sat in over 50 rounds of interviews. | [Read](https://medium.com/interactive-mind/cracking-the-ux-design-interview-3ea6407093f5) |
+| **11 Common UX Design Interview Questions You'll Be Asked** | Emily Stevens | Wouldn’t it be great if you could go into your next UX design interview knowing exactly what questions you were going to be asked? And, even better, knowing just how to answer them? | [Read](https://careerfoundry.com/en/blog/ux-design/make-sure-you-can-answer-these-11-ux-design-interview-questions/) |
+| **12 UX Designer Interview Questions and Answers** | Interviews can be intimidating. Spend some time preparing ahead of your next user experience (UX) designer interview, and you can walk in (or sign on) with more confidence. A big part of preparing for an interview is going over some common interview questions and thinking through how you’ll answer them. | [Read](https://www.coursera.org/articles/ux-designer-interview-questions-and-answers) |
+| **UX Design Job Interview Tips for Global Candidates: Landing Your Dream Role in the US** | Elena Bukhonok | Searching for a design job is never easy—and it’s even more challenging if you’re new to the country and culture you want to work in. Here are steps one designer took to build a successful design career in America. | [Read](https://www.toptal.com/designers/ux/ux-design-job-interview-tips) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### Videos
+| Video | Author | Description | Link |
+| --- | --- | --- | --- |
+| **The Essential UX Interview Questions (And How To Answer Them!)** | Dee Scarano | Interviewing for UX design roles? Well you’ve come to the right place. In this video, we’ll share the 4 most commonly asked UX interview questions, and share tangible solutions on how to best answer them! | [Watch](https://www.youtube.com/watch?v=vu3xcQm7cEo) |
+| **UX Design: How to ACE Your Next UX Job Interview** | AJ&Smart | In this video, AJ&Smart’s UX Designers share how to best prepare for your next UX interview, which rookie mistakes to avoid, and how to set yourself apart from the crowd. | [Watch](https://www.youtube.com/watch?v=I00LwSMABtk) |
+| **10 CRUCIAL Questions You MUST Ask Your Interviewer (as a UX/UI Designer)** | Mizko | In this video, I share 10 crucial questions you must ask your interviewer as a UX/UI designer. | [Watch](https://www.youtube.com/watch?v=ygMvS7RLUGs) |
+| **UI/UX Design Job Interview Questions and Answers - Ace Your Next UX Design Interview!** | Sharon Onyinye | In today's video, I am going over some questions that you will most likely be asked in a UX design interview as well as going over tips on how best to answer them. I also talk about the best interview practices and tips that you can use in your next UI/UX design interview.  | [Watch](https://www.youtube.com/watch?v=2OzTi0iUMlE) |
+| **Microsoft Interview Questions and Process - UIUX Design - TIPS to crack Microsoft Interview rounds** | Raghu Nathan | Watch this video to know about the interview process in Microsoft and how to crack it - User Experience Design Tips and the exceptions from the HR has been clearly shared in this video. | [Watch](https://www.youtube.com/watch?v=feP6wiDor5U) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+<div align="center">
+  <details>
+  <summary> UI/UX Resume/CV Examples </summary>
+
+ **Bestfolios** - Featuring the best resumes from UI/UX and graphic design community around the world. [Visit](https://www.bestfolios.com/resumes)
+
+  </details>
+</div>
+&nbsp;
+<div align="center">
+  <details>
+  <summary> UI/UX Cover Letter Template </summary>
+
+ **Cover Letter** - This contains a cover letter for a UI/UX designer  [Visit](https://drive.google.com/drive/folders/1JnPg4TpraLKCR0UvqwuehzbNk268WM-Q?usp=share_link)
+
+  </details>
+</div>
+
+##### Job Search Websites
+| Website | Description | Link |
+| --- | --- | --- |
+| **UX Jobs** | UX Jobs is a job board for UX designers, researchers, and product managers. | [Visit](https://uxjobsboard.com/) |
+| **Dribbble Jobs** | Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals. | [Visit](https://dribbble.com/jobs) |
+| **Behance Jobs** | Behance is the world's largest creative network for showcasing and discovering creative work. | [Visit](https://www.behance.net/jobs) |
+| **LinkedIn Jobs** | LinkedIn is the world's largest professional network with more than 675 million members worldwide. | [Visit](https://www.linkedin.com/jobs/) |
+| **AngelList Jobs** | AngelList is where the world meets startups. | [Visit](https://angel.co/jobs) |
+| **Glassdoor Jobs** | Glassdoor is the world's largest job and recruiting site. | [Visit](https://www.glassdoor.com/index.htm) |
+| **Indeed Jobs** | Indeed is the #1 job site worldwide, with over 250 million unique visitors every month. | [Visit](https://www.indeed.com/) |
+| **YC Jobs** | Y Combinator is a startup accelerator. | [Visit](https://www.ycombinator.com/jobs/) |
+| **Remotive Jobs** | Remotive is a job board for remote jobs. | [Visit](https://remotive.io/) |
+| **Remote Jobs** | Remote Jobs is a job board for remote jobs. | [Visit](https://remote.co/remote-jobs/) |
+| **Facebook Jobs** | Facebook is an online social media and social networking service company. | [Visit](https://www.facebook.com/careers/) |
+| **Google Jobs** | Google is an American multinational technology company specializing in Internet-related services and products. | [Visit](https://careers.google.com/) |
+| **Twitter Jobs** | Twitter is an American microblogging and social networking service on which users post and interact with messages known as "tweets". | [Visit](https://careers.twitter.com/) |
+| **Microsoft Jobs** | Microsoft is an American multinational technology company with headquarters in Redmond, Washington. | [Visit](https://careers.microsoft.com/us/en) |
 
 
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+#### Freelancing and Entrepreneurship
+> Freelancing and Entrepreneurship is a great way to make money and build your portfolio. It's also a great way to learn and grow as a designer. Here are some resources to help you get started.
+
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn how to start freelancing and build a successful business. |
+| **Understand** | Understand the pros and cons of freelancing and entrepreneurship. |
+| **Prepare** | Prepare yourself for the challenges of freelancing and entrepreneurship. |
+| **Grow** | Grow your business and make more money. |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### UI/UX Design Freelancing Sites
+| Website | Description | Link |
+| --- | --- | --- |
+| **Upwork** | Upwork is the leading online workplace, home to thousands of top-rated freelancers. | [Visit](https://www.upwork.com/) |
+| **Fiverr** | Fiverr is the world's largest freelance services marketplace for lean entrepreneurs to focus on growth & create a successful business at affordable costs. | [Visit](https://www.fiverr.com/) |
+| **Freelancer** | Freelancer is the largest marketplace for jobs in the world. | [Visit](https://www.freelancer.com/) |
+| **99Designs** | 99designs is the world's largest marketplace of graphic design. | [Visit](https://99designs.com/) |
+| **DesignCrowd** | DesignCrowd is the world's largest crowdsourcing design platform. | [Visit](https://www.designcrowd.com/) |
+| **CrowdSpring** | CrowdSpring is the world's largest crowdsourcing platform for graphic design. | [Visit](https://www.crowdspring.com/) |
+| **Designhill** | Designhill is the world's largest crowdsourcing platform for graphic design. | [Visit](https://www.designhill.com/) |
+| **DesignContest** | DesignContest is the world's largest crowdsourcing platform for graphic design. | [Visit](https://www.designcontest.com/) |
+| **PeoplePerHour** | PeoplePerHour is the world's largest marketplace for digital services. | [Visit](https://www.peopleperhour.com/) |
+| **Toptal** | Toptal is a marketplace for top UI/UX designers, developers, finance experts, product managers, and project managers. | [Visit](https://www.toptal.com/) |
 
 
+#### Professional Development and Networking
+> Professional development and networking is a great way to learn and grow as a designer. Here are some resources to help you get started.
 
+##### Goals
+| Goal | Description |
+| --- | --- |
+| **Learn** | Learn how to network and build your professional network. |
+| **Prepare** | Prepare yourself for the challenges of networking. |
+| **Grow** | Grow your network and make more money. |
 
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### UI/UX Design Communities
+| Community | Description | Link |
+| --- | --- | --- |
+| **Jupiter Design Community** | Jupiter is a community of designers and developers. | [Visit](https://chat.whatsapp.com/Ku4SUjSmc4zIAg5XzffEcs) |
+| **UX Design Hangout** | UX Design Hangout is a community of UX designers. | [Visit](https://designerhangout.co/?mwr=3a1f1519/) |
+| **Figma Africa** | Figma Africa is a community of designers and developers. | [Visit](https://foflagos.slack.com/) |
+| **UX Guide** | UX Guide is a community of UX designers. | [Visit](https://ux.guide/) |
+| **UX Her** | UX Her is a community of UX designers. | [Visit](https://uxher.com/) |
+| **Designer Slack Communities** | Designer Slack Communities is list of designer communities. | [Visit](https://www.designerslack.community/) |
+
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+##### UI/UX Designers to Follow
+| Designer | Description | Link |
+| --- | --- | --- |
+| **Zander Whitehurst** | Zander Whitehurst is a designer, founder & CEO of Memorisely. | [Visit](https://twitter.com/zander_supafast) | 
+| **Grace Ling** | Grace Ling is a UX designer at Google. | [Visit](https://twitter.com/graceleaf_) |
+| **Timothy Achumba** | Timothy Achumba is a product designer at Microsoft. | [Visit](https://twitter.com/timothyachumba) |
+| **Jared Spool** | Jared Spool is the founder of User Interface Engineering. | [Visit](https://twitter.com/jmspool) |
+| **Chris Do** | Chris Do is the founder of The Futur. | [Visit](https://twitter.com/thechrisdo) |
+| **Luke Wroblewski** | Luke Wroblewski is the founder of MobileMoxie. | [Visit](https://twitter.com/lukew) |
+| **Oyindamola Ajibike** | Oyindamola Ajibike is a designer creating global-aware products and simplifying user experiences. | [Visit](https://twitter.com/MystiqueDammy) |
+| **Josiah Endurance** | Josiah Endurance is a product designer and developer, who loves to create beautiful and functional products. | [Visit](https://twitter.com/hendurhance) |
+| **Daniel Abayomi** | Daniel Abayomi is a product designer who currently works at Meta. | [Visit](https://twitter.com/pixelDahn) |
+| **UX Collective** | UX Collective is a community of UX designers. | [Visit](https://twitter.com/uxdesigncc) |
+| **Akin Boluwatife** | Akin Boluwatife is a product designer who believes in the power of design to solve problems. | [Visit](https://twitter.com/akinboulex) |
+| **Druids** | Druids is a product design who focuses on creating experience for games and VR. | [Visit](https://twitter.com/druids01) |
+| **UX Planet** | UX Planet is a community of UX designers. | [Visit](https://twitter.com/uxplanet) |
+| **Bamigboye** | Bamigboye is a UI/UX designer | [Visit](https://twitter.com/MrBamigboye) |
+| **Ozenua** | Ozenua is a product designer who believes in the power of design to solve problems. | [Visit](https://twitter.com/theoneozenua) |
+| **Isaac Somto** | Isaac Somto is a product designer who believes in driving change through design. | [Visit](https://twitter.com/iamIsaacsomto) |
+| **Hammed Taiwo** | Hammed Taiwo is a product designer who believes in making users happy and companies richer through design | [Visit](https://twitter.com/rapzzyofficial) |
+| **Jan Mrazek** | Jan Mrazek is a product designer and also a Cofounder of atherosia | [Visit](https://twitter.com/janm_uiux) |
+| **Olamide Towobola** | Olamide Towobola is a product designer who believes in the power of design to solve problems. | [Visit](https://twitter.com/OlamideTowobola) |
+| **Victor Onazi** | Victor Onazi is a product designer who currently building products in Fintech to help people save and invest. | [Visit](https://twitter.com/VictorOnazi_) |
+| **Tunbosun Tobilola** | Tunbosun Tobilola is a product designer who loves building interactive and engaging products. | [Visit](https://twitter.com/Futureio) |
+| **Fiyin** | Fiyin is a product designer who believes in the power of design to solve problems. | [Visit](https://twitter.com/fiyindesign) |
+
+&nbsp;
+
+###### We have come to the end of this resource. If you have any suggestions, please feel free to reach out to me on [Twitter](https://twitter.com/hendurhance), [LinkedIn](https://www.linkedin.com/in/hendurhance/), or [Email](mailto:hendurhance@outlook.com). I would love to hear from you.
+**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
+
+# Contributing
+I'll be more than pleased if you contribute to this resource.
+[Read Contribution Doc](CONTRIBUTING.md)
 
 
 
