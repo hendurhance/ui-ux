@@ -2119,29 +2119,3 @@ F --> T([Professional Development and Networking])
 # Contributing
 I'll be more than pleased if you contribute to this resource.
 [Read Contribution Doc](CONTRIBUTING.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--  -->
-
-
-
-
-<!--  -->
