@@ -8,9 +8,9 @@ This repository contains a curated list of resources to help you learn about Use
 
 <div align="center"> <h3>Overview</h3>
 <summary> 
-  <p> Thus</p>
+  <p> 📚 A comprehensive user interface and user experience learning resource for beginners, intermediates and experts . </p>
 
-  [![View ui-ux on GitHub](https://img.shields.io/github/stars/hendurhance/ui-ux?color=232323&label=ui-ux&logo=github&labelColor=232323)](https://github.com/hendurhance/ui-ux/) [![Author hendurhance](https://img.shields.io/badge/hendurhance-blue?labelColor=000000&logo=githubsponsors&logoColor=fff)](https://github.com/hendurhance) [![License: Creative Commons Zero v1.0 Universal](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Twitter](https://img.shields.io/twitter/follow/hendurhance?style=social)](https://twitter.com/hendurhance) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hendurhance/)[![Donate](https://img.shields.io/badge/Donate-Flutterwave-blue.svg)](https://barter.me/hendurhance) [![Donate](https://img.shields.io/badge/Donate-Payday-blue.svg)](https://usepayday.me/hendurhance) 
+  [![View ui-ux on GitHub](https://img.shields.io/github/stars/hendurhance/ui-ux?color=232323&label=ui-ux&logo=github&labelColor=232323)](https://github.com/hendurhance/ui-ux/) [![Author hendurhance](https://img.shields.io/badge/hendurhance-blue?labelColor=000000&logo=githubsponsors&logoColor=fff)](https://github.com/hendurhance) [![License: Creative Commons Zero v1.0 Universal](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Twitter](https://img.shields.io/twitter/follow/hendurhance?style=social)](https://twitter.com/hendurhance) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hendurhance/) [![Donate](https://img.shields.io/badge/Donate-Flutterwave-blue.svg)](https://barter.me/hendurhance) [![Donate](https://img.shields.io/badge/Donate-Payday-blue.svg)](https://usepayday.me/hendurhance) 
   <a href='https://github.com/hendurhance/ui-ux/tree/%40deprecated-2021-resource' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Old_ Learning Guide Version-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=grey&color=black'/></a>
 </summary>
 </div>
@@ -2088,28 +2088,28 @@ F --> T([Professional Development and Networking])
 ##### UI/UX Designers to Follow
 | Designer | Description | Link |
 | --- | --- | --- |
-| **Zander Whitehurst** | Zander Whitehurst is a designer, founder & CEO of Memorisely. | [Visit](https://twitter.com/zander_supafast) | 
-| **Grace Ling** | Grace Ling is a UX designer at Google. | [Visit](https://twitter.com/graceleaf_) |
-| **Timothy Achumba** | Timothy Achumba is a product designer at Microsoft. | [Visit](https://twitter.com/timothyachumba) |
-| **Jared Spool** | Jared Spool is the founder of User Interface Engineering. | [Visit](https://twitter.com/jmspool) |
-| **Chris Do** | Chris Do is the founder of The Futur. | [Visit](https://twitter.com/thechrisdo) |
-| **Luke Wroblewski** | Luke Wroblewski is the founder of MobileMoxie. | [Visit](https://twitter.com/lukew) |
-| **Oyindamola Ajibike** | Oyindamola Ajibike is a designer creating global-aware products and simplifying user experiences. | [Visit](https://twitter.com/MystiqueDammy) |
-| **Josiah Endurance** | Josiah Endurance is a product designer and developer, who loves to create beautiful and functional products. | [Visit](https://twitter.com/hendurhance) |
-| **Daniel Abayomi** | Daniel Abayomi is a product designer who currently works at Meta. | [Visit](https://twitter.com/pixelDahn) |
-| **UX Collective** | UX Collective is a community of UX designers. | [Visit](https://twitter.com/uxdesigncc) |
-| **Akin Boluwatife** | Akin Boluwatife is a product designer who believes in the power of design to solve problems. | [Visit](https://twitter.com/akinboulex) |
-| **Druids** | Druids is a product design who focuses on creating experience for games and VR. | [Visit](https://twitter.com/druids01) |
-| **UX Planet** | UX Planet is a community of UX designers. | [Visit](https://twitter.com/uxplanet) |
-| **Bamigboye** | Bamigboye is a UI/UX designer | [Visit](https://twitter.com/MrBamigboye) |
-| **Ozenua** | Ozenua is a product designer who believes in the power of design to solve problems. | [Visit](https://twitter.com/theoneozenua) |
-| **Isaac Somto** | Isaac Somto is a product designer who believes in driving change through design. | [Visit](https://twitter.com/iamIsaacsomto) |
-| **Hammed Taiwo** | Hammed Taiwo is a product designer who believes in making users happy and companies richer through design | [Visit](https://twitter.com/rapzzyofficial) |
-| **Jan Mrazek** | Jan Mrazek is a product designer and also a Cofounder of atherosia | [Visit](https://twitter.com/janm_uiux) |
-| **Olamide Towobola** | Olamide Towobola is a product designer who believes in the power of design to solve problems. | [Visit](https://twitter.com/OlamideTowobola) |
-| **Victor Onazi** | Victor Onazi is a product designer who currently building products in Fintech to help people save and invest. | [Visit](https://twitter.com/VictorOnazi_) |
-| **Tunbosun Tobilola** | Tunbosun Tobilola is a product designer who loves building interactive and engaging products. | [Visit](https://twitter.com/Futureio) |
-| **Fiyin** | Fiyin is a product designer who believes in the power of design to solve problems. | [Visit](https://twitter.com/fiyindesign) |
+| **Zander Whitehurst** | Zander Whitehurst is a designer, founder & CEO of Memorisely. | [Follow](https://twitter.com/zander_supafast) | 
+| **Grace Ling** | Grace Ling is a UX designer at Google. | [Follow](https://twitter.com/graceleaf_) |
+| **Timothy Achumba** | Timothy Achumba is a product designer at Microsoft. | [Follow](https://twitter.com/timothyachumba) |
+| **Jared Spool** | Jared Spool is the founder of User Interface Engineering. | [Follow](https://twitter.com/jmspool) |
+| **Chris Do** | Chris Do is the founder of The Futur. | [Follow](https://twitter.com/thechrisdo) |
+| **Luke Wroblewski** | Luke Wroblewski is the founder of MobileMoxie. | [Follow](https://twitter.com/lukew) |
+| **Oyindamola Ajibike** | Oyindamola Ajibike is a designer creating global-aware products and simplifying user experiences. | [Follow](https://twitter.com/MystiqueDammy) |
+| **Josiah Endurance** | Josiah Endurance is a product designer and developer, who loves to create beautiful and functional products. | [Follow](https://twitter.com/hendurhance) |
+| **Daniel Abayomi** | Daniel Abayomi is a product designer who currently works at Meta. | [Follow](https://twitter.com/pixelDahn) |
+| **UX Collective** | UX Collective is a community of UX designers. | [Follow](https://twitter.com/uxdesigncc) |
+| **Akin Boluwatife** | Akin Boluwatife is a product designer who believes in the power of design to solve problems. | [Follow](https://twitter.com/akinboulex) |
+| **Druids** | Druids is a product design who focuses on creating experience for games and VR. | [Follow](https://twitter.com/druids01) |
+| **UX Planet** | UX Planet is a community of UX designers. | [Follow](https://twitter.com/uxplanet) |
+| **Bamigboye** | Bamigboye is a UI/UX designer | [Follow](https://twitter.com/MrBamigboye) |
+| **Ozenua** | Ozenua is a product designer who believes in the power of design to solve problems. | [Follow](https://twitter.com/theoneozenua) |
+| **Isaac Somto** | Isaac Somto is a product designer who believes in driving change through design. | [Follow](https://twitter.com/iamIsaacsomto) |
+| **Hammed Taiwo** | Hammed Taiwo is a product designer who believes in making users happy and companies richer through design | [Follow](https://twitter.com/rapzzyofficial) |
+| **Jan Mrazek** | Jan Mrazek is a product designer and also a Cofounder of atherosia | [Follow](https://twitter.com/janm_uiux) |
+| **Olamide Towobola** | Olamide Towobola is a product designer who believes in the power of design to solve problems. | [Follow](https://twitter.com/OlamideTowobola) |
+| **Victor Onazi** | Victor Onazi is a product designer who currently building products in Fintech to help people save and invest. | [Follow](https://twitter.com/VictorOnazi_) |
+| **Tunbosun Tobilola** | Tunbosun Tobilola is a product designer who loves building interactive and engaging products. | [Follow](https://twitter.com/Futureio) |
+| **Fiyin** | Fiyin is a product designer who believes in the power of design to solve problems. | [Follow](https://twitter.com/fiyindesign) |
 
 &nbsp;
 
