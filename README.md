@@ -1297,6 +1297,7 @@ F --> T([Professional Development and Networking])
 | **Inclusive Design for a Digital World: Designing with Accessibility in Mind** | Regine M. Gilbert | What is inclusive design? It is simple. It means that your product has been created with the intention of being accessible to as many different users as possible. For a long time, the concept of accessibility has been limited in terms of only defining physical spaces | [Download](https://drive.google.com/file/d/1MwqNkEj8NYi5sPV1yyD9Tj5-xhd-jmtI/view?usp=share_link) |
 | **A web for everyone: designing accessible user experiences** | Horton, Sarah, Quesenbery, Whitney | If you are in charge of the user experience, development, or strategy for a web site, A Web for Everyone will help you make your site accessible without sacrificing design or innovation. Rooted in universal design principles, this book provides solutions: practical advice and examples of how to create sites that everyone can use. | [Download](https://drive.google.com/file/d/1AOPcy1NfXmkUZx7LcENYdQ5NDf1nXXb0/view?usp=share_link) |
 | **Design for Inclusivity: A Practical Guide to Accessible, Innovative and User-centred Design (Design for Social Responsibility)** | Roger Coleman, John Clarkson, Hua Dong, Julia Cassim | Inclusive design not only ensures that products, services, interfaces and environments are easier to use for those with special needs or limitations, but in doing so also makes them better for everyone. | [Download](https://drive.google.com/file/d/1XVUFZJUA0ju9dk6QMC9uOJxYkC8EOeGn/view?usp=share_link) |
+| **Refactoring UI** | Steve Schoger, Adam Wathan | Refactoring UI is a book about designing better user interfaces. Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view. | [Download](https://drive.google.com/file/d/1Tva2lk-H7BTmLSMdJ1tx4ScnGJN4JGlf/view?usp=share_link) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -2113,6 +2114,8 @@ F --> T([Professional Development and Networking])
 | **Victor Onazi** | Victor Onazi is a product designer who currently building products in Fintech to help people save and invest. | [Follow](https://twitter.com/VictorOnazi_) |
 | **Tunbosun Tobilola** | Tunbosun Tobilola is a product designer who loves building interactive and engaging products. | [Follow](https://twitter.com/Futureio) |
 | **Fiyin** | Fiyin is a product designer who believes in the power of design to solve problems. | [Follow](https://twitter.com/fiyindesign) |
+| **Davio White** | Davio White is a product designer who believes in the power of design to solve problems. | [Follow](https://twitter.com/daviowhite) |
+| **Michael Ajah** | Oluwaseun Oluwadamilare is a product designer who believes in the power of design to solve problems. | [Follow](https://twitter.com/dnaijatechguy) |
 
 &nbsp;
 
