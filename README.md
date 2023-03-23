@@ -563,6 +563,7 @@ E --> P([Layout and Composition])
 | **Web Design Style Guide** | Carleton University | This guide is intended to help you create a consistent layout and feel for your web site. It is based on the principles of good design and usability. | [Download](https://apps.carleton.edu/campus/web-group/assets/Web_Design_Style_Guide_1.0.pdf) |
 | **Best Practices for Graphic Designers, Grids and Page Layouts: An Essential Guide for Understanding and Applying Page Design Principles** | Amy Graver & Ben Jura | This unique, go-to guide for designers fully details the essential layout and design skills needed to succeed in this competitive industry. | [Download](https://www.pdfdrive.com/best-practices-for-graphic-designers-grids-and-page-layouts-an-essential-guide-for-understanding-and-applying-page-design-principles-e175264020.html) |
 | **Modular Design Frameworks : A Projects-based Guide for UI/UX Designers** | Cabrera & James | Learn the basic principles of modular design, and then put them into action to create sites that are easy to use, look great, and can be adapted within the context of your business needs. |[Download](https://www.pdfdrive.com/modular-design-frameworks-a-projects-based-guide-for-uiux-designers-e158241077.html)|
+
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
 ##### Articles
@@ -669,7 +670,7 @@ E --> R[Design Critique]
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **Introduction To UX Research ( User Research)** | UX Planet | User Research focuses on understanding user behaviours, needs, and motivations through interviews, surveys, usability evaluations and other feedback methods. | [Read](https://uxplanet.org/introduction-to-ux-research-user-research-a2f27a6413ff) |
+| **Introduction To UX Research ( User Research)** | UX Planet | User Research focuses on understanding user behaviors, needs, and motivations through interviews, surveys, usability evaluations and other feedback methods. | [Read](https://uxplanet.org/introduction-to-ux-research-user-research-a2f27a6413ff) |
 | **The UX Research Methods You Need To Know** | CareerFoundry | As we know, UX research is all about gathering insights that can be used to inform the design process. Different research methods will uncover different insights. | [Read](https://careerfoundry.com/en/tutorials/ux-research-for-beginners/an-introduction-to-ux-research-methods/) |
 | **Complete Beginner's Guide to UX Research** | UX Booth | In an industry devoted to the people who use our products, services, and applications, research is paramount. We ask questions. We take notes. We learn everything we can about the target audience, and then iteratively test our work throughout the design process. | [Read](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/) |
 | **Intro to UX research** | Optimal Workshop | User research is a critical part of the design process. It helps you understand your users, their needs, and how to solve their problems. | [Read](https://blog.optimalworkshop.com/intro-to-ux-research/) |
