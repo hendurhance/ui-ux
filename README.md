@@ -859,6 +859,7 @@ E --> R[Design Critique]
 | Title | Author | Description | Link | Free/Paid |
 | --- | --- | --- | --- | --- |
 | **Maze** | Maze | Maze is a usability testing platform that helps you get the most out of your user testing. | [Visit](https://maze.design/) | Free |
+| **Hubble** | Hubble | Hubble is a user testing platform that helps you to test prototypes and wireframes for free. | [Visit](https://www.hubble.team/) | Free |
 | **UserTesting** | UserTesting | UserTesting is the world’s leading on-demand human insight platform. | [Visit](https://www.usertesting.com/) | Paid |
 | **UserZoom** | UserZoom | UserZoom is the leading provider of on-demand user experience research. | [Visit](https://www.userzoom.com/) | Free |
 | **Userlytics** | Userlytics | Userlytics is a user testing platform that helps you get the most out of your user testing. | [Visit](https://userlytics.com/) | Paid |
