@@ -841,6 +841,8 @@ E --> R[Design Critique]
 | **The A to Z of UX — H is for Heuristics: 9 steps to carry out a heuristic evaluation** | Darren Wilson | Heuristics are a well established and accepted list of UX principles used to assess how well a user interface has been designed for its intended purpose. | [Read](https://uxdesign.cc/the-a-to-z-of-ux-h-is-for-heuristics-9-steps-to-carry-out-a-heuristic-evaluation-a1f5225c4e83) |
 | **User & Usability Testing - Methods & Tips**| Adobe | What is user testing? User testing is a technique used in user-centered design to evaluate a proposed solution or product by testing it with real or potential users.  | [Read](https://xd.adobe.com/ideas/process/user-testing/) |
 | **Heuristic Evaluation: GoodReads, LibraryThing, Litsy** | Nóra Sárga | Heuristic evaluation is a great way to test and discover usability issues of your product and competitors’ as well. | [Read](https://uxplanet.org/heuristic-evaluation-goodreads-librarything-litsy-a3a4d8373255) |
+| **Guide to Usability Testing Plans** | Jin Jeon | A usability test plan is a document that outlines a study structure, serving as a guide with details on study objectives, methodologies, participant profile, scenario, and metrics. | [Read](https://www.hubble.team/guide/guide-to-usability-test-plans) |
+
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -858,6 +860,7 @@ E --> R[Design Critique]
 ##### Tools
 | Title | Author | Description | Link | Free/Paid |
 | --- | --- | --- | --- | --- |
+| **Hubble** | Hubble | Hubble is a unified user research platform that helps designers and product managers to test Figma prototypes with heatmaps and screen recordings. | [Visit](https://www.hubble.team/) | Free |
 | **Maze** | Maze | Maze is a usability testing platform that helps you get the most out of your user testing. | [Visit](https://maze.design/) | Free |
 | **UserTesting** | UserTesting | UserTesting is the world’s leading on-demand human insight platform. | [Visit](https://www.usertesting.com/) | Paid |
 | **UserZoom** | UserZoom | UserZoom is the leading provider of on-demand user experience research. | [Visit](https://www.userzoom.com/) | Free |
