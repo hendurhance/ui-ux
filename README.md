@@ -126,7 +126,7 @@ E --> P([Layout and Composition])
 ##### Books
 | Title | Author | Description | Download Link |
 | --- | --- | --- | --- |
-| **UX For Dummies** | Chesnut, Donald, Nichols, Kevin P | Get up to speed quickly on the latest in user experience strategy and design UX For Dummies is a hands-on guide to developing and implementing user experience strategy. | [Download](https://drive.google.com/file/d/13QPs9-UD3zmVJ5elsp45k2yOAT6uu2_T/view?usp=share_link) |
+| **UX For Dummies** | Chesnut, Donald, Nichols, Kevin P | Get up to speed quickly on the latest in user experience strategy and design UX For Dummies is a hands-on guide to developing and implementing user experience strategy. | [Download](https://mega.nz/file/CPgXSDgJ#_tKsldw8mU7lRJnZfOXGryC1s641dTdvvE3TIrkVo48) |
 | **UX Fundamentals for Non-UX Professionals: User Experience Principles for Managers, Writers.** | Edward Stull | This book enables you to participate fully in discussions about UX, as you discover the fundamentals of user experience design and research. | [Download](https://www.pdfdrive.com/ux-fundamentals-for-non-ux-professionals-user-experience-principles-for-managers-writers-designers-and-developers-e195284370.html) |
 | **Smashing UX Design: Foundations for Designing Online User Experiences** | Jesmond Allen &  James Chudley | Smashing UX Design is a practical guide to the fundamentals of UX design. | [Download](https://www.pdfdrive.com/smashing-ux-design-foundations-for-designing-online-user-experiences-e178098950.html) |
 | **UX Design Principle Fundamentals for Non-Designers.** | Billy Edwards | UX Fundamentals for Non-UX Professionals serves the needs of project managers, graphic designers, copyeditors, marketers, and others who wish to understand UX Design. | [Download](https://www.pdfdrive.com/ux-design-principle-fundamentals-for-non-designers-e17862156.html) |
@@ -174,7 +174,7 @@ E --> P([Layout and Composition])
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **The UX Book: Process and Guidelines for Ensuring a Quality User Experience** | Rex Hartson & Pardha Pyla | The UX Book: Process and Guidelines for Ensuring a Quality User Experience aims to help readers learn how to create and refine interaction designs that ensure a quality user experience (UX).  | [Download](https://www.pdfdrive.com/the-ux-book-process-and-guidelines-for-ensuring-a-quality-user-experience-e165941504.html) |
-| **The Basics of User Experience Design** | Interaction Design Foundation | The Basics of User Experience Design is a practical guide to the fundamentals of UX design. | [Download](https://drive.google.com/file/d/1B04GYli7P03i9M0lPTk_FOxbwe6VLk9S/view?usp=share_link) |
+| **The Basics of User Experience Design** | Interaction Design Foundation | The Basics of User Experience Design is a practical guide to the fundamentals of UX design. | [Download](https://mega.nz/file/3DBlXL4I#lKiMEnpmPWMJbng3r1xQ_S1ShCkAACHFjUaNpofk4J0) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -216,9 +216,9 @@ E --> P([Layout and Composition])
 ##### Books
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **Fundamentals of User-Centered Design** | Brian Still, Kate Crane | This book explains in-depth on what that UCD to usability and User Experience (UX) principles and best practices | [Download](https://drive.google.com/file/d/1kBPTr7-Zh-84GQUm0Efymh7wLoj-V57x/view?usp=share_link) |
+| **Fundamentals of User-Centered Design** | Brian Still, Kate Crane | This book explains in-depth on what that UCD to usability and User Experience (UX) principles and best practices | [Download](https://mega.nz/file/jOIWiKRY#YmyW6DYhcwHlloq4TwaU1dklU32kU7chokgKowhY-Hg) |
 | **User-centered design: A developer's guide to building user-friendly applications** | Travis Lowdermilk | You’ll learn valuable strategies for conducting each stage of the design process, from interviewing likely users and discovering your application’s purpose to creating a rich user experience with sound design principles. | [Download](https://www.pdfdrive.com/user-centered-design-a-developers-guide-to-building-user-friendly-applications-e157676576.html) |
-| **User-Centered Design Stories: Real-World UCD Case Studies** | Carol Righi, Janice James | In this book, the reader is asked to perform analysis of dozens of UCD work situations and propose solutions for the problem set.. | [Download](https://drive.google.com/file/d/1HxQLcUgiwrv2sLfUp44c-Rx1e_pQfr8Z/view?usp=share_link) |
+| **User-Centered Design Stories: Real-World UCD Case Studies** | Carol Righi, Janice James | In this book, the reader is asked to perform analysis of dozens of UCD work situations and propose solutions for the problem set.. | [Download](https://mega.nz/file/6fgD0JaC#9B8G_5943J1wvvUjCtZaZBvzjPGfEp-W5x9YspCjVD8) |
 
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -507,11 +507,11 @@ E --> P([Layout and Composition])
 ##### Books
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **The Elements of Color** | Johannes Itten | The Elements of Color is a classic book on color theory. It is a must-have for anyone interested in learning about color theory. | [Download](https://drive.google.com/file/d/1m6Japec8g5P3ivruE4nPOPGfT8Yd5Jxf/view?usp=share_link) |
+| **The Elements of Color** | Johannes Itten | The Elements of Color is a classic book on color theory. It is a must-have for anyone interested in learning about color theory. | [Download](https://mega.nz/file/LOJ1DJDb#5Vkv8rv9n3og2o5ikQy9AAvPoPqttabMEiTxujCrYbg) |
 | **Color: A Natural History of the Palette** | Victoria, Finlay | In this vivid and captivating journey through the colors of an artist’s palette, Victoria Finlay explores the history of color, from the first cave paintings to the latest scientific research. | [Download](https://www.pdfdrive.com/color-a-natural-history-of-the-palette-e199636011.html) |
 | **The Secret Lives of Color** | Kassia St. Clair | You’ll find this book to be an interesting read. A fascinating book for UI and UX designers who are interested in the history of colors from an unusual perspective. | [Download](https://www.pdfdrive.com/the-secret-lives-of-color-e60436378.html) |
-| **Color: A Course in Mastering the Art of Mixing Colors** | Betty Edwards | Mastering the art of mixing colors is a skill that every artist should have. This book will help you to learn how to mix colors and create beautiful color schemes. | [Download](https://drive.google.com/file/d/1hR1gV0euH3l9YrAQGblfadDElncuhUbv/view?usp=share_link) |
-| **Interaction of Color** | Josef Albers| Conceived as a handbook and teaching aid for artists, instructors, and students, this influential book presents Albers’s singular explanation of complex color theory principles. | [Download](https://drive.google.com/file/d/1wt1iEd6ITzgkJ9qwLjZj42aHl6W98iGx/view?usp=share_link) |
+| **Color: A Course in Mastering the Art of Mixing Colors** | Betty Edwards | Mastering the art of mixing colors is a skill that every artist should have. This book will help you to learn how to mix colors and create beautiful color schemes. | [Download](https://mega.nz/file/3bQSmTRY#hcmsjjr99BfdwAudP_ljgpWCjQPXgghkePkMyOr8Qqs) |
+| **Interaction of Color** | Josef Albers| Conceived as a handbook and teaching aid for artists, instructors, and students, this influential book presents Albers’s singular explanation of complex color theory principles. | [Download](https://mega.nz/file/KX5E0CCR#LY6Egn8MkzUons8BvESEn4ym-jL8-2d55KaoXJGEDsc) |
 | **Best Practices for Graphic Designers, Color Works: Right Ways of Applying Color in Branding** | Eddie Opara & John Cantwell | This is the go-to guide for designers as it outlines and details the essential color design skills needed to create successful, meaningful and memorable brand | [Download](https://www.pdfdrive.com/best-practices-for-graphic-designers-color-works-right-ways-of-applying-color-in-branding-wayfinding-information-design-digital-environments-and-pretty-much-everywhere-else-e185222150.html)|
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -766,7 +766,7 @@ E --> R[Design Critique]
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams** | James Kalbach | Customers who have inconsistent, broken experiences with products and services are understandably frustrated. | [Download](https://www.pdfdrive.com/mapping-experiences-a-complete-guide-to-creating-value-through-journeys-blueprints-and-diagrams-e188172335.html) |
-| **User Journey Mapping** | Stephanie Walter | User journey map is a powerful asset that's used to understand how people use our products. It is an essential tool for building websites, applications, and services. | [Download](https://drive.google.com/file/d/1fRiKD6HDCmDt9gT0zcxClHIuqkA7UboU/view?usp=share_link) |
+| **User Journey Mapping** | Stephanie Walter | User journey map is a powerful asset that's used to understand how people use our products. It is an essential tool for building websites, applications, and services. | [Download](https://mega.nz/file/TW5T2ISS#ztPo-kUXlmNUDMolW8sq4ROnONGWN4HOx1rpsscg8a8) |
 
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -825,7 +825,7 @@ E --> R[Design Critique]
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Handbook of Usability Testing: Howto Plan, Design, and Conduct Effective Tests** | Jeffrey Rubin & Dana Chisnell & Jared Spool | This book is a comprehensive guide to usability testing, from planning and designing tests to analyzing and reporting results. It provides a thorough overview of the field, including the latest research and best practices. | [Download](https://www.pdfdrive.com/handbook-of-usability-testing-howto-plan-design-and-conduct-effective-tests-e162411229.html) |
-| **Usability Inspection Methods** | Jakob Nielsen, Robert L. Mack |Step-by-step guidance on all important methods now in use, including the heuristic evaluation method, the pluralistic walkthrough method, the cognitive walkthrough method, and more. The first comprehensive, book-length work in the field of usability evaluation. Designed to get you quickly up and running with a full complement of UI strategies, tools, and techniques. | [Download](https://drive.google.com/file/d/1Spy1taKRnuRwBVILYIyOuBYNlcVtMwhB/view?usp=share_link) |
+| **Usability Inspection Methods** | Jakob Nielsen, Robert L. Mack |Step-by-step guidance on all important methods now in use, including the heuristic evaluation method, the pluralistic walkthrough method, the cognitive walkthrough method, and more. The first comprehensive, book-length work in the field of usability evaluation. Designed to get you quickly up and running with a full complement of UI strategies, tools, and techniques. | [Download](https://mega.nz/file/qegSGQYJ#hMswRfYLwHDTimkfVkDVwnIlmU9ClCQ3PNDBlHsAZPs) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -927,7 +927,7 @@ E --> R[Design Critique]
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **About Face: The Essentials of Interaction Design** | Alan Cooper | The essential interaction design guide, fully revised and updated for the mobile age About Face: The Essentials of Interaction Design, Fourth Edition is the latest update to the book that shaped and evolved the landscape of interaction design. | [Download](https://www.pdfdrive.com/wiley-about-face-the-essentials-of-interaction-design-4th-e31675467.html) |
-| **Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences (Voices That Matter)** | Stephen P. Anderson | What happens when you’ve built a great website or app, but no one seems to care? How do you get people to stick around long enough to see how your service might be of value? | [Download](https://drive.google.com/file/d/1sEif_ND5rYq0wkCxJBAbmKr3hFY1De38/view?usp=share_link) |
+| **Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences (Voices That Matter)** | Stephen P. Anderson | What happens when you’ve built a great website or app, but no one seems to care? How do you get people to stick around long enough to see how your service might be of value? | [Download](https://mega.nz/file/vL4ixCyQ#_EYcTAMS2Q6X51bWs2Ec0rCfXgqMTrJaM-UmR3smtP8) |
 | **Interaction Design: Beyond Human-Computer Interaction** | Helen Sharp & Jenny Preece & Yvonne Rogers | Interaction Design: Beyond Human-Computer Interaction is a comprehensive introduction to the field of interaction design. | [Download](https://www.pdfdrive.com/interaction-design-beyond-human-computer-interaction-e190044261.html) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -969,7 +969,7 @@ E --> R[Design Critique]
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Microinteractions: Full Color Edition: Designing with Details** | Dan Saffer | Microinteractions is a book about the details of interaction design. It’s about the small, seemingly insignificant moments that make up the experience of using a product. | [Download](https://www.pdfdrive.com/microinteractions-full-color-edition-designing-with-details-e167843495.html) |
-| **Designing Interface Animation: Improving the User Experience** | Val Head | Designing Interface Animation is a practical guide to creating animation for user interfaces. It covers the entire process of creating animation, from the initial concept to the final implementation. | [Download](https://drive.google.com/file/d/1bUd0fwdFvMkRU6DhJhSKQ5nnls-0M1mK/view?usp=share_link) |
+| **Designing Interface Animation: Improving the User Experience** | Val Head | Designing Interface Animation is a practical guide to creating animation for user interfaces. It covers the entire process of creating animation, from the initial concept to the final implementation. | [Download](https://mega.nz/file/jG4EABSI#sBydsO2slZp-bxsp7vgZMm7FNdE2vSj9c1zyj0NaSl8) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -1186,7 +1186,7 @@ E --> R[Design Critique]
 ##### Books
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **Discussing Design: Improving Communication and Collaboration through Critique** | Adam Connor, Aaron Irizarry | Real critique has become a lost skill among collaborative teams today. Critique is intended to help teams strengthen their designs, products, and services, rather than be used to assert authority or push agendas under the guise of "feedback." | [Download](https://drive.google.com/file/d/1y8FWs9lGxBdW3rIq1zh0Bic4WzticXXN/view?usp=share_link) |
+| **Discussing Design: Improving Communication and Collaboration through Critique** | Adam Connor, Aaron Irizarry | Real critique has become a lost skill among collaborative teams today. Critique is intended to help teams strengthen their designs, products, and services, rather than be used to assert authority or push agendas under the guise of "feedback." | [Download](https://mega.nz/file/7HISQIaT#1D3RTbUJWC--aFCuVKgCIng2ZpI0kdfXUqTiL5IT1o8) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -1293,12 +1293,12 @@ F --> T([Professional Development and Networking])
 ##### Books
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **Practical Approaches For Designing Accessible Websites** | Smashing Magazine | We design with viewports in mind, keep track of loading times, and hunt down even the smallest browser bugs — all to create the best possible user experience. But despite all these efforts to constantly improve our products, there’s still one aspect that, unfortunately, comes up short quite often: accessibility. | [Download](https://drive.google.com/file/d/1jpN6VI69-zLe5DH7gASXgju3mDXCH5uC/view?usp=share_link) |
-| **Designing for Accessibility: A Business Guide to Countering Design Exclusion** | Simeon Keates | A step by step guide, this book covers how to design products that offer the right combination of functionality, usability, and accessibility for all consumers | [Download](https://drive.google.com/file/d/1ZuOhbNzXGKijvx2BJtwOiPGRlcWFpicP/view?usp=share_link) |
-| **Inclusive Design for a Digital World: Designing with Accessibility in Mind** | Regine M. Gilbert | What is inclusive design? It is simple. It means that your product has been created with the intention of being accessible to as many different users as possible. For a long time, the concept of accessibility has been limited in terms of only defining physical spaces | [Download](https://drive.google.com/file/d/1MwqNkEj8NYi5sPV1yyD9Tj5-xhd-jmtI/view?usp=share_link) |
-| **A web for everyone: designing accessible user experiences** | Horton, Sarah, Quesenbery, Whitney | If you are in charge of the user experience, development, or strategy for a web site, A Web for Everyone will help you make your site accessible without sacrificing design or innovation. Rooted in universal design principles, this book provides solutions: practical advice and examples of how to create sites that everyone can use. | [Download](https://drive.google.com/file/d/1AOPcy1NfXmkUZx7LcENYdQ5NDf1nXXb0/view?usp=share_link) |
-| **Design for Inclusivity: A Practical Guide to Accessible, Innovative and User-centred Design (Design for Social Responsibility)** | Roger Coleman, John Clarkson, Hua Dong, Julia Cassim | Inclusive design not only ensures that products, services, interfaces and environments are easier to use for those with special needs or limitations, but in doing so also makes them better for everyone. | [Download](https://drive.google.com/file/d/1XVUFZJUA0ju9dk6QMC9uOJxYkC8EOeGn/view?usp=share_link) |
-| **Refactoring UI** | Steve Schoger, Adam Wathan | Refactoring UI is a book about designing better user interfaces. Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view. | [Download](https://drive.google.com/file/d/1Tva2lk-H7BTmLSMdJ1tx4ScnGJN4JGlf/view?usp=share_link) |
+| **Practical Approaches For Designing Accessible Websites** | Smashing Magazine | We design with viewports in mind, keep track of loading times, and hunt down even the smallest browser bugs — all to create the best possible user experience. But despite all these efforts to constantly improve our products, there’s still one aspect that, unfortunately, comes up short quite often: accessibility. | [Download](https://mega.nz/file/WKIDHIII#B15n-imzSxODzT3s7X-b_sU2eMmMSrDyJFZ-s5-z-Ok) |
+| **Designing for Accessibility: A Business Guide to Countering Design Exclusion** | Simeon Keates | A step by step guide, this book covers how to design products that offer the right combination of functionality, usability, and accessibility for all consumers | [Download](https://mega.nz/file/LKxBlJSI#4Gj31DcdkTjqTc1LjKC9-cXI6tUMu7RJjYWgStFMm1U) |
+| **Inclusive Design for a Digital World: Designing with Accessibility in Mind** | Regine M. Gilbert | What is inclusive design? It is simple. It means that your product has been created with the intention of being accessible to as many different users as possible. For a long time, the concept of accessibility has been limited in terms of only defining physical spaces | [Download](https://mega.nz/file/SHAh1YxL#5b4SfkiuLQEQ1koUsODzKEvVxoQbpOUjSCY_FoXmKqA) |
+| **A web for everyone: designing accessible user experiences** | Horton, Sarah, Quesenbery, Whitney | If you are in charge of the user experience, development, or strategy for a web site, A Web for Everyone will help you make your site accessible without sacrificing design or innovation. Rooted in universal design principles, this book provides solutions: practical advice and examples of how to create sites that everyone can use. | [Download](https://mega.nz/file/eKIgETzT#rZm6ZW7lfrBEmTkahMvfojC554iuQggKzHRNL1WmOlk) |
+| **Design for Inclusivity: A Practical Guide to Accessible, Innovative and User-centred Design (Design for Social Responsibility)** | Roger Coleman, John Clarkson, Hua Dong, Julia Cassim | Inclusive design not only ensures that products, services, interfaces and environments are easier to use for those with special needs or limitations, but in doing so also makes them better for everyone. | [Download](https://mega.nz/file/2TwV2IbK#oNAMYS-YlBz6TnB30sECvZrRD_ihPXpO6adFyQ3H_9k) |
+| **Refactoring UI** | Steve Schoger, Adam Wathan | Refactoring UI is a book about designing better user interfaces. Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view. | [Download](https://mega.nz/file/6X42QAyB#QrA7ll_EyMjCXGTBGQZ2NSmVPydGqiBFHx3dZKqmx_M) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -1343,8 +1343,8 @@ F --> T([Professional Development and Networking])
 ##### Books
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **Usability and Internationalization of Information Technology** | Nuray Aykin | Contributors from the US, Europe, and Asia provide a theoretical foundation and practical examples and guidelines for designing information technology for different cultures, languages, and economic standings, describing methods that can be used to ensure their usability across cultural boundaries. | [Download](https://drive.google.com/file/d/1fMv4a7Jmi5pTTgFIa34SxkbUlocvoZYI/view?usp=share_link) |
-| **Intercultural User Interface Design** | Rüdiger Heimgärtner | The path for developing an internationally usable product with a human-machine interface is described in this textbook, from theory to conception and from design to practical implementation. |  [Download](https://drive.google.com/file/d/1CKU32QGkKzg8AFIY2Q1arTzkAtQcjM4-/view?usp=share_link) |
+| **Usability and Internationalization of Information Technology** | Nuray Aykin | Contributors from the US, Europe, and Asia provide a theoretical foundation and practical examples and guidelines for designing information technology for different cultures, languages, and economic standings, describing methods that can be used to ensure their usability across cultural boundaries. | [Download](https://mega.nz/file/TepxnSJJ#dGeyZlMgXP64bGDI38A34___Eu-aVDUBizsvFqmxYjQ) |
+| **Intercultural User Interface Design** | Rüdiger Heimgärtner | The path for developing an internationally usable product with a human-machine interface is described in this textbook, from theory to conception and from design to practical implementation. |  [Download](https://mega.nz/file/uXgmXYLQ#Ydj5pQwxMSoxyIfL3UZ6QCWEp9Ux4iwXr-vgR1MTKOw) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -1384,9 +1384,9 @@ F --> T([Professional Development and Networking])
 ##### Books
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **Practical UI Patterns for Design Systems** | Diana MacDonald | Understanding UI patterns is invaluable to anyone creating websites for the first time. It helps you make connections between which tools are right for which jobs, understand the processes, and think deeply about the context of a problem. | [Download](https://drive.google.com/file/d/16yoEyRtayzVnXPECOkHj5yhlsE7E3jQ3/view?usp=share_link) |
-| **Laying the Foundations** | Andrew Couldwell | Laying the Foundations is a comprehensive guide to creating, documenting, and maintaining design systems, and how to design websites and products systematically. It's an ideal book for web designers and product designers (of all levels) and especially design teams. | [Download](https://drive.google.com/file/d/1LRtu2vttReSCecENbu2lOjShXZVUiQ_D/view?usp=share_link) |
-| **Modular Web Design: Creating Reusable Components for User Experience Design and Documentation** | Nathan A. Curtis | User experience design teams often suffer from a decentralized, blank canvas approach to creating and documenting a design solution for each new project. As teams repeatedly reinvent screen designs, inconsistency results, and IT teams scramble to pick up the pieces. | [Download](https://drive.google.com/file/d/1U_yj1oz_Ffshm4CQwLRcVRHbVmGsbP7s/view?usp=share_link) |
+| **Practical UI Patterns for Design Systems** | Diana MacDonald | Understanding UI patterns is invaluable to anyone creating websites for the first time. It helps you make connections between which tools are right for which jobs, understand the processes, and think deeply about the context of a problem. | [Download](https://mega.nz/file/7X5iTRKY#vrTlELzLAoIE-lHyO0PboTuxa-9DAyVkOfrUWrIlOl0) |
+| **Laying the Foundations** | Andrew Couldwell | Laying the Foundations is a comprehensive guide to creating, documenting, and maintaining design systems, and how to design websites and products systematically. It's an ideal book for web designers and product designers (of all levels) and especially design teams. | [Download](https://mega.nz/file/2GIk0JiJ#tfpPKJfgAaAgO3YKQgI7w-nwKtXA6eVjr5-fz4rSk-U) |
+| **Modular Web Design: Creating Reusable Components for User Experience Design and Documentation** | Nathan A. Curtis | User experience design teams often suffer from a decentralized, blank canvas approach to creating and documenting a design solution for each new project. As teams repeatedly reinvent screen designs, inconsistency results, and IT teams scramble to pick up the pieces. | [Download](https://mega.nz/file/PCAQ0CCT#EjsEpjNyBjyuN7QqxHOv-bm5LwDN4oPz63_mFHRmY4s) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -1503,9 +1503,9 @@ F --> T([Professional Development and Networking])
 ##### Books
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **3D User Interfaces: Theory and Practice** | Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola | Many people already have seen 3D UIs in computer-aided design, radiation therapy, surgical simulation, data visualization, and virtual-reality entertainment. The next generation of computer games, mobile devices, and desktop applications also will feature 3D interaction. | [Download](https://drive.google.com/file/d/1e0flH4Fr0moRuKXzczwV56SzV6_dkNCG/view?usp=share_link) |
+| **3D User Interfaces: Theory and Practice** | Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola | Many people already have seen 3D UIs in computer-aided design, radiation therapy, surgical simulation, data visualization, and virtual-reality entertainment. The next generation of computer games, mobile devices, and desktop applications also will feature 3D interaction. | [Download](https://mega.nz/file/rDBjkDRR#rVxAFHY_JT8DLYqpvHPXEIRHzXIvuTIQ2SY-24OPMLA) |
 | **Virtual & Augmented Reality for Dummies** | Paul Mealy | Virtual and augmented reality are the next big thing in computing. They’re the next step in the evolution of the computer, and they’re going to change the way we interact with computers and the world around us. | [Download](https://www.pdfdrive.com/virtual-augmented-reality-for-dummies-e176320670.html) |
-| **Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile** | Tony Parisi | Get an introduction to the technologies, tools, and techniques for programming virtual reality on the latest generation of desktop and mobile VR hardware. With this hands-on guide, you’ll learn essential development and production concepts, including UI design, stereo rendering, 3D input, and programming VR applications for native desktop, mobile and the web. | [Download](https://drive.google.com/file/d/1aszz3Z5VjheSipI8PWULIZRt_PWXtVna/view?usp=share_link) |
+| **Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile** | Tony Parisi | Get an introduction to the technologies, tools, and techniques for programming virtual reality on the latest generation of desktop and mobile VR hardware. With this hands-on guide, you’ll learn essential development and production concepts, including UI design, stereo rendering, 3D input, and programming VR applications for native desktop, mobile and the web. | [Download](https://mega.nz/file/2HgkyRaL#ZLaBvWTZVhBGpj4Df0cSvbkQnzhyVav_NHmI9TzpqJc) |
 | **Oculus Rift in Action** | Bradley Austin Davis & Karen Bryla & Phillips Alexander Benton | SummaryOculus Rift in Action introduces the powerful Oculus Rift headset and teaches you how to integrate its many features into 3D games and other virtual reality experiences. | [Download](https://www.pdfdrive.com/oculus-rift-in-action-e158612938.html) | 
 | **A Design Model and Methodology for Developing Virtual Reality Interfaces** | Vildan Tanriverdi and Robert J.K. Jacob | Compared to conventional interfaces, Virtual reality (VR) interfaces contain a richer variety and more complex types of objects, behaviors, interactions and communications. | [Download](http://www.cs.tufts.edu/~jacob/papers/vrst01.tanriverdi.pdf) |
 
@@ -1563,8 +1563,8 @@ F --> T([Professional Development and Networking])
 ##### Books
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **Machine Learning Design Patterns** | O'Reilly Media | The design patterns in this book capture best practices and solutions to recurring problems in machine learning. The authors, three Google engineers, catalog proven methods to help data scientists tackle common problems throughout the ML process.  | [Download](https://drive.google.com/file/d/1lAw9ID4zj_MMgnTw4Jwf9D59VLaP61es/view?usp=share_link) |
-| **Designing Human-Centric AI Experiences: Applied UX Design for Artificial Intelligence (Design Thinking)** | Akshay Kore | User experience (UX) design practices have seen a fundamental shift as more and more software products incorporate machine learning (ML) components and artificial intelligence (AI) algorithms at their core. This book will probe into UX design’s role in making technologies inclusive and enabling user collaboration with AI. | [Download](https://drive.google.com/file/d/1B-MGIQSjooldOL8aTQeMmwEVV6ob_ga3/view?usp=share_link) |
+| **Machine Learning Design Patterns** | O'Reilly Media | The design patterns in this book capture best practices and solutions to recurring problems in machine learning. The authors, three Google engineers, catalog proven methods to help data scientists tackle common problems throughout the ML process.  | [Download](https://mega.nz/file/rLJmRJQT#h8pro5vU62YFKkoKNqKBFNejtEB1Rr0cxTxVAZwo8_8) |
+| **Designing Human-Centric AI Experiences: Applied UX Design for Artificial Intelligence (Design Thinking)** | Akshay Kore | User experience (UX) design practices have seen a fundamental shift as more and more software products incorporate machine learning (ML) components and artificial intelligence (AI) algorithms at their core. This book will probe into UX design’s role in making technologies inclusive and enabling user collaboration with AI. | [Download](https://mega.nz/file/mCpGlAiB#wSIvIXKm31Yr0CYc4yH_bYWd1_U4ovUFxoWN8s-8f9k) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -1673,8 +1673,8 @@ F --> T([Professional Development and Networking])
 ##### Books
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **Content Strategy for the Web** | Kristina Halvorson, Melissa Rach | Your content is a mess: the website redesigns didn’t help, and the new CMS just made things worse. Or, maybe your content is full of potential: you know new revenue and cost-savings opportunities exist, but you’re not sure where to start. How can you realize the value of content while planning for its long-term success? | [Download](https://drive.google.com/file/d/1drmRlyuJpZAsiHtuxJFFHgsUyHig9Bot/view?usp=share_link) | 
-| **Content Strategy at Work. Real-world Stories to Strengthen Every Interactive Project** | Margot Bloomstein (Auth.) | 'Bloomstein is at her most thought provoking when she shines the light on complex projects that present a host of strategic, editorial, design, organizational and technical challenges. | [Download](https://drive.google.com/file/d/1iG9LC9o-nhvB_rVg4D_Q-flvewSCdmdL/view?usp=share_link) |
+| **Content Strategy for the Web** | Kristina Halvorson, Melissa Rach | Your content is a mess: the website redesigns didn’t help, and the new CMS just made things worse. Or, maybe your content is full of potential: you know new revenue and cost-savings opportunities exist, but you’re not sure where to start. How can you realize the value of content while planning for its long-term success? | [Download](https://mega.nz/file/SX403KTQ#wR4a6l55r37KoZBwUxQM_03R3xNBEOh9OwfnQQsYU2A) | 
+| **Content Strategy at Work. Real-world Stories to Strengthen Every Interactive Project** | Margot Bloomstein (Auth.) | 'Bloomstein is at her most thought provoking when she shines the light on complex projects that present a host of strategic, editorial, design, organizational and technical challenges. | [Download](https://mega.nz/file/uTIjzDrR#MGuf9yQq1VS1HTK-U_9teMOFcYbvMA74mWHJjOClt8I) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -1714,7 +1714,7 @@ F --> T([Professional Development and Networking])
 | --- | --- | --- | --- |
 | **Design Sprint: A Practical Guidebook for Creating Great Digital Products** |  Richard Banfield & C. Todd Lombardo & Trace Wax | Design Sprints is a practical, action-oriented guide to solving tough problems and testing new ideas in just five days. | [Download](https://www.pdfdrive.com/design-sprint-a-practical-guidebook-for-creating-great-digital-products-e157808141.html) |
 | **Design Sprint** | Richard Banfield, C.Todd Lombardo, Trace Wax | With more than 500 new apps entering the market every day, what does it take to build a successful digital product? You can greatly reduce your risk of failure with design sprints, a process that enables your team to prototype and test a digital product idea within a week. | [Download](https://www.pdfdrive.com/design-sprint-e51019435.html) |
-| **Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days** | Jake Knapp, John Zeratsky, Braden Kowitz |This is awesome book and every UX designer should read this, it's a great book for anyone who wants to learn how to solve big problems and test new ideas in just five days. | [Download](https://drive.google.com/file/d/11Edv8u3GD3fI8KuHXdtpZR2iDEsyW_dU/view?usp=share_link) |
+| **Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days** | Jake Knapp, John Zeratsky, Braden Kowitz |This is awesome book and every UX designer should read this, it's a great book for anyone who wants to learn how to solve big problems and test new ideas in just five days. | [Download](https://mega.nz/file/yaYwHSrB#IeNzXzffLuF4wb2uDiorNbGXJ0oX9GqDarn_FkUkhRg) |
 | UX for Lean Startups: Faster, Smarter User Experience Research and Design |  Laura Klein | Great user experiences (UX) are essential for products today, but designing one can be a lengthy and expensive process. With this practical, hands-on book, you’ll learn how to do it faster and smarter using Lean UX techniques.  | [Download](https://www.pdfdrive.com/ux-for-lean-startups-faster-smarter-user-experience-research-and-design-e165771691.html) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -1760,10 +1760,10 @@ F --> T([Professional Development and Networking])
 ##### Books
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **Burn Your Portfolio** | Michael Janda | Burn Your Portfolio is a book for designers who want to build a successful career. It's a book for designers who want to build a successful career. | [Download](https://drive.google.com/file/d/16wzmm5M2sxRLvpSBteVyQdHOmtqWyuuw/view?usp=share_link) |
-| **Design Matters: Portfolios 01: An Essential Primer for Today's Competitive Market** | Maura Keller | During the past few years, portfolio management and self-promotion have taken on a far greater role within a graphic designer’s business model. The degree to which they can increase their earned revenue through exceptionally defined, marketing-oriented promotions and portfolio management is paramount. | [Download](https://drive.google.com/file/d/1aAA35HVOA9k3Ug89-GRr9LPl3Kd4kgov/view?usp=share_link) |
-| **Stand Out: Design a personal brand. Build a killer portfolio. Find a great design job.** | Denise Anderson | The design marketplace has never been more competitive, or demanded more from emerging talent. To succeed, you must navigate the transition from learner to professional with purpose and precision. In Stand Out: Building Your Design Portfolio, Denise Anderson offers a hands-on, three-step, full-color action plan for establishing your unique brand, crafting a killer portfolio, tailoring and delivering your message, getting your perfect design job, and excelling once you're hired. | [Download](https://drive.google.com/file/d/1_-9PxIb8GesiHXKj3TB7iaq-OptRWPvU/view?usp=share_link) |
-| **The Squiggly Career: Ditch the ladder, discover opportunity, design your career: The five skills you need to succeed in work today** | Helen Tupper, Sarah Ellis |  Career ladders and jobs for life are a thing of the past. Today, we're living in a world of squiggly careers, where moving frequently and fluidly between roles, industries, locations, and even careers, is becoming the new normal.  | [Download](https://drive.google.com/file/d/1Hc3q8Gl8B71ZKDwbHzGL_ydMmyxHQZpW/view?usp=share_link) |
+| **Burn Your Portfolio** | Michael Janda | Burn Your Portfolio is a book for designers who want to build a successful career. It's a book for designers who want to build a successful career. | [Download](https://mega.nz/file/eWIUHYyT#vPs-iFVSySd13LKdfIrE__PglOqpcsWvFTnCxymnyJQ) |
+| **Design Matters: Portfolios 01: An Essential Primer for Today's Competitive Market** | Maura Keller | During the past few years, portfolio management and self-promotion have taken on a far greater role within a graphic designer’s business model. The degree to which they can increase their earned revenue through exceptionally defined, marketing-oriented promotions and portfolio management is paramount. | [Download](https://mega.nz/file/aaJnyILb#Z1rEeN3hbbW4s0o0VdAHl1i9pUNYxKY7fEHZMeazU0g) |
+| **Stand Out: Design a personal brand. Build a killer portfolio. Find a great design job.** | Denise Anderson | The design marketplace has never been more competitive, or demanded more from emerging talent. To succeed, you must navigate the transition from learner to professional with purpose and precision. In Stand Out: Building Your Design Portfolio, Denise Anderson offers a hands-on, three-step, full-color action plan for establishing your unique brand, crafting a killer portfolio, tailoring and delivering your message, getting your perfect design job, and excelling once you're hired. | [Download](https://mega.nz/file/CSJCAbSC#ScaFocqCBp7OFZKJCpPkBe516axXDzw02St0eoUlpu4) |
+| **The Squiggly Career: Ditch the ladder, discover opportunity, design your career: The five skills you need to succeed in work today** | Helen Tupper, Sarah Ellis |  Career ladders and jobs for life are a thing of the past. Today, we're living in a world of squiggly careers, where moving frequently and fluidly between roles, industries, locations, and even careers, is becoming the new normal.  | [Download](https://mega.nz/file/PaI03KQa#2klS4h-k1bGkGbxKotUo_z4gnl2doOiBZ37XV4y2Kx4) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -1838,7 +1838,7 @@ F --> T([Professional Development and Networking])
 ##### Books
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **Understanding Your Users, Second Edition: A Practical Guide to User Research Methods** | Kathy Baxter, Catherine Courage, Kelly Caine | You will find brand new case studies from leaders in industry and academia that demonstrate each method in action. | [Download](https://drive.google.com/file/d/16u7-lIr96aUICUd9g3iv7V9y762FeM1p/view?usp=share_link) |
+| **Understanding Your Users, Second Edition: A Practical Guide to User Research Methods** | Kathy Baxter, Catherine Courage, Kelly Caine | You will find brand new case studies from leaders in industry and academia that demonstrate each method in action. | [Download](https://mega.nz/file/GHBXSBTS#Wu7ykk-NNEK7Q9sj3aVxiiBnn6kibw0cdtkzbSzYsIc) |
 | **A UI Design Case Study and a Prototype of a Travel Search Engine Project Report** | Serguei A. Mokhov, Mashrur Mia, P. Solodov, Kai Zhao, J. Halimi | We review a case study of a UI design project for a complete travel search engine system prototype for regular and corporate users. We discuss various usage scenarios, guidelines, and so for, and put them into a web-based prototype with screenshots and the like. | [Download](https://www.pdfdrive.com/a-ui-design-case-study-and-a-prototype-of-a-travel-search-engine-project-report-concordia-e35194567.html) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -1969,8 +1969,8 @@ F --> T([Professional Development and Networking])
 ##### Books
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **Solving Product Design Exercises: Questions & Answers** | Artiom Dashinsky | Practice your product design and UX skills. Prepare for your next job interview. Learn how to solve and present exercises like these, that top startups use to interview designers for product design and UI/UX roles. | [Download](https://drive.google.com/file/d/1Jcuq9VrVyQ22Oe6RIXx09vBM5c9Eg3YP/view?usp=share_link) |
-| **Get Into UX: A Foolproof Guide to Getting Your First User Experience Job** | Alechnavicius, Vy | Get Into UX book is a career advice book written to help new and experienced designers get unstuck in their pursuits to get UX jobs. | [Download](https://drive.google.com/file/d/1xvmr9iUtbByVxkctw6ugVSwqd3bNfIUv/view?usp=share_link) |
+| **Solving Product Design Exercises: Questions & Answers** | Artiom Dashinsky | Practice your product design and UX skills. Prepare for your next job interview. Learn how to solve and present exercises like these, that top startups use to interview designers for product design and UI/UX roles. | [Download](https://mega.nz/file/HS4WHLJD#6YoqtUnGmrtHHIF0eKdKyZIwxTcQ12MXsAVXs0n0o0s) |
+| **Get Into UX: A Foolproof Guide to Getting Your First User Experience Job** | Alechnavicius, Vy | Get Into UX book is a career advice book written to help new and experienced designers get unstuck in their pursuits to get UX jobs. | [Download](https://mega.nz/file/KaYHxD4S#Z4DUgx_-08xKfSW4e8ni6-pnYj-T9otXsA82FIhQEMQ) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -2012,7 +2012,7 @@ F --> T([Professional Development and Networking])
   <details>
   <summary> UI/UX Cover Letter Template </summary>
 
- **Cover Letter** - This contains a cover letter for a UI/UX designer  [Visit](https://drive.google.com/drive/folders/1JnPg4TpraLKCR0UvqwuehzbNk268WM-Q?usp=share_link)
+ **Cover Letter** - This contains a cover letter for a UI/UX designer  [Visit](hhttps://mega.nz/folder/jXRAiJDZ#toNam7dxPoZifiaCenUrwg)
 
   </details>
 </div>
