@@ -2034,6 +2034,7 @@ F --> T([Professional Development and Networking])
 | **Google Jobs** | Google is an American multinational technology company specializing in Internet-related services and products. | [Visit](https://careers.google.com/) |
 | **Twitter Jobs** | Twitter is an American microblogging and social networking service on which users post and interact with messages known as "tweets". | [Visit](https://careers.twitter.com/) |
 | **Microsoft Jobs** | Microsoft is an American multinational technology company with headquarters in Redmond, Washington. | [Visit](https://careers.microsoft.com/us/en) |
+| **UIUXjobsboard** | UIUXjobsboard is a curated job board for UI/UX designers, UX researchers, and product designers. | [Visit](https://uiuxjobsboard.com) |
 
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
