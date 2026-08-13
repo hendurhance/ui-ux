@@ -1,0 +1,51 @@
+name: "🔗 Broken link"
+description: A link is dead, redirects somewhere wrong, or the resource has moved.
+title: "[Broken link] "
+labels: ["broken-link"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. This is the single most useful contribution to a list this size — links rot constantly.
+
+        **Before you file:** some sites (Medium, Toptal, Behance, NN/g, LinkedIn) block automated checkers but work fine in a browser. Please confirm it's actually broken for a human.
+
+  - type: input
+    id: url
+    attributes:
+      label: The broken link
+      placeholder: https://example.com/the-dead-page
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Where it appears
+      description: Section heading, or the line number in README.md.
+      placeholder: "Visual Design Fundamentals → Typography, or line 512"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What happens when you open it
+      options:
+        - 404 or page not found
+        - Domain is gone or for sale
+        - Redirects to something unrelated
+        - Paywalled or now requires an account
+        - Content changed and no longer matches the description
+        - Something else
+    validations:
+      required: true
+
+  - type: input
+    id: replacement
+    attributes:
+      label: Replacement, if you found one
+      description: Same author or publisher is ideal. Leave blank if you have none — reporting alone is plenty.
+      placeholder: https://example.com/the-page-it-moved-to
+    validations:
+      required: false

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 952 650" width="952" height="650" role="img" aria-label="INTERMEDIATE level curriculum">
+<rect width="100%" height="100%" fill="#faf9f7"/>
+<text x="36" y="48" fill="#b5523a" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11" letter-spacing="2.6">INTERMEDIATE LEVEL</text>
+<text x="36" y="80" fill="#1c1917" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="600">Research, structure and process</text>
+<line x1="36" y1="92" x2="916" y2="92" stroke="#e2ded8" stroke-width="1"/>
+<rect x="36" y="112" width="280" height="192" rx="10" fill="#ffffff" stroke="#e2ded8" stroke-width="1"/>
+<rect x="56" y="130" width="22" height="15" rx="3" fill="none" stroke="#8a827a" stroke-width="0.9"/>
+<text x="67" y="141" fill="#8a827a" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" text-anchor="middle">01</text>
+<text x="56" y="170" fill="#1c1917" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600">User Research</text>
+<circle cx="60" cy="192" r="2.6" fill="#635d57"/>
+<text x="74" y="196" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Introduction to User Research</text>
+<circle cx="60" cy="218" r="2.6" fill="#635d57"/>
+<text x="74" y="222" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Creating User Personas</text>
+<circle cx="60" cy="244" r="2.6" fill="#635d57"/>
+<text x="74" y="248" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">User Journey Mapping</text>
+<circle cx="60" cy="270" r="2.6" fill="#635d57"/>
+<text x="74" y="274" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Testing and Heuristics</text>
+<rect x="336" y="112" width="280" height="192" rx="10" fill="#ffffff" stroke="#e2ded8" stroke-width="1"/>
+<rect x="356" y="130" width="22" height="15" rx="3" fill="none" stroke="#8a827a" stroke-width="0.9"/>
+<text x="367" y="141" fill="#8a827a" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" text-anchor="middle">02</text>
+<text x="356" y="170" fill="#1c1917" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600">IA and Interaction</text>
+<text x="356" y="190" fill="#1c1917" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600">Design</text>
+<circle cx="360" cy="212" r="2.6" fill="#635d57"/>
+<text x="374" y="216" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Information Architecture</text>
+<circle cx="360" cy="238" r="2.6" fill="#635d57"/>
+<text x="374" y="242" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Interaction Design</text>
+<circle cx="360" cy="264" r="2.6" fill="#635d57"/>
+<text x="374" y="268" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Microinteractions</text>
+<rect x="636" y="112" width="280" height="192" rx="10" fill="#ffffff" stroke="#e2ded8" stroke-width="1"/>
+<rect x="656" y="130" width="22" height="15" rx="3" fill="none" stroke="#8a827a" stroke-width="0.9"/>
+<text x="667" y="141" fill="#8a827a" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" text-anchor="middle">03</text>
+<text x="656" y="170" fill="#1c1917" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600">Prototyping</text>
+<circle cx="660" cy="192" r="2.6" fill="#635d57"/>
+<text x="674" y="196" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Introduction to Prototyping</text>
+<circle cx="660" cy="218" r="2.6" fill="#635d57"/>
+<text x="674" y="222" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Wireframing and Low-Fidelity</text>
+<circle cx="660" cy="244" r="2.6" fill="#635d57"/>
+<text x="674" y="248" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">High-Fidelity Prototyping</text>
+<rect x="36" y="324" width="280" height="270" rx="10" fill="#ffffff" stroke="#e2ded8" stroke-width="1"/>
+<rect x="56" y="342" width="22" height="15" rx="3" fill="none" stroke="#8a827a" stroke-width="0.9"/>
+<text x="67" y="353" fill="#8a827a" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" text-anchor="middle">04</text>
+<text x="56" y="382" fill="#1c1917" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600">Design Thinking</text>
+<circle cx="60" cy="404" r="2.6" fill="#635d57"/>
+<text x="74" y="408" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Design Thinking Process</text>
+<circle cx="60" cy="430" r="2.6" fill="#635d57"/>
+<text x="74" y="434" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Design Critique</text>
+<rect x="336" y="324" width="280" height="270" rx="10" fill="#faf0ec" stroke="#b5523a" stroke-width="1"/>
+<rect x="356" y="342" width="22" height="15" rx="3" fill="none" stroke="#b5523a" stroke-width="0.9"/>
+<text x="367" y="353" fill="#b5523a" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" text-anchor="middle">05</text>
+<text x="356" y="382" fill="#1c1917" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600">Designing with AI</text>
+<circle cx="360" cy="404" r="2.6" fill="#b5523a"/>
+<text x="374" y="408" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Foundations of AI</text>
+<circle cx="360" cy="430" r="2.6" fill="#b5523a"/>
+<text x="374" y="434" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Expectations and Mental Models</text>
+<circle cx="360" cy="456" r="2.6" fill="#b5523a"/>
+<text x="374" y="460" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Explainability and Trust</text>
+<circle cx="360" cy="482" r="2.6" fill="#b5523a"/>
+<text x="374" y="486" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Errors and Hallucination</text>
+<circle cx="360" cy="508" r="2.6" fill="#b5523a"/>
+<text x="374" y="512" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Agentic Interfaces</text>
+<circle cx="360" cy="534" r="2.6" fill="#b5523a"/>
+<text x="374" y="538" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Responsible AI and Disclosure</text>
+<circle cx="360" cy="560" r="2.6" fill="#b5523a"/>
+<text x="374" y="564" fill="#635d57" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">AI in the Design Workflow</text>
+<line x1="36" y1="612" x2="916" y2="612" stroke="#e2ded8" stroke-width="0.8"/>
+<text x="36" y="632" fill="#8a827a" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.4">5 TRACKS &#183; 19 TOPICS</text>
+</svg>

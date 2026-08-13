@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 952 560" width="952" height="560" role="img" aria-label="BEGINNER level curriculum">
+<rect width="100%" height="100%" fill="#0d0c0b"/>
+<text x="36" y="48" fill="#e07a5f" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11" letter-spacing="2.6">BEGINNER LEVEL</text>
+<text x="36" y="80" fill="#f2efea" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="600">Foundations of UX and UI</text>
+<line x1="36" y1="92" x2="916" y2="92" stroke="#302c29" stroke-width="1"/>
+<rect x="36" y="112" width="280" height="186" rx="10" fill="#191817" stroke="#302c29" stroke-width="1"/>
+<rect x="56" y="130" width="22" height="15" rx="3" fill="none" stroke="#7d756d" stroke-width="0.9"/>
+<text x="67" y="141" fill="#7d756d" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" text-anchor="middle">01</text>
+<text x="56" y="170" fill="#f2efea" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600">Introduction to UX</text>
+<text x="56" y="190" fill="#f2efea" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600">Design</text>
+<circle cx="60" cy="212" r="2.6" fill="#a49b92"/>
+<text x="74" y="216" fill="#a49b92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">What is UX Design?</text>
+<circle cx="60" cy="238" r="2.6" fill="#a49b92"/>
+<text x="74" y="242" fill="#a49b92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">The Importance of UX Design</text>
+<circle cx="60" cy="264" r="2.6" fill="#a49b92"/>
+<text x="74" y="268" fill="#a49b92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">User-Centered Design</text>
+<rect x="336" y="112" width="280" height="186" rx="10" fill="#191817" stroke="#302c29" stroke-width="1"/>
+<rect x="356" y="130" width="22" height="15" rx="3" fill="none" stroke="#7d756d" stroke-width="0.9"/>
+<text x="367" y="141" fill="#7d756d" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" text-anchor="middle">02</text>
+<text x="356" y="170" fill="#f2efea" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600">Fundamentals of UI</text>
+<text x="356" y="190" fill="#f2efea" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600">Design</text>
+<circle cx="360" cy="212" r="2.6" fill="#a49b92"/>
+<text x="374" y="216" fill="#a49b92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">What is UI Design?</text>
+<circle cx="360" cy="238" r="2.6" fill="#a49b92"/>
+<text x="374" y="242" fill="#a49b92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">UI Design Best Practices</text>
+<circle cx="360" cy="264" r="2.6" fill="#a49b92"/>
+<text x="374" y="268" fill="#a49b92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Designing for Mobile</text>
+<rect x="636" y="112" width="280" height="186" rx="10" fill="#191817" stroke="#302c29" stroke-width="1"/>
+<rect x="656" y="130" width="22" height="15" rx="3" fill="none" stroke="#7d756d" stroke-width="0.9"/>
+<text x="667" y="141" fill="#7d756d" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" text-anchor="middle">03</text>
+<text x="656" y="170" fill="#f2efea" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600">Introduction to Design</text>
+<text x="656" y="190" fill="#f2efea" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600">Tools</text>
+<circle cx="660" cy="212" r="2.6" fill="#a49b92"/>
+<text x="674" y="216" fill="#a49b92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Design Tools Overview</text>
+<circle cx="660" cy="238" r="2.6" fill="#a49b92"/>
+<text x="674" y="242" fill="#a49b92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Figma, Sketch or XD</text>
+<rect x="36" y="318" width="280" height="186" rx="10" fill="#191817" stroke="#302c29" stroke-width="1"/>
+<rect x="56" y="336" width="22" height="15" rx="3" fill="none" stroke="#7d756d" stroke-width="0.9"/>
+<text x="67" y="347" fill="#7d756d" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" text-anchor="middle">04</text>
+<text x="56" y="376" fill="#f2efea" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600">Visual Design</text>
+<text x="56" y="396" fill="#f2efea" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600">Fundamentals</text>
+<circle cx="60" cy="418" r="2.6" fill="#a49b92"/>
+<text x="74" y="422" fill="#a49b92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Typography</text>
+<circle cx="60" cy="444" r="2.6" fill="#a49b92"/>
+<text x="74" y="448" fill="#a49b92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Color Theory</text>
+<circle cx="60" cy="470" r="2.6" fill="#a49b92"/>
+<text x="74" y="474" fill="#a49b92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5">Layout and Composition</text>
+<line x1="36" y1="522" x2="916" y2="522" stroke="#302c29" stroke-width="0.8"/>
+<text x="36" y="542" fill="#7d756d" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.4">4 TRACKS &#183; 11 TOPICS</text>
+</svg>

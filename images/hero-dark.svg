@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Three levels: Beginner 11 topics, Intermediate 19 topics, Expert 14 topics">
+<rect width="100%" height="100%" fill="#0d0c0b"/>
+<rect x="72" y="128" width="336" height="120" rx="6" fill="#1c1a18"/>
+<rect x="72" y="128" width="336" height="3" rx="1.5" fill="#2e2a27"/>
+<text x="96" y="162" fill="#7d756d" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2.2">BEGINNER</text>
+<text x="96" y="194" fill="#f2efea" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="600">11 topics</text>
+<text x="96" y="218" fill="#a49b92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13">Fundamentals</text>
+<rect x="416" y="80" width="336" height="168" rx="6" fill="#241f1b"/>
+<rect x="416" y="80" width="336" height="3" rx="1.5" fill="#2e2a27"/>
+<text x="440" y="114" fill="#7d756d" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2.2">INTERMEDIATE</text>
+<text x="440" y="146" fill="#f2efea" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="600">19 topics</text>
+<text x="440" y="170" fill="#a49b92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13">Research and process</text>
+<rect x="760" y="32" width="336" height="216" rx="6" fill="#2d251f"/>
+<rect x="760" y="32" width="336" height="3" rx="1.5" fill="#e07a5f"/>
+<text x="784" y="66" fill="#e07a5f" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2.2">EXPERT</text>
+<text x="784" y="98" fill="#f2efea" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="600">14 topics</text>
+<text x="784" y="122" fill="#a49b92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13">Specialization</text>
+<line x1="72" y1="248" x2="1128" y2="248" stroke="#2e2a27" stroke-width="1"/>
+<text x="72" y="286" fill="#f2efea" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="500">Zero to hired, one page at a time.</text>
+<text x="72" y="310" fill="#a49b92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5">44 topics &#183; 111 books &#183; every book with a buy link and a free mirror</text>
+</svg>

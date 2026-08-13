@@ -1,0 +1,76 @@
+name: "📚 Suggest a resource"
+description: A book, article, video, or tool worth adding.
+title: "[Resource] "
+labels: ["new-resource"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please search the README first — several topics already have four or five entries, and the bar rises with each one.
+
+        A resource earns a place if it **teaches** rather than sells, is **still accurate**, and covers something nothing already listed does.
+
+  - type: input
+    id: title
+    attributes:
+      label: Title
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: Author or publisher
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      placeholder: https://
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type
+      options: [Book, Article, Video, Tool, Course]
+    validations:
+      required: true
+
+  - type: input
+    id: section
+    attributes:
+      label: Which section should it go in
+      placeholder: "Intermediate → User Research → Creating User Personas"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: One-sentence description
+      description: Say what the reader will learn. Don't restate the title.
+      placeholder: "Walks through type anatomy, scale and leading, using a real interface as the worked example."
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: What does this cover that existing entries don't?
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: disclosure
+    attributes:
+      label: Disclosure
+      description: Disclosing an affiliation does not disqualify a submission. Hiding one does.
+      options:
+        - label: I made this, or I have a financial interest in it.
+          required: false
+        - label: This link contains no affiliate or referral tracking.
+          required: true

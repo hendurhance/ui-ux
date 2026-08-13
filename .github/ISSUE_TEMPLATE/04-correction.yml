@@ -1,0 +1,55 @@
+name: "✏️ Correction"
+description: Wrong author, wrong title, wrong edition, misleading description, or a typo.
+title: "[Correction] "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Metadata drifts — books get new editions, publishers retitle them, and descriptions get copy-pasted onto the wrong row. Corrections are always welcome, however small.
+
+  - type: input
+    id: location
+    attributes:
+      label: Where
+      description: Section heading, or the line number in README.md.
+      placeholder: "Expert → Emerging Technologies, or line 1841"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is wrong
+      options:
+        - Wrong author
+        - Wrong title or edition
+        - Description doesn't match the resource
+        - Resource is in the wrong section
+        - Duplicate of another entry
+        - Typo or grammar
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: What it currently says
+    validations:
+      required: true
+
+  - type: textarea
+    id: correct
+    attributes:
+      label: What it should say
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: A publisher page or similar that backs up the correction. Not needed for typos.
+    validations:
+      required: false

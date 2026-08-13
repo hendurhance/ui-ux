@@ -1,0 +1,49 @@
+name: Link Check
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # Mondays, 06:00 UTC
+  workflow_dispatch:       # lets you run it on demand from the Actions tab
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,206,403,429,999
+            --max-concurrency 8
+            --timeout 25
+            --retry-wait-time 5
+            --max-retries 2
+            --exclude-path CONTRIBUTING.md
+            --exclude '^https://img\.shields\.io'
+            --exclude '^https://github\.com/hendurhance/ui-ux/(issues|tree)'
+            './**/*.md'
+          output: lychee-report.md
+          fail: false        # never fail the run; the issue is the deliverable
+
+      - name: Open an issue when links are broken
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Broken links found — ${{ github.run_id }}"
+          content-filepath: lychee-report.md
+          labels: |
+            broken-link
+            maintenance
+
+      - name: Report clean run
+        if: steps.lychee.outputs.exit_code == 0
+        run: echo "All links resolved. No issue opened."

@@ -1,0 +1,70 @@
+name: "⚖️ Copyright / takedown request"
+description: You hold rights to a work listed here and want a link removed.
+title: "[Takedown] "
+labels: ["takedown", "priority"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If you are the rights holder, or authorized to act for them, use this form and the link will be removed. **Takedown requests are handled ahead of everything else.**
+
+        You do not need a lawyer, a formal DMCA notice, or any particular wording. Tell us which link and confirm you hold the rights.
+
+        If you would rather not open a public issue, write to `hendurhance.dev [at] gmail [dot] com` instead — that reaches the same person and stays private.
+
+  - type: input
+    id: work
+    attributes:
+      label: Title of the work
+      placeholder: "Don't Make Me Think, Revisited"
+    validations:
+      required: true
+
+  - type: textarea
+    id: links
+    attributes:
+      label: The link or links to remove
+      description: Paste the exact URLs as they appear in the README. List every one.
+      placeholder: |
+        https://mega.nz/file/...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: capacity
+    attributes:
+      label: You are
+      options:
+        - The author or creator
+        - The publisher or rights holder
+        - Authorized to act on the rights holder's behalf
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: Contact
+      description: Email or a URL that establishes your connection to the work.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: scope
+    attributes:
+      label: What would you like removed
+      options:
+        - The download mirror only, keep the purchase link
+        - The entire entry
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I hold the rights to this work, or am authorized to act for whoever does.
+          required: true
+        - label: I understand the maintainer will act on this in good faith and does not require formal legal process.
+          required: true

@@ -1,128 +1,55 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-## Our Pledge
+This is a learning resource. People arrive at every level of experience, from every background, and often not writing in their first language. The whole point is that a beginner can show up and be helped.
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+## What we expect
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+**Assume the other person is trying.** A confusing question usually means someone is learning, not that they didn't read. A clumsy pull request usually means someone is new to Git, not careless.
 
-## Our Standards
+**Critique the work, not the person.** "This link is dead" and "this description doesn't say what the article teaches" are useful. "Did you even check this?" is not.
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+**Be patient with English.** Contributors here write from all over the world. Fix the wording in a suggestion; don't make someone feel stupid for it.
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+**Take correction well.** If a maintainer declines your resource, it is a judgment about fit, not about you. Ask why if it isn't clear.
 
-Examples of unacceptable behavior include:
+**Credit people.** If someone's suggestion shaped your PR, say so.
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+## What is not acceptable
 
-## Enforcement Responsibilities
+- Harassment, intimidation, or sustained disruption, in issues, pull requests, or anywhere else this project is discussed.
+- Insults or demeaning comments, including about someone's skill level, background, or command of English.
+- Discriminatory language or imagery, including sexualized language, and any unwelcome sexual attention.
+- Publishing someone's private information — email, address, workplace — without their explicit permission.
+- Using this repository to promote a product while pretending to be a neutral contributor. Disclose the affiliation and it's a normal submission; hide it and it's a trust problem.
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
-
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+This applies to everyone equally, maintainers included. Being a frequent contributor earns no latitude here.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+This applies anywhere the project is represented: issues, pull requests, commit messages, code review, and any space where someone is acting as a contributor to this repository.
 
-## Enforcement
+## Reporting
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-hendurhance.dev@gmail.com.
-All complaints will be reviewed and investigated promptly and fairly.
+If someone's behavior is a problem, report it privately to `hendurhance.dev [at] gmail [dot] com`.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+You do not need to be the target to report something, and you do not need to be certain it rises to a violation. If it felt wrong, say so and let it be assessed.
 
-## Enforcement Guidelines
+Reports stay private. The reporter's identity is not shared with the person reported, and it is not discussed publicly.
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+## What happens next
 
-### 1. Correction
+Reports are reviewed and answered. Depending on what happened and whether it is a pattern:
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+| Severity | Response |
+|---|---|
+| A one-off lapse, likely unintentional | A private note explaining what was wrong |
+| A clear violation, or a repeat | A warning, with a defined boundary going forward |
+| Sustained or serious | A temporary block from interacting with the repository |
+| Harassment, threats, or repeated violations after a warning | A permanent ban |
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
-
-### 2. Warning
-
-**Community Impact**: A violation through a single incident or series
-of actions.
-
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
-
-### 3. Temporary Ban
-
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
-
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
-
-### 4. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+Enforcement is proportionate. The goal is a place where people keep contributing, not a disciplinary record.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
-
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
-
-[homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+Adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at
+https://www.contributor-covenant.org/version/2/1/code_of_conduct.html — licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

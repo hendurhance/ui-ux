@@ -1,0 +1,49 @@
+name: "💡 Improvement idea"
+description: A change to how the guide is structured, presented, or maintained.
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For changes to the guide itself — navigation, formatting, a missing topic area, tooling, automation.
+
+        To suggest a specific book or article, use **Suggest a resource** instead.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is the problem
+      description: Describe what is awkward today, not the solution you have in mind.
+      placeholder: "Finding a specific tool means scrolling through the whole page — they aren't collected anywhere."
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would you change
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Navigation or table of contents
+        - Formatting or tables
+        - A missing topic or section
+        - Diagrams and images
+        - Automation or CI
+        - Something else
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Would you like to work on it?
+      options:
+        - label: I'd be willing to open a pull request for this.
+          required: false

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Contributing guide
+    url: https://github.com/hendurhance/ui-ux/blob/main/CONTRIBUTING.md
+    about: What belongs here, the table formats, and how to open a pull request.
+  - name: 🤝 Code of conduct
+    url: https://github.com/hendurhance/ui-ux/blob/main/CODE_OF_CONDUCT.md
+    about: How we treat each other, and how to report a problem.
+  - name: 💬 Ask a question
+    url: https://github.com/hendurhance/ui-ux/discussions
+    about: Not sure where to start learning, or which resource to pick? Ask here.
