@@ -18,8 +18,7 @@ Found a dead link, a better resource, or a typo? Read the **[contributing guide]
 
 **Author or publisher?** If your book is mirrored here and you want it removed, [open a takedown request](https://github.com/hendurhance/ui-ux/issues/new?template=03-takedown.yml) — no lawyer or formal notice needed, and it is handled first. Prefer to keep it private? See [about the mirrors](DISCLAIMER.md) for a direct contact.
 
-> Looking for the 2021 edition? It lives on the [deprecated branch](https://github.com/hendurhance/ui-ux/tree/%40deprecated-2021-resource).
-> Looking for the 2024 edition? It lives on the [deprecated branch](https://github.com/hendurhance/ui-ux/tree/%40deprecated-2024-resource).
+> **Earlier editions:** [2021](https://github.com/hendurhance/ui-ux/tree/%40deprecated-2021-resource) · [2024](https://github.com/hendurhance/ui-ux/tree/%40deprecated-2024-resource)
 
 ## How This Guide Works
 

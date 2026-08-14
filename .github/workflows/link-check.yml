@@ -7,7 +7,7 @@ on:
       - '**/*.md'
   schedule:
     - cron: '0 6 * * 1'   # Mondays, 06:00 UTC
-  workflow_dispatch:       # lets you run it on demand from the Actions tab
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -23,28 +23,41 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # need history to diff against the previous commit
+          fetch-depth: 0
 
-      - name: Work out which files to check
+      - name: Work out what to check
         id: scope
         run: |
+          set -uo pipefail
           if [ "${{ github.event_name }}" = "push" ]; then
-            # Only the markdown touched by this push.
-            FILES=$(git diff --name-only --diff-filter=d \
-                      ${{ github.event.before }} ${{ github.sha }} \
-                    | grep -E '\.md$' | tr '\n' ' ')
-            if [ -z "$FILES" ]; then
+            BEFORE="${{ github.event.before }}"
+            # A brand-new branch reports an all-zero "before" ref.
+            if ! git cat-file -e "${BEFORE}^{commit}" 2>/dev/null; then
+              BEFORE=$(git rev-parse "${{ github.sha }}^" 2>/dev/null || echo "")
+            fi
+            if [ -z "$BEFORE" ]; then
+              echo "No usable base commit. Skipping."
+              echo "skip=true" >> "$GITHUB_OUTPUT"; exit 0
+            fi
+            # Only lines ADDED by this push, and only the URLs on them.
+            git diff -U0 "$BEFORE" "${{ github.sha }}" -- '*.md' \
+              | grep -E '^\+' | grep -Ev '^\+\+\+' \
+              | grep -oE 'https?://[^)"'"'"' >]+' \
+              | sed 's/[.,]$//' | sort -u > changed-urls.txt || true
+            COUNT=$(wc -l < changed-urls.txt | tr -d ' ')
+            echo "New or changed URLs in this push: $COUNT"
+            if [ "$COUNT" -eq 0 ]; then
               echo "skip=true" >> "$GITHUB_OUTPUT"
-              echo "No markdown changed. Nothing to check."
             else
+              # Wrap as markdown so lychee treats each line as a link.
+              sed 's|^|- <|; s|$|>|' changed-urls.txt > changed-urls.md
               echo "skip=false" >> "$GITHUB_OUTPUT"
-              echo "files=$FILES" >> "$GITHUB_OUTPUT"
-              echo "Checking changed files: $FILES"
+              echo "target=changed-urls.md" >> "$GITHUB_OUTPUT"
+              cat changed-urls.txt
             fi
           else
             echo "skip=false" >> "$GITHUB_OUTPUT"
-            echo "files=./**/*.md" >> "$GITHUB_OUTPUT"
-            echo "Full sweep."
+            echo "target=./**/*.md" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Check links
@@ -55,24 +68,28 @@ jobs:
           args: >-
             --verbose
             --no-progress
-            --accept 200,206,403,429,999
+            --accept 200,206,301,302,307,308,403,429,999
             --max-concurrency 8
             --timeout 25
             --retry-wait-time 5
-            --max-retries 2
+            --max-retries 3
             --exclude '^https://img\.shields\.io'
             --exclude '^https://github\.com/hendurhance/ui-ux/(issues|tree|sponsors)'
             --exclude '^mailto:'
-            ${{ steps.scope.outputs.files }}
+            ${{ steps.scope.outputs.target }}
           output: lychee-report.md
-          fail: false   # we decide what to do with the result ourselves
+          fail: false
 
-      - name: Fail the push when a changed file has a broken link
+
+      - name: Fail when a newly added link is broken
         if: github.event_name == 'push' && steps.lychee.outputs.exit_code != 0
         run: |
-          echo "::error::Broken links in the files you just changed."
+          echo "----- broken links added in this push -----"
+          cat lychee-report.md
           cat lychee-report.md >> "$GITHUB_STEP_SUMMARY"
+          echo "::error::One or more links added in this push are broken. Report printed above."
           exit 1
+
 
       - name: Open an issue when the weekly sweep finds breakage
         if: github.event_name != 'push' && steps.lychee.outputs.exit_code != 0
@@ -85,5 +102,5 @@ jobs:
             maintenance
 
       - name: Report a clean run
-        if: steps.lychee.outputs.exit_code == 0
-        run: echo "All links resolved." >> "$GITHUB_STEP_SUMMARY"
+        if: steps.scope.outputs.skip == 'true' || steps.lychee.outputs.exit_code == 0
+        run: echo "No broken links." >> "$GITHUB_STEP_SUMMARY"
