@@ -225,7 +225,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **What is UX Design?** | UX Planet | UX Design primarily focuses on understanding and improving the interaction users have with a tool or product. | [Read](https://uxplanet.org/what-is-ux-design-bb02fc45aba5) |
-| **What is user experience (UX) design?** | UsabilityHub | Learn all about UX design, and the skills you need to become a UX designer, in this comprehensive guide. | [Read](https://www.lyssna.com/blog/what-is-user-experience-design) |
+| **What is user experience (UX) design?** | UsabilityHub | Learn all about UX design, and the skills you need to become a UX designer, in this comprehensive guide. | [Read](https://www.lyssna.com/blog/what-is-user-experience-design/) |
 | **What is User Experience (UX) Design?** | Interaction Design Foundation| User experience (UX) design is the process design teams use to create products that provide meaningful and relevant experiences to users. | [Read](https://ixdf.org/literature/topics/ux-design) |
 | **An Introduction to User Experience Design** | Ben Ralph | The deceptively tricky challenge of designing for user behavior | [Read](https://medium.com/beakerandflint/an-introduction-user-experience-design-2a7f8167bf03) |
 | **Laws of UX** | Laws of UX | Laws of UX is a collection of 100+ UX laws, principles, and patterns for designing better digital products. | [Read](https://lawsofux.com/) |
@@ -482,7 +482,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **The Figma Design Tool Handbook** | DesignCode | A comprehensive guide to the best tips and tricks in Figma | [Reading List](https://designcode.io/figma-handbook/) |
+| **The Figma Design Tool Handbook** | DesignCode | A comprehensive guide to the best tips and tricks in Figma | [Reading List](https://designcode.io/figma-handbook) |
 | **The Figma Learning Guide** | Figma | Kick start your design education with these 12 lessons | [Reading List](https://www.figma.com/resource-library/design-basics/) |
 | **Get Started with Adobe XD: Design.** | Adobe XD | Get started using Adobe XD, the powerful platform for creating user experiences — all at the speed of thought.| [Reading List](https://www.adobe.com/products/xd/learn/get-started-xd-design.html) |
 
@@ -644,7 +644,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 | **Composition and its rules in the design of interfaces** | UX Planet | Composition — is interaction of interface elements with a goal to convey the meaning of this very interface. To give user an opportunity to easily understand the interface, it is necessary to use the rules of composition. | [Read](https://uxplanet.org/composition-and-its-rules-in-the-design-of-interfaces-65a86e4d09a7) |
 | **Key Principles for Better Design Composition** | Caleb Kingston | Designs often have many combined elements from type and imagery to graphics and colors.  | [Read](https://xd.adobe.com/ideas/process/ui-design/design-composition-key-principles/) |
 | **Create scalable web page layouts in Figma** | UX Design | Learn how to create a responsive web page layout in Figma. | [Read](https://uxdesign.cc/create-scalable-web-page-layouts-in-figma-e7e6e580dd67) |
-| **Layout Grid & Auto Layout in Figma** | DesignCode | Learn how to use layout grids and auto layout in Figma. | [Read One](https://designcode.io/figma-handbook/-auto-layout) [Read Two](https://designcode.io/figma-handbook/-layout-grid) |
+| **Layout Grid & Auto Layout in Figma** | DesignCode | Learn how to use layout grids and auto layout in Figma. | [Read One](https://designcode.io/figma-handbook-auto-layout) [Read Two](https://designcode.io/figma-handbook-layout-grid) |
 
 
 ##### Videos
@@ -816,7 +816,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Customer Journey Mapping 101** | NNgroup | The 5 components of a journey map and the benefits of using this qualitative method as part of a UX design process to discover, document, and share the bigger picture of what users want. | [Watch](https://www.youtube.com/watch?v=2W13ext26kQ) |
-| **How to make a User Journey Map** | Mallory Dean | Hey guys! I hope you enjoy today's video about how to make a user journey map. This is one of my favorite tools to utilize at the beginning stages of a project. Journey mapping is all about visualizing a narrative for a selective actor or user group in your product. | [Watch](https://www.youtube.com/watch?v=3Tge09u8RQ8) |
+| **Customer Journey Mapping 101** | Nielsen Norman Group | What a journey map is, what belongs on one, and how to build one that a team will actually use. | [Watch](https://www.youtube.com/watch?v=2W13ext26kQ) |
 | **Customer Journey Map Workshop** | PlaybookUX | In this video, we’ll walk you through the process of creating a user journey map. | [Watch](https://www.youtube.com/watch?v=X7iXcP-wIkk) |
 | **Customer Journey Mapping Tutorial** | Jesper Lowgren | In this video, I teach you the basics of customer journey mapping, followed by a tutorial. This is one of the most powerful techniques you can use to dramatically improve the customer experience and the performance of your business. | [Watch](https://www.youtube.com/watch?v=3iwL2OEeWiw) |
 | **How to do User Story Mapping** | UXClub | A practical guide of how to do user story mapping. In this lesson we'll be covering how you can get the stories from your product backlog ready for software development. | [Watch](https://www.youtube.com/watch?v=k_4SchJgAI4) |
@@ -863,7 +863,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 | **6 Simple Steps to Conduct User Testing Successfully** | Adam Fard | User testing, or usability testing, is a key component in designing, finalizing and launching a great digital product. It’s about detecting usability issues at any stage of the product development cycle with the aim of improving the overall user experience. | [Read](https://adamfard.com/blog/conduct-user-testing) |
 | **How to Conduct a Heuristic Evaluation** | Hsin-Jou Lin | Heuristic evaluation is a usability inspection method for finding problems in a design. It is a method of usability inspection that helps to find usability problems in a design. | [Read](https://uxplanet.org/how-to-conduct-heuristic-evaluation-85548a355dca) |
 | **Usability Testing 101** | Nielsen Norman Group | Usability testing is a method of evaluating a product by testing it on users. It is a common practice designed to find usability problems early in the development cycle. | [Read](https://www.nngroup.com/articles/usability-testing-101/) |
-| **8 Usability Testing Methods That Work** | HotJar | Usability testing is a powerful tool for evaluating a website's functionality and making sure people can navigate it efficiently. In this section, we explore different usability testing methods, when you should use them, and why. | [Read](https://contentsquare.com/hotjar/usability-testing/methods/) |
+| **8 Usability Testing Methods That Work** | HotJar | Usability testing is a powerful tool for evaluating a website's functionality and making sure people can navigate it efficiently. In this section, we explore different usability testing methods, when you should use them, and why. | [Read](https://contentsquare.com/guides/usability-testing/methods/) |
 | **An Overview of Expert Heuristic Evaluations** | UXmatters | Heuristic evaluation is a process where experts use rules of thumb to measure the usability of user interfaces in independent walkthroughs and report issues. | [Read](https://www.uxmatters.com/mt/archives/2014/06/an-overview-of-expert-heuristic-evaluations.php) |
 | **The A to Z of UX — H is for Heuristics: 9 steps to carry out a heuristic evaluation** | Darren Wilson | Heuristics are a well established and accepted list of UX principles used to assess how well a user interface has been designed for its intended purpose. | [Read](https://uxdesign.cc/the-a-to-z-of-ux-h-is-for-heuristics-9-steps-to-carry-out-a-heuristic-evaluation-a1f5225c4e83) |
 | **User & Usability Testing - Methods & Tips**| Adobe | What is user testing? User testing is a technique used in user-centered design to evaluate a proposed solution or product by testing it with real or potential users.  | [Read](https://xd.adobe.com/ideas/process/user-testing/) |
@@ -1210,7 +1210,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 | --- | --- | --- | --- |
 | **Design Feedback in Action** | Google | Get a detailed look at giving and receiving feedback as you learn about design critique sessions. Watch part of a mock design critique session in action and see how you can turn feedback into concrete actions.  | [Watch](https://www.youtube.com/watch?v=VLwZc0JNAT8) |
 | **Websites Design Critique: Student Work** | Flux Academy | In this video, we will be going over the websites design critique. We will be going over the websites design critique of a student. | [Watch](https://www.youtube.com/watch?v=E84GpsDuaS0) |
-| **Critique an app with me! + tips for ux interviews (Product design 2019)** | Shae Illustrates | I'm here to talk tips from what I've learned over the past 4 years in hopes to help others out. Today, I walk through an app (SoundCloud - one of my favorites) and do a mini critique. Hope this helps! | [Watch](https://www.youtube.com/watch?v=eNooH3W9Qgo) |
+| **UX Design Critique live** | DareIT | A live critique session showing how designers give and take structured feedback on real work. | [Watch](https://www.youtube.com/watch?v=2AHNGaVg02w) |
 
 
 ##### Project Tasks #2
@@ -1406,7 +1406,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 ##### Tools
 | Name | Description | Link |
 | --- | --- | --- |
-| **Salesforce SLDS 2 Agentic Patterns** | Production agentic patterns from a shipping enterprise design system. | [Visit](https://www.lightningdesignsystem.com/2e1ef85012e1ef8501/p/03c548-agentic-patterns) |
+| **Salesforce SLDS 2 Agentic Patterns** | Production agentic patterns from a shipping enterprise design system. | [Visit](https://www.lightningdesignsystem.com/2e1ef8501/p/03c548-agentic-patterns) |
 | **Vercel AI Elements** | Open components for streaming chat and generative UI you can inspect and adapt. | [Visit](https://elements.ai-sdk.dev/) |
 | **Voiceflow** | A visual builder for conversational and agent flows, useful for prototyping before build. | [Visit](https://www.voiceflow.com/) |
 
@@ -1745,7 +1745,6 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 | **How to Prototype AR and VR UI/UX with FIGMA and UNITY! (Tutorial)** | Daniel Marqusee | In this tutorial, we will go over the fundamental skills and tricks you need to create UI for Augmented Reality (AR) and Virtual Reality(VR). From understanding field of vision and comfort, to exporting and building your designs in Unity, it's one hell of a ride! | [Watch](https://www.youtube.com/watch?v=mW8tRQRQD74) |
 | **Designing for AR - UX/UI Case Study** | Ales Nesetril | UX/UI design case study about my first hands-on work experience with AR (augmented reality). I have created my own design concept for skateboarding and explored the design process behind creating a simple AR view screen. | [Watch](https://www.youtube.com/watch?v=v0c5P3prpMM) |
 | **Building a VR app in Figma** | Akash Yadav | In this video, I will be showing you how to build a VR app in Figma. | [Watch](https://www.youtube.com/watch?v=nmlWiK9AokE) |
-| **Designing UI/UX for VR - How to Quickly Prototype with Figma and Unity 3D** | Eva Kuttichova | In this tutorial, we will go over the fundamental skills and tricks you need to create UI for Augmented Reality (AR) and Virtual Reality(VR). From understanding field of vision and comfort, to exporting and building your designs in Unity, it's one hell of a ride! | [Watch](https://www.youtube.com/watch?v=EhUv8CuHb-E) |
 
 
 ##### Tools
@@ -1847,7 +1846,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 | **How to Conduct User Experience Research Like a Professional** | CareerFoundry | User experience research is a crucial part of the design process. It helps us understand our users, their needs, and how we can best meet those needs. | [Read](https://careerfoundry.com/en/blog/ux-design/how-to-conduct-user-experience-research-like-a-professional/) |
 | **The Ultimate Guide to UX Research Strategy** | Carrie Boyd | User-centric designers, PMs, and researchers often repeat this phrase, like a prayer, as they try to convince internal stakeholders that user need is not the same as stakeholder want. | [Read](https://www.userinterviews.com/blog/the-ultimate-guide-to-ux-research-strategy) |
 | **How To Do A UX Competitor Analysis: A Step By Step Guide** | Steven Douglas | Getting to grips with the ins and outs of a UX competitor analysis can help you know your market, product and goals better. | [Read](https://usabilitygeek.com/how-to-do-ux-competitor-analysis/) |
-| **UX analysis: best methods and key tools** | Hotjar | User experience (UX) analysis helps you understand how users experience your website and product, so you can prioritize decisions about how to improve it for them and ensure the user experience is as frictionless and intuitive as possible. | [Read](https://contentsquare.com/hotjar/ux-design/analysis/) |
+| **UX analysis: best methods and key tools** | Hotjar | User experience (UX) analysis helps you understand how users experience your website and product, so you can prioritize decisions about how to improve it for them and ensure the user experience is as frictionless and intuitive as possible. | [Read](https://contentsquare.com/guides/ux/analysis/) |
 
 
 ##### Videos
@@ -1990,7 +1989,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 ##### Portfolios Inspiration
 | Author | Description | Link |
 | --- | --- | --- |
-| **Rama Krushna** | A digital product designer based in India, who love using cognitive psychology to humanize tech and solve people problems. I am a keen learner, team player, and enjoy taking on new challenges and side projects | [View](https://www.notion.com/Hey-I-m-Rama-Krushna-53ebad1b8bb04bd491108cac9c293be9) |
+| **Rama Krushna** | A digital product designer based in India, who love using cognitive psychology to humanize tech and solve people problems. I am a keen learner, team player, and enjoy taking on new challenges and side projects | [View](https://www.notion.so/Hey-I-m-Rama-Krushna-53ebad1b8bb04bd491108cac9c293be9) |
 | **Cofolios - UX portfolios of interns at FAANG** | Cofolios is a collection of UX portfolios of interns at FAANG companies. | [View](https://www.cofolios.com/) |
 | **Lisa Fisher** | Lisa Fischer is a designer focused on building brands and creating digital experiences  — currently working at Google. | [View](https://www.lisasuefischer.com/) |
 | **Sasha** | I’m Sascha — I elevate products through human-centered design & storytelling. | [View](https://saschas.ai/) |
