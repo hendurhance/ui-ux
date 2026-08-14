@@ -6,7 +6,7 @@
 </picture>
 
 [![Stars](https://img.shields.io/github/stars/hendurhance/ui-ux?color=232323&label=ui-ux&logo=github&labelColor=232323)](https://github.com/hendurhance/ui-ux/)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buymeacoffee&logoColor=000)](https://www.buymeacoffee.com/hendurhance)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buymeacoffee&logoColor=000)](https://buymeacoffee.com/hendurhance)
 [![License CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Twitter](https://img.shields.io/twitter/follow/hendurhance?style=social)](https://twitter.com/hendurhance)
 
@@ -19,6 +19,7 @@ Found a dead link, a better resource, or a typo? Read the **[contributing guide]
 **Author or publisher?** If your book is mirrored here and you want it removed, [open a takedown request](https://github.com/hendurhance/ui-ux/issues/new?template=03-takedown.yml) — no lawyer or formal notice needed, and it is handled first. Prefer to keep it private? See [about the mirrors](DISCLAIMER.md) for a direct contact.
 
 > Looking for the 2021 edition? It lives on the [deprecated branch](https://github.com/hendurhance/ui-ux/tree/%40deprecated-2021-resource).
+> Looking for the 2024 edition? It lives on the [deprecated branch](https://github.com/hendurhance/ui-ux/tree/%40deprecated-2024-resource).
 
 ## How This Guide Works
 
@@ -59,6 +60,56 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 
 > **Please buy the books you can afford.** These authors are the reason this guide exists. The mirrors are for people who genuinely cannot — see [about the mirrors](DISCLAIMER.md).
 
+
+## The Path
+
+The guide is a library, but it is meant to be walked in order. Here is that order, with what you should be able to do by the end of each step.
+
+Times are rough, and assume a few focused hours a week. Move faster if you can, slower if life happens. The deliverable matters more than the schedule.
+
+<details>
+<summary><h3>Expand the 14-step path</h3></summary>
+
+&nbsp;
+
+### Foundations
+
+| # | Step | You are done when | Rough time |
+| --- | --- | --- | --- |
+| 1 | [Understand what UX is](#introduction-to-user-experience-design) | You can explain to a non-designer why UX is a business argument, not decoration | 1 week |
+| 2 | [Learn UI fundamentals](#fundamentals-of-user-interface-design) | You can look at any screen and name what makes it obvious or confusing | 1–2 weeks |
+| 3 | [Pick one tool and get fluent](#introduction-to-design-tools) | You have rebuilt an existing app screen from scratch in Figma | 2 weeks |
+| 4 | [Type, color, layout](#visual-design-fundamentals) | Your screens have a type scale, an accessible palette, and a grid you chose on purpose | 3–4 weeks |
+
+**Checkpoint:** you can produce a screen that looks deliberate. It may not solve the right problem yet — that is the next half.
+
+### Working with real users
+
+| # | Step | You are done when | Rough time |
+| --- | --- | --- | --- |
+| 5 | [Talk to users](#user-research) | You have run a study with five people and written up what broke | 3 weeks |
+| 6 | [Structure and interaction](#information-architecture-and-interaction-design) | You have restructured an app's navigation and validated it with a card sort | 2–3 weeks |
+| 7 | [Prototype](#prototyping) | One flow exists as both a wireframe and a clickable high-fidelity build | 2–3 weeks |
+| 8 | [Design thinking and critique](#design-thinking) | You have run one full cycle on a real problem and survived a critique | 2 weeks |
+| 9 | [Design with AI](#designing-with-ai) | You can design an AI feature that admits when it is unsure | 2–3 weeks |
+
+**Checkpoint:** you can take an ill-defined problem and come back with something tested. This is the bar most junior roles hire against.
+
+### Specializing and getting hired
+
+| # | Step | You are done when | Rough time |
+| --- | --- | --- | --- |
+| 10 | [Accessibility, i18n, design systems](#advanced-design-techniques) | Your work passes contrast checks and reuses components rather than repeating them | 3–4 weeks |
+| 11 | [Pick an emerging area](#emerging-technologies) | You have shipped one small thing in voice, XR, or AI | 2–4 weeks |
+| 12 | [UX strategy](#ux-strategy) | You can argue for a design decision in terms of business outcomes | 2–3 weeks |
+| 13 | [Build the portfolio](#portfolio-development) | Three case studies that show your thinking, not just final screens | 4–6 weeks |
+| 14 | [Apply](#career-development) | You have applied to ten roles and practiced the interview out loud | ongoing |
+
+**Checkpoint:** you have a portfolio that argues for you when you are not in the room.
+
+> **Do not read this front to back.** Do step 1, then build something. Every step has a deliverable because reading about design does not make you a designer — the reading only makes sense once you have hit the problem yourself.
+
+</details>
 
 <h2 id="table-of-contents">📑 Table of Contents</h2>
 
@@ -174,8 +225,8 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **What is UX Design?** | UX Planet | UX Design primarily focuses on understanding and improving the interaction users have with a tool or product. | [Read](https://uxplanet.org/what-is-ux-design-bb02fc45aba5) |
-| **What is user experience (UX) design?** | UsabilityHub | Learn all about UX design, and the skills you need to become a UX designer, in this comprehensive guide. | [Read](https://usabilityhub.com/blog/what-is-user-experience-design) |
-| **What is User Experience (UX) Design?** | Interaction Design Foundation| User experience (UX) design is the process design teams use to create products that provide meaningful and relevant experiences to users. | [Read](https://www.interaction-design.org/literature/topics/ux-design) |
+| **What is user experience (UX) design?** | UsabilityHub | Learn all about UX design, and the skills you need to become a UX designer, in this comprehensive guide. | [Read](https://www.lyssna.com/blog/what-is-user-experience-design) |
+| **What is User Experience (UX) Design?** | Interaction Design Foundation| User experience (UX) design is the process design teams use to create products that provide meaningful and relevant experiences to users. | [Read](https://ixdf.org/literature/topics/ux-design) |
 | **An Introduction to User Experience Design** | Ben Ralph | The deceptively tricky challenge of designing for user behavior | [Read](https://medium.com/beakerandflint/an-introduction-user-experience-design-2a7f8167bf03) |
 | **Laws of UX** | Laws of UX | Laws of UX is a collection of 100+ UX laws, principles, and patterns for designing better digital products. | [Read](https://lawsofux.com/) |
 | **UI, UX: Who Does What? A Designer’s Guide To The Tech Industry.** | Lo Min Ming | This article will help you understand the difference between UI and UX design, and how they work together to create a great user experience. | [Read](https://www.fastcompany.com/3032719/ui-ux-who-does-what-a-designers-guide-to-the-tech-industry) |
@@ -256,7 +307,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **User Centered Design** | Wikipedia| (User) Human-centered design is an approach to interactive system development that focuses specifically on making systems usable. | [Read](https://en.wikipedia.org/wiki/User-centered_design) |
-| **What is User Centered Design?n** | Interaction Design Foundation | User-centered design (UCD) is an iterative design process in which designers focus on the users and their needs in each phase of the design process. | [Read](https://www.interaction-design.org/literature/topics/user-centered-design) |
+| **What is User Centered Design?n** | Interaction Design Foundation | User-centered design (UCD) is an iterative design process in which designers focus on the users and their needs in each phase of the design process. | [Read](https://ixdf.org/literature/topics/user-centered-design) |
 | **User-Centered Design Basics?** | Usability | The User-centered design (UCD) process outlines the phases throughout a design and development life-cycle all while focusing on gaining a deep understanding of the user. | [Read](https://uxplanet.org/what-is-user-centered-design-1b0e1e5e2e2) |
 | **User Centered Design Principles & Methods** | Adobe | User-centered design (UCD) is a collection of processes that focus on putting users at the center of product design and development. | [Read](https://xd.adobe.com/ideas/principles/human-computer-interaction/user-centered-design/) |
 | **What Is User-Centered Design? [Beginner's Guide]?** | CareerFoundry | User-centered design is an approach to design that puts users' needs front and center and follows an iterative design process that focuses on user feedback. | [Read](https://careerfoundry.com/en/blog/ux-design/user-centered-design/) |
@@ -299,10 +350,10 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **What is UI Design?** | Wikipedia | User interface design (UI) is the process of designing interfaces in software or computerized devices with the focus on looks or style. The goal of this design is to maximize the ease of use for the people using the product. | [Read](https://en.wikipedia.org/wiki/User_interface_design) |
-| **User Interface (UI) Design** | Interaction Design Foundation | User interface (UI) design is the process designers use to build interfaces in software or computerized devices, focusing on looks or style. Designers aim to create interfaces which users find easy to use and pleasurable.| [Read](https://www.interaction-design.org/literature/topics/ui-design) |
+| **User Interface (UI) Design** | Interaction Design Foundation | User interface (UI) design is the process designers use to build interfaces in software or computerized devices, focusing on looks or style. Designers aim to create interfaces which users find easy to use and pleasurable.| [Read](https://ixdf.org/literature/topics/ui-design) |
 | **What is UI Design?** | UX Design Institute | What is user interface (UI) design, and how is it different from UX? What is the UI design process? Learn everything you need to know about UI design here. | [Read](https://www.uxdesigninstitute.com/blog/what-is-ui-design/) |
 | **What Is UI Design? Definition, Tips, Best Practices** | Coursera | UI stands for user interface. It is the point of contact between humans and computers. Any technology you interact with as a user is part of the user interface. | [Read](https://www.coursera.org/articles/ui-design) |
-| **What is UI Design?** | CareerFoundry | User interface (UI) design is an incredibly broad, multidisciplinary, and creative field. Good UI design is increasingly recognized as an essential tool to increase user engagement and create products that are both useful and visually pleasing.| [Read](https://careerfoundry.com/en/blog/ui-design/what-is-ui-design-guide) |
+| **What is UI Design?** | CareerFoundry | User interface (UI) design is an incredibly broad, multidisciplinary, and creative field. Good UI design is increasingly recognized as an essential tool to increase user engagement and create products that are both useful and visually pleasing.| [Read](https://careerfoundry.com/en/blog/ui-design/what-is-ui-design-guide/) |
 | **What is Design Thinking?** | Ideou | How design thinking can help you transform the way you develop products, services, processes, and organizations. | [Read](https://www.ideou.com/blogs/inspiration/what-is-design-thinking) |
 | **What Is Design Thinking? A Comprehensive Beginner's Guide** | CareerFoundry | Design thinking is both an ideology and a process, concerned with solving complex problems in a highly user-centric way. | [Read](https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/) |
 
@@ -314,7 +365,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | **User Interface (UI) Design Principles Series Introduction** | Brendan Colarusso | In this video, I explain how I came to my list of 12 UI Principles that we will be going over in depth in this series over the next few weeks. Check out the resources below to start learning about these principles.  | [Watch](https://www.youtube.com/watch?v=FmSjtWTIx1o) |
 | **The 2019 UI Design Crash Course for Beginners** | DesignCourse | What is user interface (UI) design, and how is it different from UX? What is the UI design process? Learn everything you need to know about UI design here. | [Watch](https://www.youtube.com/watch?v=_Hp_dI0DzY4) |
 | **UI Design Tutorial For Beginners** | Antony Conboy | Take your first steps in the world of User Interface (UI) design with this beginner-friendly tutorial. From understanding the basics of UI design to creating wireframes, prototypes, and high-fidelity mockups, we'll guide you through the process.| [Watch](https://www.youtube.com/watch?v=_K06Dni-RE4) |
-| **Design Thinking Full Course, Design Thinking Process, Design Thinking For Beginners** | Simplilearn | Design thinking is a human-centered approach to problem solving that helps you understand the needs of people and develop innovative solutions. | [Watch](https://www.youtube.com/watch?v=Q5YjZzqLc-4) |
+| **Design Thinking Full Course, Design Thinking Process, Design Thinking For Beginners** | Simplilearn | Design thinking is a human-centered approach to problem solving that helps you understand the needs of people and develop innovative solutions. | [Watch](https://www.youtube.com/watch?v=_r0VX-aU_T8) |
 | **Design Thinking Tutorial** | Simplilearn | In this design thinking tutorial, we will be looking at what is design thinking, why design thing is important,  steps of design thinking, empathy mapping, five phases and four pillars of design thinking and agile methodology with design thinking. | [Watch](https://www.youtube.com/watch?v=4nTh3AP6knM) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -341,9 +392,9 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **User Interface Design Basics** | Usability| User Interface (UI) Design focuses on anticipating what users might need to do and ensuring that the interface has elements that are easy to access, understand, and use to facilitate those actions. | [Read](https://www.usability.gov/what-and-why/user-interface-design.html) |
+| **User Interface Design Basics** | Usability| User Interface (UI) Design focuses on anticipating what users might need to do and ensuring that the interface has elements that are easy to access, understand, and use to facilitate those actions. | [Read](https://digital.gov/topics/usability/) |
 | **The 4 Golden Rules of UI Design** | Adobe | The user interface (UI) is a critical part of any software product. When it’s done well, users don’t even notice it. | [Read](https://uxplanet.org/ui-design-best-practices-1d10d73d2d9b) |
-| **10 Fundamental UI Design Principles You Need to Know** | Renee Fleck | Most users only notice the UI design of an app or software when something goes wrong. For this reason, we can say that good UI design is almost invisible, leaving the user free to get down to work without interruption. | [Read](https://dribbble.com/resources/ui-design-principles) |
+| **10 Fundamental UI Design Principles You Need to Know** | Renee Fleck | Most users only notice the UI design of an app or software when something goes wrong. For this reason, we can say that good UI design is almost invisible, leaving the user free to get down to work without interruption. | [Read](https://dribbble.com/resources/education/ui-design-principles) |
 | **27 UI/UX Design Principles and Best Practices 2021** | 729solutions | Great design goes a long way. The experience visitors have with your website sets the stage for their relationship with your product, your company, and your brand.| [Read](https://729solutions.com/ux-ui-best-practices/) |
 | **UI Design Best Practices and Common Mistakes** | UX Planet | The most progressive and interesting designers steer clear of visually stale design solutions and ditch restrictive rules by learning UI design best practices and avoiding common design mistakes. 🔊 | [Read](https://www.toptal.com/designers/ui/most-common-ui-design-mistakes) |
 
@@ -420,7 +471,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | **ProtoPie** | ProtoPie is a prototyping tool for mobile apps. | [Visit](https://www.protopie.io/) | ✅ |
 | **Marvel** | Marvel is a prototyping tool for mobile apps. | [Visit](https://marvelapp.com/) | ✅ |
 | **Principle** | Principle is a prototyping tool for mobile apps. | [Visit](https://principleformac.com/) | ✅ |
-| **Framer** | Framer is a prototyping tool for mobile apps. | [Visit](https://framer.com/) | ✅ |
+| **Framer** | Framer is a prototyping tool for mobile apps. | [Visit](https://www.framer.com/) | ✅ |
 | **Adobe Photoshop** | Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for macOS and Windows. | [Visit](https://www.adobe.com/products/photoshop.html) | ❌ |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -431,8 +482,8 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **The Figma Design Tool Handbook** | DesignCode | A comprehensive guide to the best tips and tricks in Figma | [Reading List](https://designcode.io/figma-handbook) |
-| **The Figma Learning Guide** | Figma | Kick start your design education with these 12 lessons | [Reading List](https://www.figma.com/resources/learn-design/lessons/) |
+| **The Figma Design Tool Handbook** | DesignCode | A comprehensive guide to the best tips and tricks in Figma | [Reading List](https://designcode.io/figma-handbook/) |
+| **The Figma Learning Guide** | Figma | Kick start your design education with these 12 lessons | [Reading List](https://www.figma.com/resource-library/design-basics/) |
 | **Get Started with Adobe XD: Design.** | Adobe XD | Get started using Adobe XD, the powerful platform for creating user experiences — all at the speed of thought.| [Reading List](https://www.adobe.com/products/xd/learn/get-started-xd-design.html) |
 
 
@@ -440,7 +491,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **New to Figma? Get started with "Figma for beginners" tutorials** | Figma | f you’re brand new to Figma or design tools, check out this playlist for a quick tour of key features as we take you through a rough approximation of the design process, and design a mobile app together. | [Watch Playlist](https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4) |
-| **Figma UI Design Tutorial: Get Started in Just 24 Minutes!** | AJ&Smart | Do you want to learn Figma but don’t know where to start? Well, if you follow this step-by-step tutorial, it will only take you 24 minutes to learn all the basics you need to know to start designing apps and websites in Figma. | [Watch](https://www.youtube.com/watch?v=8gmdqejK0HI) |
+| **Figma UI Design Tutorial: Get Started in Just 24 Minutes!** | AJ&Smart | Do you want to learn Figma but don’t know where to start? Well, if you follow this step-by-step tutorial, it will only take you 24 minutes to learn all the basics you need to know to start designing apps and websites in Figma. | [Watch](https://www.youtube.com/watch?v=tdy1bo5eAgA) |
 | **Figma Tutorial for Beginners** | DesignCourse | In this video, I'll be going over the basics of Figma and how to use it to create a simple website design. | [Watch](https://www.youtube.com/watch?v=3q3FV65ZrUs) |
 | **Figma tutorial for Beginners: Complete Website from Start to Finish** | Flux Academy | Learn how to use Figma to design a website from start to finish. | [Watch](https://www.youtube.com/watch?v=HZuk6Wkx_Eg) |
 | **UI Design Live: UI Patterns, Visual Hierarchy and Iterations** | DesignCourse | How we can take one UI and make multiple iterations of it by looking at different UI patterns and visual hierarchy. | [Watch](https://www.youtube.com/watch?v=D1pO4AQTfes&t=68s) |
@@ -494,7 +545,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | --- | --- | --- | --- |
 | **What Is Typography, and Why Is It Important? [2023 Guide]** | CareerFoundry | Typography is the art and technique of arranging type to make written language legible, readable, and appealing when displayed. | [Read](https://careerfoundry.com/en/blog/ui-design/beginners-guide-to-typography/) |
 | **The Principles of Design and Their Importance** | Toptal | The principles of design work together to create something that is aesthetically pleasing and optimizes the user experience. | [Read](https://www.toptal.com/designers/ui/principles-of-design) |
-| **Breaking Down the Principles of Design (with Infographic)** | Toptal | Understanding the principles of design and how they interact is vital for both new and expert designers. Implementing them purposefully is key to creating visually appealing, functional designs. | [Read](https://www.toptal.com/designers/gui/principles-of-design-infographic) |
+| **Breaking Down the Principles of Design (with Infographic)** | Toptal | Understanding the principles of design and how they interact is vital for both new and expert designers. Implementing them purposefully is key to creating visually appealing, functional designs. | [Read](https://www.toptal.com/designers/ui/principles-of-design) |
 | **Typography for Developers** | CSS-Tricks | Typography is a huge topic, and it's easy to get lost in the weeds. This article is meant to be a high-level overview of the basics of typography. | [Read](https://css-tricks.com/typography-for-developers/) |
 | **Understanding typography** | Material Design | Typography is critical in establishing hierarchy and expressing brand presence that supports an effective digital experience.. | [Read](https://m2.material.io/design/typography/understanding-typography.html) |
 | **Typography design 101: a guide to rules and terms** | 99designs | What is typography design? In short, typography design is the art of arranging a message in a readable and aesthetically pleasing composition. | [Read](https://99designs.com/blog/tips/typography-design/) |
@@ -538,10 +589,10 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **What is Color Theory?** | Interaction Design Foundation | Color theory is the collection of rules and guidelines which designers use to communicate with users through appealing color schemes in visual interfaces.| [Read](https://www.interaction-design.org/literature/topics/color-theory) |
+| **What is Color Theory?** | Interaction Design Foundation | Color theory is the collection of rules and guidelines which designers use to communicate with users through appealing color schemes in visual interfaces.| [Read](https://ixdf.org/literature/topics/color-theory) |
 | **The Science Behind Color and Emotion** | Design Shack | The science behind our emotional connections to color, from Goethe’s color wheel to modern neuroscience, and what it means for design work. | [Read](https://designshack.net/articles/graphics/the-science-behind-color-and-emotion/) |
 | **An Introduction to Color Theory and Color Palettes** | CareerFoundry | Have you ever seen a color that has immediately reminded you of a particular brand? Maybe you’ve struggled to feel relaxed in a room that has a clashing color scheme, or returned an item of clothing you got as a gift because the color wasn’t quite right.| [Read](https://careerfoundry.com/en/blog/ui-design/introduction-to-color-theory-and-color-palettes/) |
-| **Color Theory for Designers – A Crash Course (with Infographic)** | Toptal | Color: It’s stunningly beautiful and maddeningly deceptive. Use this color theory field guide (with an infographic) to make lightning-quick color choices with unwavering confidence. | [Read](https://www.toptal.com/designers/visual/color-theory-for-designers) |
+| **Color Theory for Designers – A Crash Course (with Infographic)** | Toptal | Color: It’s stunningly beautiful and maddeningly deceptive. Use this color theory field guide (with an infographic) to make lightning-quick color choices with unwavering confidence. | [Read](https://www.toptal.com/designers/graphic/color-theory-for-designers) |
 | **Color Theory for Designers, Part 1: The Meaning of Color** | Cameron Chapman | Let’s dive into color theory. We’ll discuss the meanings behind the different color families, and give some examples of how these colors are used. | [Read](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/) |
 | **The Ultimate UX Guide to Color Design** | Justin Baker | The Ultimate UX Guide to Color Design. How to use color in your designs to create a better user experience. | [Read](https://medium.muz.li/the-ultimate-ux-guide-to-color-design-4d0a18a706ed) |
 | **Color Theory: Brief Guide For Designers** | TubikStudio | The article focused on the basics of color theory and color combinations in design: learn more about color wheel, RGB, CMYK and models of color harmony. | [Read](https://blog.tubikstudio.com/color-theory-brief-guide-for-designers/) |
@@ -588,12 +639,12 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | --- | --- | --- | --- |
 | **Fundamentals of layout in user interface design (UI)** | Leonardo Moreno | Composition, balance, and how to manage a good structure. | [Read](https://uxdesign.cc/fundamentals-of-layout-in-interface-design-ui-3a9dba31f1) |
 | **9 Rules of Composition For UX/UI Designers** | Inkbot Design | The rules of composition allow you to place the content in the most logical and appealing form. If you think that composition is something from the art world that has nothing to do with UX/UI, you’re terribly wrong. | [Read](https://inkbotdesign.com/rules-of-composition/) |
-| **Understanding Layout** | Material Design | In many ways, layout and composition are the building blocks of design. They give your work structure and make it easier to navigate, from the margins on the sides to the content in between. | [Read](https://material.io/design/layout/understanding-layout.html) |
+| **Understanding Layout** | Material Design | In many ways, layout and composition are the building blocks of design. They give your work structure and make it easier to navigate, from the margins on the sides to the content in between. | [Read](https://m2.material.io/design/layout/understanding-layout.html) |
 | **The 5 rules of design composition and layout** | 99Designs | Design composition is how you place elements on a page. Learn how to layout a design to creating meaning and be more aesthetically pleasing. | [Read](https://99designs.com/blog/tips/design-composition-and-layout/) |
 | **Composition and its rules in the design of interfaces** | UX Planet | Composition — is interaction of interface elements with a goal to convey the meaning of this very interface. To give user an opportunity to easily understand the interface, it is necessary to use the rules of composition. | [Read](https://uxplanet.org/composition-and-its-rules-in-the-design-of-interfaces-65a86e4d09a7) |
 | **Key Principles for Better Design Composition** | Caleb Kingston | Designs often have many combined elements from type and imagery to graphics and colors.  | [Read](https://xd.adobe.com/ideas/process/ui-design/design-composition-key-principles/) |
 | **Create scalable web page layouts in Figma** | UX Design | Learn how to create a responsive web page layout in Figma. | [Read](https://uxdesign.cc/create-scalable-web-page-layouts-in-figma-e7e6e580dd67) |
-| **Layout Grid & Auto Layout in Figma** | DesignCode | Learn how to use layout grids and auto layout in Figma. | [Read One](https://designcode.io/figma-handbook-auto-layout) [Read Two](https://designcode.io/figma-handbook-layout-grid) |
+| **Layout Grid & Auto Layout in Figma** | DesignCode | Learn how to use layout grids and auto layout in Figma. | [Read One](https://designcode.io/figma-handbook/-auto-layout) [Read Two](https://designcode.io/figma-handbook/-layout-grid) |
 
 
 ##### Videos
@@ -661,9 +712,8 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | --- | --- | --- | --- |
 | **Introduction To UX Research ( User Research)** | UX Planet | User Research focuses on understanding user behaviors, needs, and motivations through interviews, surveys, usability evaluations and other feedback methods. | [Read](https://uxplanet.org/introduction-to-ux-research-user-research-a2f27a6413ff) |
 | **The UX Research Methods You Need To Know** | CareerFoundry | As we know, UX research is all about gathering insights that can be used to inform the design process. Different research methods will uncover different insights. | [Read](https://careerfoundry.com/en/tutorials/ux-research-for-beginners/an-introduction-to-ux-research-methods/) |
-| **Complete Beginner's Guide to UX Research** | UX Booth | In an industry devoted to the people who use our products, services, and applications, research is paramount. We ask questions. We take notes. We learn everything we can about the target audience, and then iteratively test our work throughout the design process. | [Read](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/) |
 | **Intro to UX research** | Optimal Workshop | User research is a critical part of the design process. It helps you understand your users, their needs, and how to solve their problems. | [Read](https://blog.optimalworkshop.com/intro-to-ux-research/) |
-| **What is User Research?** | Interaction Design Foundation | User research is the methodic study of target users—including their needs and pain points—so designers have the sharpest possible insights to work with to create a product or service that meets those needs. | [Read](https://www.interaction-design.org/literature/topics/user-research) |
+| **What is User Research?** | Interaction Design Foundation | User research is the methodic study of target users—including their needs and pain points—so designers have the sharpest possible insights to work with to create a product or service that meets those needs. | [Read](https://ixdf.org/literature/topics/user-research) |
 | **User Research Introduction** | Brad Dalrymple | Research can be intimidating, especially if you’re new to it. Here are a few things to help you understand the basics! | [Reading List](https://medium.com/user-research/user-research-introduction-126ce1e4e546) |
 
 
@@ -679,11 +729,11 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | Title | Description | Link |
 | --- | --- | --- |
 | <img src="https://img.shields.io/badge/FREE-1a7f37" alt="Free"> **UXtweaks** | The only UX research platform you need. Conduct UX research where users complete specific tasks directly on your web.  | [Visit](https://www.uxtweak.com/) |
-| <img src="https://img.shields.io/badge/FREE-1a7f37" alt="Free"> **Hotjar** | "Hotjar is a critical tool for us to understand our users and identify any pain points where they might be getting stuck. | [Visit](https://www.hotjar.com/) |
+| <img src="https://img.shields.io/badge/FREE-1a7f37" alt="Free"> **Hotjar** | "Hotjar is a critical tool for us to understand our users and identify any pain points where they might be getting stuck. | [Visit](https://contentsquare.com/hotjar/) |
 | <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> **UserTesting** | UserTesting is a platform for conducting user research. It helps you find the right users, conduct interviews, and analyze the results. | [Visit](https://www.usertesting.com/) |
-| <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> **Userbrain** | Userbrain shows you what's working for your product — and what's not. A simple tool that lets you create a user test in minutes and get results in just a few hours. | [Visit](https://userbrain.com/) |
-| <img src="https://img.shields.io/badge/FREE-1a7f37" alt="Free"> **UserZoom** | UserZoom is a platform for conducting user research. It helps you find the right users, conduct interviews, and analyze the results. | [Visit](https://www.userzoom.com/) |
-| <img src="https://img.shields.io/badge/FREE-1a7f37" alt="Free"> **UsabilityHub** | UsabilityHub is a remote user research platform that takes the guesswork out of design decisions by validating them with real users. | [Visit](https://usabilityhub.com/) |
+| <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> **Userbrain** | Userbrain shows you what's working for your product — and what's not. A simple tool that lets you create a user test in minutes and get results in just a few hours. | [Visit](https://www.userbrain.com/en/) |
+| <img src="https://img.shields.io/badge/FREE-1a7f37" alt="Free"> **UserZoom** | UserZoom is a platform for conducting user research. It helps you find the right users, conduct interviews, and analyze the results. | [Visit](https://www.usertesting.com/platform/userzoom) |
+| <img src="https://img.shields.io/badge/FREE-1a7f37" alt="Free"> **UsabilityHub** | UsabilityHub is a remote user research platform that takes the guesswork out of design decisions by validating them with real users. | [Visit](https://www.lyssna.com/) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -708,7 +758,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **Personas – A Simple Introduction** | Interaction Design Foundation | Personas are fictional characters that represent your target users. They are based on real data and are used to help you design better products and services. | [Read](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them) |
+| **Personas – A Simple Introduction** | Interaction Design Foundation | Personas are fictional characters that represent your target users. They are based on real data and are used to help you design better products and services. | [Read](https://ixdf.org/literature/article/personas-why-and-how-you-should-use-them) |
 | **What Are User Personas and Why Are They Important?** | Adobe | User personas are archetypical users whose goals and characteristics represent the needs of a larger group of users. Usually, a persona is a composite of several real users. | [Read](https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/) |
 | **How to Define a User Persona** | CareerFoundry | As you break into a career in UX, user personas are one tool you’ll certainly want to have available as you gather user research and find design solutions to solve problems and create more human-friendly products and experiences. | [Read](https://careerfoundry.com/en/blog/ux-design/how-to-define-a-user-persona/) |
 | **Introduction to Developing User Personas** |  Judit Kertesz | You can create the best service with the most modern technology, but if you do not understand the user’s preferences and desires, our efforts towards creating the best service are easily lost. | [Read](https://miro.com/blog/introduction-user-personas/) |
@@ -755,7 +805,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **User journey map** | Optimizely | A user journey map (also known as a customer journey map) is a diagram that visually illustrates the user flow through your site, starting with initial contact or discovery, and continuing through the process of engagement into long-term loyalty and advocacy. | [Read](https://www.optimizely.com/optimization-glossary/user-journey-map/) |
+| **User journey map** | Optimizely | A user journey map (also known as a customer journey map) is a diagram that visually illustrates the user flow through your site, starting with initial contact or discovery, and continuing through the process of engagement into long-term loyalty and advocacy. | [Read](https://www.optimizely.com/optimization-glossary/user-journey-map) |
 | **Journey Mapping 101** | Nielsen Norman Group | Journey mapping is a process that provides a holistic view of the customer experience by uncovering moments of both frustration and delight along the way. | [Read](https://www.nngroup.com/articles/journey-mapping-101/) |
 | **A Beginner's Guide To User Journey Mapping** | Nick Babich | ‘How do people actually use our product?’ is a fundamental question that every product creator must answer. In order to answer this question, product designers need to understand the essence of the whole experience from the user’s perspective. | [Read](https://marvelapp.com/blog/beginners-guide-user-journey-mapping/) |
 | **What are User Flows in User Experience (UX) Design?** | Camren Browne | The concept of flow in UX design was first coined by the psychologist Mihaly Csikszentmihalyi. He deemed it a highly focused mental state where the user is fully immersed in what they are doing and the task they aim to accomplish. | [Read](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/) |
@@ -780,8 +830,8 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | **Whimsical** | Whimsical is a collaborative whiteboard tool that helps teams visualize and plan projects. | [Visit](https://whimsical.com/) | ✅ |
 | **Miro** | Miro is a collaborative whiteboard platform that enables teams to work together visually. | [Visit](https://miro.com/) | ✅ |
 | **Figjam** | Figjam is a collaborative design tool that helps teams create, test, and iterate on ideas together. | [Visit](https://www.figma.com/figjam/) | ✅ |
-| **Lucidchart** | Lucidchart is a visual workspace that combines diagramming, data visualization, and collaboration. | [Visit](https://www.lucidchart.com/) | ✅ |
-| **Cacoo** | Cacoo is a collaborative diagramming tool that helps teams work together visually. | [Visit](https://cacoo.com/) | ✅ |
+| **Lucidchart** | Lucidchart is a visual workspace that combines diagramming, data visualization, and collaboration. | [Visit](https://lucid.co/lucidchart) | ✅ |
+| **Cacoo** | Cacoo is a collaborative diagramming tool that helps teams work together visually. | [Visit](https://nulab.com/cacoo/) | ✅ |
 | **Drawio** | Draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. | [Visit](https://app.diagrams.net/) | ✅ |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -809,11 +859,11 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **What is User Testing? - Learn UX - Keep It Usable** | KeepItUsable | User testing, aka usability testing, user research, UX testing… everyone’s talking about it, all the best companies are doing it, but what exactly is user testing? And why are your peers banging on about it so much? | [Read](https://www.keepitusable.com/blog/what-is-user-testing) |
+| **What is User Testing? - Learn UX - Keep It Usable** | KeepItUsable | User testing, aka usability testing, user research, UX testing… everyone’s talking about it, all the best companies are doing it, but what exactly is user testing? And why are your peers banging on about it so much? | [Read](https://www.keepitusable.com/blog/what-is-user-testing/) |
 | **6 Simple Steps to Conduct User Testing Successfully** | Adam Fard | User testing, or usability testing, is a key component in designing, finalizing and launching a great digital product. It’s about detecting usability issues at any stage of the product development cycle with the aim of improving the overall user experience. | [Read](https://adamfard.com/blog/conduct-user-testing) |
 | **How to Conduct a Heuristic Evaluation** | Hsin-Jou Lin | Heuristic evaluation is a usability inspection method for finding problems in a design. It is a method of usability inspection that helps to find usability problems in a design. | [Read](https://uxplanet.org/how-to-conduct-heuristic-evaluation-85548a355dca) |
 | **Usability Testing 101** | Nielsen Norman Group | Usability testing is a method of evaluating a product by testing it on users. It is a common practice designed to find usability problems early in the development cycle. | [Read](https://www.nngroup.com/articles/usability-testing-101/) |
-| **8 Usability Testing Methods That Work** | HotJar | Usability testing is a powerful tool for evaluating a website's functionality and making sure people can navigate it efficiently. In this section, we explore different usability testing methods, when you should use them, and why. | [Read](https://www.hotjar.com/usability-testing/methods/) |
+| **8 Usability Testing Methods That Work** | HotJar | Usability testing is a powerful tool for evaluating a website's functionality and making sure people can navigate it efficiently. In this section, we explore different usability testing methods, when you should use them, and why. | [Read](https://contentsquare.com/hotjar/usability-testing/methods/) |
 | **An Overview of Expert Heuristic Evaluations** | UXmatters | Heuristic evaluation is a process where experts use rules of thumb to measure the usability of user interfaces in independent walkthroughs and report issues. | [Read](https://www.uxmatters.com/mt/archives/2014/06/an-overview-of-expert-heuristic-evaluations.php) |
 | **The A to Z of UX — H is for Heuristics: 9 steps to carry out a heuristic evaluation** | Darren Wilson | Heuristics are a well established and accepted list of UX principles used to assess how well a user interface has been designed for its intended purpose. | [Read](https://uxdesign.cc/the-a-to-z-of-ux-h-is-for-heuristics-9-steps-to-carry-out-a-heuristic-evaluation-a1f5225c4e83) |
 | **User & Usability Testing - Methods & Tips**| Adobe | What is user testing? User testing is a technique used in user-centered design to evaluate a proposed solution or product by testing it with real or potential users.  | [Read](https://xd.adobe.com/ideas/process/user-testing/) |
@@ -833,11 +883,11 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Tools
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| <img src="https://img.shields.io/badge/FREE-1a7f37" alt="Free"> **Maze** | Maze | Maze is a usability testing platform that helps you get the most out of your user testing. | [Visit](https://maze.design/) |
+| <img src="https://img.shields.io/badge/FREE-1a7f37" alt="Free"> **Maze** | Maze | Maze is a usability testing platform that helps you get the most out of your user testing. | [Visit](https://maze.co/) |
 | <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> **UserTesting** | UserTesting | UserTesting is the world’s leading on-demand human insight platform. | [Visit](https://www.usertesting.com/) |
-| <img src="https://img.shields.io/badge/FREE-1a7f37" alt="Free"> **UserZoom** | UserZoom | UserZoom is the leading provider of on-demand user experience research. | [Visit](https://www.userzoom.com/) |
-| <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> **Userlytics** | Userlytics | Userlytics is a user testing platform that helps you get the most out of your user testing. | [Visit](https://userlytics.com/) |
-| <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> **Userfeel** | Userfeel | Userfeel is a user testing platform that helps you get the most out of your user testing. | [Visit](https://userfeel.com/) |
+| <img src="https://img.shields.io/badge/FREE-1a7f37" alt="Free"> **UserZoom** | UserZoom | UserZoom is the leading provider of on-demand user experience research. | [Visit](https://www.usertesting.com/platform/userzoom) |
+| <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> **Userlytics** | Userlytics | Userlytics is a user testing platform that helps you get the most out of your user testing. | [Visit](https://www.userlytics.com/) |
+| <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> **Userfeel** | Userfeel | Userfeel is a user testing platform that helps you get the most out of your user testing. | [Visit](https://www.userfeel.com/) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -901,14 +951,13 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | --- | --- | --- | --- | --- |
 | <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> **About Face: The Essentials of Interaction Design** | Alan Cooper | The essential interaction design guide, fully revised and updated for the mobile age About Face: The Essentials of Interaction Design, Fourth Edition is the latest update to the book that shaped and evolved the landscape of interaction design. | [Buy](https://www.goodreads.com/book/show/18737922) | [⬇ Mirror](https://mega.nz/file/KfoFnBaK#1JZBPIN8ixdqAFoMgqIXn7LDkkvSiVuJ8MCSy2WloQw) |
 | <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> **Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences (Voices That Matter)** | Stephen P. Anderson | What happens when you’ve built a great website or app, but no one seems to care? How do you get people to stick around long enough to see how your service might be of value? | [Buy](https://www.peachpit.com/store/seductive-interaction-design-creating-playful-fun-and-9780321725523) | [⬇ Mirror](https://mega.nz/file/vL4ixCyQ#_EYcTAMS2Q6X51bWs2Ec0rCfXgqMTrJaM-UmR3smtP8) |
-| <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> **Interaction Design: Beyond Human-Computer Interaction** | Helen Sharp & Jenny Preece & Yvonne Rogers | Interaction Design: Beyond Human-Computer Interaction is a comprehensive introduction to the field of interaction design. | [Buy](http://www.id-book.com/) | [⬇ Mirror](https://mega.nz/file/bXRlwKjK#IZB9axvkSJEA1Bncrp85ozT9HMUNrx4MTegHb91Dnfo) |
+| <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> **Interaction Design: Beyond Human-Computer Interaction** | Helen Sharp & Jenny Preece & Yvonne Rogers | Interaction Design: Beyond Human-Computer Interaction is a comprehensive introduction to the field of interaction design. | [Buy](https://www.id-book.com/) | [⬇ Mirror](https://mega.nz/file/bXRlwKjK#IZB9axvkSJEA1Bncrp85ozT9HMUNrx4MTegHb91Dnfo) |
 
 
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **What is Interaction Design?** | Interaction Design Foundation | Interaction design is an important component within the giant umbrella of user experience (UX) design. In this article, we’ll explain what interaction design is, some useful models of interaction design, as well as briefly describe what an interaction designer usually does. | [Read](https://www.interaction-design.org/literature/article/what-is-interaction-design) |
-| **Complete Beginner’s Guide to Interaction Design** | UX Booth | Interaction design has its origins in web and graphic design, but has grown into a realm of its own. Far from merely working with text and pictures, interaction designers are now responsible for creating every element on the screen that a user might swipe, click, tap, or type: in short, the interactions of an experience. | [Read](https://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/?ref=hackdesign) |
+| **What is Interaction Design?** | Interaction Design Foundation | Interaction design is an important component within the giant umbrella of user experience (UX) design. In this article, we’ll explain what interaction design is, some useful models of interaction design, as well as briefly describe what an interaction designer usually does. | [Read](https://ixdf.org/literature/article/what-is-interaction-design) |
 | **What is Interaction Design?** | UX Pin | Interaction design is a specialized discipline within UX design. Where UX looks at the entire user experience and how everything ties together to create a cohesive experience, interaction design focuses on the interactions between the user and the product. | [Read](https://www.uxpin.com/studio/blog/interaction-design-its-origin-and-principles/) |
 | **What Is Interaction Design in UX Development?** | Indeed  | Interaction design (IxD) is a connection between a product and the user. The role of interaction design is to give users information concisely and efficiently to help them accomplish their goals.  | [Read](https://www.indeed.com/career-advice/career-development/what-is-interaction-design) |
 
@@ -949,7 +998,6 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | **Better UX Through Microinteractions** | Ondřej | Microinteractions are single interactive moments in a product that enhance the workflow and make a product more enjoyable. This article highlights key parts of microinteractions and patterns. | [Read](https://www.toptal.com/designers/product-design/microinteractions-better-ux) |
 | **10 Micro-interactions Examples and How They Boost UX** | Jeff Cardello | Micro-interactions let visitors take action and guide them through the things you want them to accomplish. | [Read](https://www.vev.design/blog/micro-interaction-examples/) |
 | **Microinteractions in User Experience** | Alita Joyce | Microinteractions convey system status, support error prevention, and communicate brand. They are initiated by a trigger, are single-purpose, and can make the experience engaging. | [Read](https://www.nngroup.com/articles/microinteractions/) |
-| **The power of microinteractions in UX design** | ShapingDesign | Microinteractions can help craft a more engaging experience, while providing users with feedback and a sense of satisfaction. | [Read](https://www.editorx.com/shaping-design/article/microinteractions-ux-design) |
 | **How Micro Interactions have become an essential part of great products.** | Prayag Gangadharan | The world of User Experience design is growing fast, everyone wants their user to have the best experience. There are many ways to improve the user experience, including defining personas, well-structured information architecture and thoughtful written content. | [Read](https://uxplanet.org/how-micro-interactions-have-become-an-essential-part-of-great-products-2ac8e02b5f2) |
 | **Micro-interactions: why, when and how to use them to improve the user experience** | Vamsi Batchu | Micro-interactions are events which have one main task — a single purpose — and they’re found all over your device and within apps. Their purpose is to delight the user; to create a moment that is engaging, welcoming and, dare we say it — human. | [Read](https://uxdesign.cc/micro-interactions-why-when-and-how-to-use-them-to-boost-the-ux-17094b3baaa0) |
 | **Creating meaningful micro-interactions** | Denislav Jeliazkov | While design solves universal problems, micro-interactions are the delightful moments your users have while using the product. | [Read](https://uxplanet.org/creating-meaningful-micro-interactions-99cbde1fbee7) |
@@ -990,11 +1038,10 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **An Introduction to Prototyping in UX Design** | DesignGuru | Prototyping is an essential part of any UX design process. It allows designers to quickly and easily create a working model of their design that can be tested and iterated upon. | [Read](https://bootcamp.uxdesign.cc/an-introduction-to-prototyping-in-ux-design-e19455eccb5e) |
-| **4 Steps to Build Your Product's First Prototype** | Cherie Nelson | Here are four steps to get your first prototype built so you can turn your idea into a patented, profitable product. | [Read](https://athgo.org/4-steps-build-products-first-prototype/) |
+| **An Introduction to Prototyping in UX Design** | DesignGuru | Prototyping is an essential part of any UX design process. It allows designers to quickly and easily create a working model of their design that can be tested and iterated upon. | [Read](https://medium.com/design-bootcamp/an-introduction-to-prototyping-in-ux-design-e19455eccb5e) |
 | **Guide to prototyping in Figma** | Figma | We will cover the basics of prototyping in Figma, including how to create a prototype, how to add interactions, and how to share your prototype. | [Read](https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma) |
-| **5 Common Low-Fidelity Prototypes and Their Best Practices** |  Rikke Friis Dam & Teo Yu Siang  | Low-fidelity prototypes allow us to quickly and inexpensively test ideas, so we can validate our hypotheses and improve our solutions. | [Read](https://www.interaction-design.org/literature/article/prototyping-learn-eight-common-methods-and-best-practices) |
-| **Perfect Your UX Design Process: A Guide to Prototype Design** |  Judit Casacuberta | The process of prototyping—from creating simple wireframes to testing fully functional mockups—is one of the most potent and powerful set of skills any designer can master. It’s also fraught with peril in workplaces where the process is skipped in lieu of just “designing a prototype” as a simple deliverable to give to the next department to build.  | [Read](https://www.toptal.com/designers/prototyping/guide-to-prototype-design) |
+| **5 Common Low-Fidelity Prototypes and Their Best Practices** |  Rikke Friis Dam & Teo Yu Siang  | Low-fidelity prototypes allow us to quickly and inexpensively test ideas, so we can validate our hypotheses and improve our solutions. | [Read](https://ixdf.org/literature/article/prototyping-learn-eight-common-methods-and-best-practices) |
+| **Perfect Your UX Design Process: A Guide to Prototype Design** |  Judit Casacuberta | The process of prototyping—from creating simple wireframes to testing fully functional mockups—is one of the most potent and powerful set of skills any designer can master. It’s also fraught with peril in workplaces where the process is skipped in lieu of just “designing a prototype” as a simple deliverable to give to the next department to build.  | [Read](https://www.toptal.com/designers/prototype/guide-to-prototype-design) |
 
 
 ##### Videos
@@ -1029,7 +1076,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | --- | --- | --- | --- |
 | **What Is A Wireframe? Your Best Guide** | CareerFoundry | A wireframe is a low-fidelity prototype that is used to test and validate design assumptions. | [Read](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/) |
 | **What is wireframing** | Experience UX | Wireframing is a way to design a website service at the structural level. A wireframe is commonly used to layout content and functionality on a page which takes into account user needs and user journeys. | [Read](https://www.experienceux.co.uk/faqs/what-is-wireframing/) |
-| **What Are Wireframes?** | Balsamiq Wireframing Academy |A wireframe is a schematic or blueprint that is useful for helping you, your programmers and designers think and communicate about the structure of the software or website you're building. | [Read](https://balsamiq.com/learn/articles/what-are-wireframes/) |
+| **What Are Wireframes?** | Balsamiq Wireframing Academy |A wireframe is a schematic or blueprint that is useful for helping you, your programmers and designers think and communicate about the structure of the software or website you're building. | [Read](https://balsamiq.com/blog/what-are-wireframes/) |
 | **Low-Fidelity Prototypes** |  TillerDigital | Low-fidelity prototyping is a fundamental phase in the web design process. Ideas and concepts are presented using simple lines and shapes (e.g. boxes for content blocks, circles for photos, etc.), without concern for aesthetics or detailed content. | [Read](https://tillerdigital.com/glossary/low-fidelity/) |
 | **Prototyping vs Wireframing: What's The Difference?** |  The Product Manager | A wireframe is low-fidelity that takes less time to create, while a prototype is high-fidelity that is more time consuming. | [Read](https://tillerdigital.com/glossary/wireframing/) |
 
@@ -1111,16 +1158,16 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **What is Design Thinking?** | Interaction Design Foundation | Design thinking is a non-linear, iterative process that teams use to understand users, challenge assumptions, redefine problems and create innovative solutions to prototype and test. | [Read](https://www.interaction-design.org/literature/topics/design-thinking) |
+| **What is Design Thinking?** | Interaction Design Foundation | Design thinking is a non-linear, iterative process that teams use to understand users, challenge assumptions, redefine problems and create innovative solutions to prototype and test. | [Read](https://ixdf.org/literature/topics/design-thinking) |
 | **The 5 Phases of Design Thinking** | AMA |The short form of the design thinking process can be articulated in five steps or phases: empathize, define, ideate, prototype and test. | [Read](https://www.ama.org/marketing-news/the-5-phases-of-design-thinking/) |
-| **The 5 Stages in the Design Thinking Process** | Interaction Design Foundation | The design thinking process is a five-step process that helps you to solve problems and create innovative solutions. It is a human-centered approach to problem solving that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success. | [Read](https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process) |
+| **The 5 Stages in the Design Thinking Process** | Interaction Design Foundation | The design thinking process is a five-step process that helps you to solve problems and create innovative solutions. It is a human-centered approach to problem solving that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success. | [Read](https://ixdf.org/literature/article/5-stages-in-the-design-thinking-process) |
 | **A Complete Guide to the Design Thinking Process in 5 Steps**| CareerFoundry | The Design Thinking process can be divided into five key steps: Empathize, Define, Ideate, Prototype, and Test. The 5 steps in the Design Thinking process are: **Empathize** **Define** **Ideate** **Prototype** **Test** | [Read](https://careerfoundry.com/en/blog/ux-design/design-thinking-process/) |
 
 
 ##### Videos
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **5 Stages of the Design Thinking Process** | InVision | In life we’re always bumping into new problems, and while we have the desire to solve them, it’s often hard to find the right solution or even know where to start. That’s where “design thinking” comes in. | [Watch](https://www.youtube.com/watch?v=-ySx-S5FcCI) |
+| **5 Stages of the Design Thinking Process** | InVision | In life we’re always bumping into new problems, and while we have the desire to solve them, it’s often hard to find the right solution or even know where to start. That’s where “design thinking” comes in. | [Watch](https://www.youtube.com/watch?v=Vg8koqyQ52E) |
 | **Design Thinking Full Course - Design Thinking Process** | Simplilearn | In this design thinking tutorial, we will be looking at what is design thinking, why design thing is important,  steps of design thinking, empathy mapping, five phases and four pillars of design thinking and agile methodology with design thinking. It is extremely helpful in solving problems that are ill-defined or unknown. Design Thinking is an iterative method that helps resolve user issues or redefines problems in alternative strategies and solutions. | [Watch](https://www.youtube.com/watch?v=4nTh3AP6knM) |
 | **ADVANCED DESIGN PROCESS: MUST KNOW!!** | Satori Graphics | In this video, I will be going over the advanced design process. This is a process that I have developed over the years and it has helped me to create some of my best work. | [Watch](https://www.youtube.com/watch?v=YzSooKa1PwM) |
 | **UX Design Process: Empathize, Define, and Ideate** | My Lesson | We will be going over the UX design process in this video. We will be going over the first three steps of the UX design process: Empathize, Define, and Ideate. | [Watch](https://www.youtube.com/watch?v=7V8k4uwAll8) |
@@ -1163,7 +1210,6 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | --- | --- | --- | --- |
 | **Design Feedback in Action** | Google | Get a detailed look at giving and receiving feedback as you learn about design critique sessions. Watch part of a mock design critique session in action and see how you can turn feedback into concrete actions.  | [Watch](https://www.youtube.com/watch?v=VLwZc0JNAT8) |
 | **Websites Design Critique: Student Work** | Flux Academy | In this video, we will be going over the websites design critique. We will be going over the websites design critique of a student. | [Watch](https://www.youtube.com/watch?v=E84GpsDuaS0) |
-| **Product Design Critique Sessions for Beginners** | Sera Tajima | In this video, I talk about product design critique sessions. This is a broad overview of what critiques are, why designers have critiques, who is involved, and tips for an effective critique. The video is geared towards beginners, design students, and junior designers. | [Watch](https://www.youtube.com/watch?v=Ti5AATPgjMk) |
 | **Critique an app with me! + tips for ux interviews (Product design 2019)** | Shae Illustrates | I'm here to talk tips from what I've learned over the past 4 years in hopes to help others out. Today, I walk through an app (SoundCloud - one of my favorites) and do a mini critique. Hope this helps! | [Watch](https://www.youtube.com/watch?v=eNooH3W9Qgo) |
 
 
@@ -1326,7 +1372,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Errors + Graceful Failure** | Google PAIR | The single best free chapter on the hardest problem in AI UX, with a taxonomy of failure types and what to do about each. | [Read](https://pair.withgoogle.com/chapter/errors-failing/) |
-| **Why Chatbots Are Not the Future** | Amelia Wattenberger | The definitive critique of chat as a default interface, and an argument for affordances over open text boxes. | [Read](https://wattenberger.com/thoughts/boo-chatbots) |
+| **Why Chatbots Are Not the Future** | Amelia Wattenberger | The definitive critique of chat as a default interface, and an argument for affordances over open text boxes. | [Read](https://wattenberger.com/thoughts/boo-chatbots/) |
 | **10 Guidelines for Site AI Chatbots** | Nielsen Norman Group | Research-backed usability guidance for chatbots, grounded in observed user behavior rather than opinion. | [Read](https://www.nngroup.com/articles/ai-chatbots-design-guidelines/) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -1360,7 +1406,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Tools
 | Name | Description | Link |
 | --- | --- | --- |
-| **Salesforce SLDS 2 Agentic Patterns** | Production agentic patterns from a shipping enterprise design system. | [Visit](https://www.lightningdesignsystem.com/2e1ef8501/p/03c548-agentic-patterns) |
+| **Salesforce SLDS 2 Agentic Patterns** | Production agentic patterns from a shipping enterprise design system. | [Visit](https://www.lightningdesignsystem.com/2e1ef85012e1ef8501/p/03c548-agentic-patterns) |
 | **Vercel AI Elements** | Open components for streaming chat and generative UI you can inspect and adapt. | [Visit](https://elements.ai-sdk.dev/) |
 | **Voiceflow** | A visual builder for conversational and agent flows, useful for prototyping before build. | [Visit](https://www.voiceflow.com/) |
 
@@ -1390,7 +1436,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **EU AI Act — Article 50: Transparency Obligations** | European Union | The disclosure obligations themselves. Applicable since 2 August 2026, with penalties up to €15M or 3% of global turnover. | [Read](https://artificialintelligenceact.eu/article/50/) |
-| **Guidelines on Transparency of AI-Generated Content** | European Commission | The official labeling guidance and marking conventions that satisfy Article 50. | [Read](https://digital-strategy.ec.europa.eu/en/policies/guidelines-transparency-ai-generated-content) |
+| **Guidelines on Transparency of AI-Generated Content** | European Commission | The official labeling guidance and marking conventions that satisfy Article 50. | [Read](https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-transparency-obligations) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -1481,7 +1527,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | --- | --- | --- | --- |
 | **What is Accessible Design?** |  Vincent Brathwaite | “Imagine if 90% of the websites or mobile apps you use today locked you out. Everyone else continues to experience the convenience of mobile banking, the connectedness of social media, and the freedom of online shopping, but, for you, they’re inaccessible. For the 57 million people with disabilities in the United States, this is their everyday experience.” | [Read](https://xd.adobe.com/ideas/principles/web-design/what-is-accessible-design/) |
 | **How to build an accessible design system** | Eric Chung | People come with all different types of abilities and disabilities. By designing with accessibility in mind, you can open up a world of opportunities for users of all abilities to engage with your work. | [Read](https://blog.logrocket.com/ux-design/how-to-build-accessible-design-system/) |
-| **What is Accessibility?** | CareerFoundry | Accessibility is the practice of designing and developing products that are usable by people with disabilities. | [Read](https://www.interaction-design.org/literature/topics/accessibility) |
+| **What is Accessibility?** | CareerFoundry | Accessibility is the practice of designing and developing products that are usable by people with disabilities. | [Read](https://ixdf.org/literature/topics/accessibility) |
 | **Accessibility guidelines for UX Designers** | Avinash Kaur | As a UX designer, it is important to build empathy and celebrate accessibility requirements as a set of design constraints to build a better product. | [Read](https://uxdesign.cc/accessibility-guidelines-for-a-ux-designer-c3ba775539be) |
 | **Accessibility for user experience (UX) designers** | Accessibility US Gov| Accessibility is a set of design principles that help people with disabilities use websites, mobile apps, and other digital products. | [Reading List](https://accessibility.digital.gov/ux/getting-started/) | 
 | **Accessibility in UX: The case for radical empathy** | Kriti Krishan | Imagine you were left-handed (and if you are, reflect on your left-handedness). You are part of a 10% minority in the world. Adjusting to certain tasks takes longer — but help in the form of left-handed stationery, sports equipment, etc. is available easily. | [Read](https://uxmag.com/articles/accessibility-in-ux-the-case-for-radical-empathy) |
@@ -1564,9 +1610,8 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Everything you need to know about Design Systems** | Audrey Hacq | Design Systems have become a key part of my everyday work… And from discussions around me, it seems that it is now the case for a lot of people | [Read](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969) |
-| **A comprehensive guide to design systems** | Will Fanguy | Companies like Airbnb, Uber, and IBM have changed the ways they design digital products by incorporating their own unique design systems.  | [Read](https://www.invisionapp.com/inside-design/guide-to-design-systems/) |
 | **Design Systems 101** | Therese Fessenden  | A design system is a set of standards to manage design at scale by reducing redundancy while creating a shared language and visual consistency across different pages and channels. | [Read](https://www.nngroup.com/articles/design-systems-101/) |
-| **Design Systems** | Interaction Design Foundation | A design system is a library of reusable components and guidelines that people within a company can combine into interfaces and interactions. What goes into a design system and how it is implemented can vary quite a bit from company to company, depending on the size and maturity of the design practice and the needs of the product team. | [Read](https://www.interaction-design.org/literature/topics/design-systems) |
+| **Design Systems** | Interaction Design Foundation | A design system is a library of reusable components and guidelines that people within a company can combine into interfaces and interactions. What goes into a design system and how it is implemented can vary quite a bit from company to company, depending on the size and maturity of the design practice and the needs of the product team. | [Read](https://ixdf.org/literature/topics/design-systems) |
 
 
 ##### Videos
@@ -1595,16 +1640,15 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | **Airbnb Design System** | Airbnb's design system is a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications. | [Visit](https://medium.com/airbnb-design/building-a-visual-language-behind-the-scenes-of-our-airbnb-design-system-224748775e4e) |
 | **Atlassian Design System** | The Atlassian Design System is a collection of reusable UI components, guidelines and resources for product designers and developers to create exceptional experiences. | [Visit](https://atlassian.design/) |
 | **IBM Design Language** | The IBM Design Language is a living, breathing expression of IBM. It is a toolkit of principles, guidance, and code that serves as the foundation for IBM’s digital user experiences. | [Visit](https://www.ibm.com/design/language/) |
-| **Material Design** | Material Design is a design system – backed by open-source code – that helps teams build high-quality digital experiences. | [Visit](https://material.io/) |
-| **Microsoft Fluent Design System** | The Fluent Design System is a collection of design principles, tools, and resources that help teams create high-quality, engaging experiences for Windows, Windows Phone, and the web. | [Visit](https://www.microsoft.com/design/fluent/) |
-| **Polaris** | Polaris is Shopify’s design system. It’s a collection of reusable components, guidelines, and resources that help teams build exceptional online stores. | [Visit](https://polaris.shopify.com/) |
+| **Material Design** | Material Design is a design system – backed by open-source code – that helps teams build high-quality digital experiences. | [Visit](https://m3.material.io/) |
+| **Microsoft Fluent Design System** | The Fluent Design System is a collection of design principles, tools, and resources that help teams create high-quality, engaging experiences for Windows, Windows Phone, and the web. | [Visit](https://fluent2.microsoft.design/) |
+| **Polaris** | Polaris is Shopify’s design system. It’s a collection of reusable components, guidelines, and resources that help teams build exceptional online stores. | [Visit](https://shopify.dev/docs/api/polaris) |
 | **Primer** | Primer is GitHub’s design system. It’s a collection of design guidelines, resources, and tools that make it easy to design with GitHub. | [Visit](https://primer.style/) |
-| **Salesforce Lightning Design System** | Lightning Design System is the design system for Salesforce Lightning Experience. It is a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications. | [Visit](https://www.lightningdesignsystem.com/) |
+| **Salesforce Lightning Design System** | Lightning Design System is the design system for Salesforce Lightning Experience. It is a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications. | [Visit](https://www.lightningdesignsystem.com/2e1ef8501) |
 | **Ant Design** | Ant Design is a design system with values of Nature and Determinacy for better user experience of enterprise applications. | [Visit](https://ant.design/) |
 | **Apple Design Resources** | Apple Design Resources for iOS include Sketch, Photoshop, and Adobe XD templates, along with comprehensive UI resources that depict the full range of controls, views, and glyphs available to developers using the iOS SDK. | [Visit](https://developer.apple.com/design/resources/) |
-| **Alta UI** | Alta UI is a design system for building beautiful, usable, and accessible web applications. | [Visit](https://www.oracle.com/webfolder/ux/middleware/alta/index.html) |
 | **AtlasKit** | AtlasKit is a React-based UI toolkit for Atlassian products. | [Visit](https://atlaskit.atlassian.com/) |
-| **Carbon Design Systems** | Carbon is IBM’s open-source design system for products and experiences. With the IBM Design Language as its foundation, the system consists of working code, design tools and resources, human interface guidelines, and a vibrant community of contributors. | [Visit](https://www.carbondesignsystem.com/) |
+| **Carbon Design Systems** | Carbon is IBM’s open-source design system for products and experiences. With the IBM Design Language as its foundation, the system consists of working code, design tools and resources, human interface guidelines, and a vibrant community of contributors. | [Visit](https://carbondesignsystem.com/) |
 | **Atomize** | Atomize is a design system for building beautiful, usable, and accessible web applications. | [Visit](https://atomizecode.com/) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -1635,8 +1679,8 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **A Definitive Guide to Voice User Interface Design** | Mert Aktas | When we stop for a moment and think about how popular voice-controlled devices and virtual assistants have become, it is only necessary to look deeper into the VUI design and learn more. | [Read](https://userguiding.com/blog/voice-user-interface/) |
-| **What are Voice User Interfaces?** | Interaction Design Foundation | Voice user interfaces (VUIs) allow the user to interact with a system through voice or speech commands. Virtual assistants, such as Siri, Google Assistant, and Alexa, are examples of VUIs. | [Read](https://www.interaction-design.org/literature/topics/voice-user-interfaces) |
+| **A Definitive Guide to Voice User Interface Design** | Mert Aktas | When we stop for a moment and think about how popular voice-controlled devices and virtual assistants have become, it is only necessary to look deeper into the VUI design and learn more. | [Read](https://userguiding.com/blog/voice-user-interface) |
+| **What are Voice User Interfaces?** | Interaction Design Foundation | Voice user interfaces (VUIs) allow the user to interact with a system through voice or speech commands. Virtual assistants, such as Siri, Google Assistant, and Alexa, are examples of VUIs. | [Read](https://ixdf.org/literature/topics/voice-user-interfaces) |
 | **Everything You Want To Know About Creating Voice User Interfaces** | Nick Babich & Gleb Kuznetsov | reating voice user interfaces requires a lot of design expertise in various areas such as conversation design, interaction design, visual and motion design. This article covers the most critical aspects of designing for voice user interfaces — designing the conversation and designing visual interfaces. | [Read](https://www.smashingmagazine.com/2022/02/voice-user-interfaces-guide/) |
 | **Voice User Interface Design, Examples & Advantages of VUI** | Paweł Kański | Voice user interface (VUI) has been a regular feature of trending technology lists in the last few years. | [Read](https://www.boldare.com/blog/what-is-voice-user-interface/) |
 | **VUI: Designing for Voice UI** | UXPin | Just about every product features a voice user interface (VUI), from phones, wearables, and speakers to your car and even the fridge. According to Statista, the number of voice assistant devices will exceed 8.4 billion units by 2024-more than the world’s population. | [Read](https://www.uxpin.com/studio/blog/voice-user-interface/) |
@@ -1680,7 +1724,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **Leap Into VR/AR Design** | Ted Evans | Virtual reality is no longer in the realm of science fiction. Immersive technology desperately needs skilled designers to jump in, get involved, take risks, and create something new. Leap into VR/AR! | [Read](https://www.toptal.com/designers/ui/vr-ar-design-guide) |
-| **Introduction - The Design of Virtual and Augmented Reality** | Aliheston | Good virtual and augmented reality adapts to the diversity of humans as multifaceted, intersectional, and complex beings. We as designers have the opportunity (and responsibility) to create experiences that are inclusive, accessible, and equitable. | [Reading List](https://aliheston.gitbook.io/the-design-of-virtual-and-augmented-reality/) |
+| **Introduction - The Design of Virtual and Augmented Reality** | Aliheston | Good virtual and augmented reality adapts to the diversity of humans as multifaceted, intersectional, and complex beings. We as designers have the opportunity (and responsibility) to create experiences that are inclusive, accessible, and equitable. | [Reading List](https://aliheston.gitbook.io/the-design-of-virtual-and-augmented-reality) |
 | **UI/UX: Designing for AR & VR** | Nick Lawrence | Understanding augmented reality, virtual reality, and designing for AR/VR experiences. | [Read](https://uxplanet.org/ui-ux-designing-for-ar-vr-8c695caccc5e) |
 | **The hierarchy of needs in virtual reality development** | Beau Cronin | There’s a certain anxiety in the VR community that surfaces in many conference panels and interviews with industry leaders: plenty of veterans are worried that this latest flowering of the technology will end with the same commercial disappointment that we saw in previous decades. | [Read](https://medium.com/@beaucronin/the-hierarchy-of-needs-in-virtual-reality-development-4333a4833acc) |
 | **Speculations on neuro-motivated design for VR** | Beau Cronin | Humans are really good at understanding, moving around, and solving problems in three-dimensional environments. | [Read](https://medium.com/@beaucronin/speculations-on-neuro-motivated-design-for-vr-3f26685c5c40) | 
@@ -1707,7 +1751,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Tools
 | Tool | Description | Link |
 | --- | --- | --- |
-| **Unity** | Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Inc.'s Worldwide Developers Conference as a Mac OS X-exclusive game engine. | [Visit](https://unity3d.com/) |
+| **Unity** | Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Inc.'s Worldwide Developers Conference as a Mac OS X-exclusive game engine. | [Visit](https://unity.com/) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -1803,7 +1847,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | **How to Conduct User Experience Research Like a Professional** | CareerFoundry | User experience research is a crucial part of the design process. It helps us understand our users, their needs, and how we can best meet those needs. | [Read](https://careerfoundry.com/en/blog/ux-design/how-to-conduct-user-experience-research-like-a-professional/) |
 | **The Ultimate Guide to UX Research Strategy** | Carrie Boyd | User-centric designers, PMs, and researchers often repeat this phrase, like a prayer, as they try to convince internal stakeholders that user need is not the same as stakeholder want. | [Read](https://www.userinterviews.com/blog/the-ultimate-guide-to-ux-research-strategy) |
 | **How To Do A UX Competitor Analysis: A Step By Step Guide** | Steven Douglas | Getting to grips with the ins and outs of a UX competitor analysis can help you know your market, product and goals better. | [Read](https://usabilitygeek.com/how-to-do-ux-competitor-analysis/) |
-| **UX analysis: best methods and key tools** | Hotjar | User experience (UX) analysis helps you understand how users experience your website and product, so you can prioritize decisions about how to improve it for them and ensure the user experience is as frictionless and intuitive as possible. | [Read](https://www.hotjar.com/ux-design/analysis/) |
+| **UX analysis: best methods and key tools** | Hotjar | User experience (UX) analysis helps you understand how users experience your website and product, so you can prioritize decisions about how to improve it for them and ensure the user experience is as frictionless and intuitive as possible. | [Read](https://contentsquare.com/hotjar/ux-design/analysis/) |
 
 
 ##### Videos
@@ -1837,9 +1881,8 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **Content 101: Information Architecture** | Theresa Putkey | Information architecture is a process is often carried out by a team of UX designers, developers, content strategists, and other professionals. | [Read](https://gathercontent.com/blog/content-101-information-architecture) |
+| **Content 101: Information Architecture** | Theresa Putkey | Information architecture is a process is often carried out by a team of UX designers, developers, content strategists, and other professionals. | [Read](https://www.bynder.com/en/blog/content-101-information-architecture/) |
 | **What is Content Strategy in UX?** | Josh Fechter |Content strategy is part of the overall strategy of a business. Its purpose is to achieve business goals. | [Read](https://technicalwriterhq.com/content/content-strategy/content-strategy-in-ux/) |
-| **Complete Beginner’s Guide to Content Strategy** | UX Booth | “Content” is everywhere. It’s ads and longform copy, images and videos, stories and metadata. But what’s the point of it all? That depends on the content strategy. Content strategy plans for valuable, findable, meaningful content. | [Read](https://www.uxbooth.com/articles/complete-beginners-guide-to-content-strategy/) |
 | **The Comprehensive Guide to Information Architecture** | James Pikover | As a standard part of the UX process, designers create information architecture when building products. Learn about information architecture—how designers and product managers build an IA using design principles, as well as IA tools and best practices. | [Read](https://www.toptal.com/designers/ia/guide-to-information-architecture) |
 
 
@@ -1868,7 +1911,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | Title | Author | Description | Buy | Mirror |
 | --- | --- | --- | --- | --- |
 | <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> **Design Sprint: A Practical Guidebook for Creating Great Digital Products** |  Richard Banfield & C. Todd Lombardo & Trace Wax | Design Sprints is a practical, action-oriented guide to solving tough problems and testing new ideas in just five days. | [Buy](https://books.google.com/books/about/Design_Sprint.html?id=mCKsAQAACAAJ) | [⬇ Mirror](https://mega.nz/file/LOxHGboD#O0hVgGe7VY2S09p12fIR9vKNVPEu31JEAieOuEN5QNM) |
-| <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> **Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days** | Jake Knapp, John Zeratsky, Braden Kowitz |This is awesome book and every UX designer should read this, it's a great book for anyone who wants to learn how to solve big problems and test new ideas in just five days. | [Buy](https://www.thesprintbook.com/book) | [⬇ Mirror](https://mega.nz/file/yaYwHSrB#IeNzXzffLuF4wb2uDiorNbGXJ0oX9GqDarn_FkUkhRg) |
+| <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> **Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days** | Jake Knapp, John Zeratsky, Braden Kowitz |This is awesome book and every UX designer should read this, it's a great book for anyone who wants to learn how to solve big problems and test new ideas in just five days. | [Buy](https://www.character.vc/sprint) | [⬇ Mirror](https://mega.nz/file/yaYwHSrB#IeNzXzffLuF4wb2uDiorNbGXJ0oX9GqDarn_FkUkhRg) |
 | <img src="https://img.shields.io/badge/PAID-8250df" alt="Paid"> UX for Lean Startups: Faster, Smarter User Experience Research and Design |  Laura Klein | Great user experiences (UX) are essential for products today, but designing one can be a lengthy and expensive process. With this practical, hands-on book, you’ll learn how to do it faster and smarter using Lean UX techniques.  | [Buy](https://www.goodreads.com/book/show/16128986-ux-for-lean-startups) | [⬇ Mirror](https://mega.nz/file/aTgjwSqC#DuOgHQ8pUMdTE5RcryMZySn8pMJh_Lh-yVvygwHQADE) |
 
 
@@ -1876,7 +1919,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **What's a Design Sprint and why is it important?** | Gloria Lo | I recently had the opportunity to participate in a masterclass called “Dive into Design Sprints” organized by More Space For Light. | [Read](https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09) |
-| **Design Sprints** | Interaction Design Foundation | Design Sprints are a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers. | [Read](https://www.interaction-design.org/literature/topics/design-sprints) |
+| **Design Sprints** | Interaction Design Foundation | Design Sprints are a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers. | [Read](https://ixdf.org/literature/topics/design-sprints) |
 | **What Are Design Sprints?** | John Cheung | If you’re involved in any aspect of product design, UX design, or marketing, you’ve likely heard the term “design sprints”. | [Read](https://careerfoundry.com/en/blog/ux-design/what-are-design-sprints/) |
 | **I ran a one-person Design Sprint to create my UX/UI design portfolio** | Laura Eiche | Design Sprint is a method to solve big problems and test new ideas in just five days. Originally it’s made for teams, to build better products faster. | [Read](https://sprintstories.com/i-ran-a-one-person-google-design-sprint-to-create-my-ux-ui-design-portfolio-4661c3e97858) |
 | **How to Conduct an Effective Design Sprint** | Ondřej Dostál | A design sprint is a methodology used to validate ideas through design, prototyping, user testing, and collaboration in only five days, offering a more structured, effective approach to creative thinking. | [Read](https://www.toptal.com/designers/product-design/effective-design-sprint) |
@@ -1924,7 +1967,6 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | **The Best UX Designer Portfolios – Inspiring Case Studies and Examples** | Miklos Philips | What makes a winning UX portfolio? More than a showcase of skills, a UX designer’s portfolio is an opportunity for them to create an enjoyable user experience as well as demonstrate their UX mastery. | [Read](https://www.toptal.com/designers/ux/ux-designer-portfolios) | 
 | **How To Build a UI Portfolio [2023 Career Guide]** | Lizzie Parmenter | To land a job in UI design you’ll need an outstanding portfolio. A UI portfolio is more than a roundup of your best work. It’s an opportunity to showcase your design process and illustrate the tangible ways that you create value. | [Read](https://www.springboard.com/blog/design/ui-portfolio/) |
 | **110+ Essential User Experience Portfolios for Inspiration**  | Zacharia Curtis | In this article, we’ll take a look at 110+ of the best UX portfolios from around the web. | [Read](https://uxplanet.org/110-curated-ux-portfolios-for-inspiration-492e6156ed2b) |
-| **How to Create a UX Design Portfolio** | Victoria | A designer's portfolio is their main tool for finding his dream job. It is not enough to prepare a resume in which you write about how of a great specialist you are and what skills you have. | [Read](https://www.interaction-design.org/literature/article/ux-design-portfolio) |
 | **How to Create Your UX/UI Portfolio (Without Much Experience)** |Erik D. Kennedy | In some ways, this seems like an insurmountable obstacle. Abandon all hope! The spiral of pessimism will win! You can never transition careers! | [Read](https://www.learnui.design/blog/how-create-ux-ui-portfolio-without-much-experience.html) |
 
 
@@ -1939,7 +1981,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Portfolio Building Tools
 | Tool | Description | Link |
 | --- | --- | --- |
-| **Notion** | Notion is a new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team | [Visit](https://www.notion.so/) |
+| **Notion** | Notion is a new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team | [Visit](https://www.notion.com/) |
 | **Dribbble** | Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals. | [Visit](https://dribbble.com/) |
 | **Behance** | Behance is the world's largest creative network for showcasing and discovering creative work. | [Visit](https://www.behance.net/) |
 | **Adobe Portfolio** | Adobe Portfolio is a simple way to build and share your own professional website. | [Visit](https://www.adobe.com/products/portfolio.html) |
@@ -1948,9 +1990,9 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Portfolios Inspiration
 | Author | Description | Link |
 | --- | --- | --- |
-| **Rama Krushna** | A digital product designer based in India, who love using cognitive psychology to humanize tech and solve people problems. I am a keen learner, team player, and enjoy taking on new challenges and side projects | [View](https://www.notion.so/Hey-I-m-Rama-Krushna-53ebad1b8bb04bd491108cac9c293be9) |
-| **Cofolios - UX portfolios of interns at FAANG** | Cofolios is a collection of UX portfolios of interns at FAANG companies. | [View](https://cofolios.com/) |
-| **Lisa Fisher** | Lisa Fischer is a designer focused on building brands and creating digital experiences  — currently working at Google. | [View](http://www.lisasuefischer.com/) |
+| **Rama Krushna** | A digital product designer based in India, who love using cognitive psychology to humanize tech and solve people problems. I am a keen learner, team player, and enjoy taking on new challenges and side projects | [View](https://www.notion.com/Hey-I-m-Rama-Krushna-53ebad1b8bb04bd491108cac9c293be9) |
+| **Cofolios - UX portfolios of interns at FAANG** | Cofolios is a collection of UX portfolios of interns at FAANG companies. | [View](https://www.cofolios.com/) |
+| **Lisa Fisher** | Lisa Fischer is a designer focused on building brands and creating digital experiences  — currently working at Google. | [View](https://www.lisasuefischer.com/) |
 | **Sasha** | I’m Sascha — I elevate products through human-centered design & storytelling. | [View](https://saschas.ai/) |
 | **Gloria Lo** | Gloria Lo is a self-taught product designer based in Sydney, Australia. In her own words, she is passionate about improving the lives of others through design, and is constantly looking to learn new things everyday. | [View](https://www.glorialo.design/) |
 | **Moritz Oesterlau** | Moritz Oesterlau is a multi-skilled product/UX designer based in Germany. He also dabbles in interface design and frontend development. | [View](https://www.moritzoesterlau.de/) |
@@ -1965,7 +2007,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | **Daniel Abayomi** | Daniel Abayomi is a product designer based in Lagos, Nigeria. He is currently working at Meta. | [View](https://pixeldahn.com/) |
 | **Jan Mraz** | Jan Mraz is a product designer who belive in solving complex problems simply. He is based in Prague, Czech Republic. He is currently working at Google. | [View](https://janmraz.com/) |
 | **Michael Ajah** | Michael Ajah is a product designer based in Lagos, Nigeria. He has 5+ years of experience in solving usability problems . | [View](https://dribbble.com/naijatechguy) |
-| **Zara Drei** | Zara Drei is a London-based UX designer. When she’s not solving problems with beautiful, user-centric web products, you can find her playing around with electronics, making video loops, building ceramic and metal sculptures, or producing electronic music. | [View](http://zaradrei.com/) |
+| **Zara Drei** | Zara Drei is a London-based UX designer. When she’s not solving problems with beautiful, user-centric web products, you can find her playing around with electronics, making video loops, building ceramic and metal sculptures, or producing electronic music. | [View](https://zaradrei.com/) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -1991,9 +2033,8 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **What are UX Case Studies?** | Interaction Design Foundation | UX case studies are examples of design work which designers include in their portfolio.  | [Read](https://www.interaction-design.org/literature/topics/ux-case-studies) |
+| **What are UX Case Studies?** | Interaction Design Foundation | UX case studies are examples of design work which designers include in their portfolio.  | [Read](https://ixdf.org/literature/topics/ux-case-studies) |
 | **How to write a UX case study** | Ariana Shives | A good case study tells the story behind a design — the research, decisions, and process that went into its creation. | [Read](https://uxdesign.cc/how-to-write-a-case-study-1b1b5f5e3e2c) |
-| **How to write a UX case study** | Sarah Doody | Have you ever been told your UX portfolio lacks depth, or what you did is unclear, or that it doesn’t seem like you have enough experience, even though you know you do? | [Read](https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/) |
 | **8 step guide to write an amazing UX Case study** | Reetika Gupta | See, creating UX case studies for your UX design portfolio is a very strong way that can help you stand out among the crowd. Writing a UX case study is simple. However there are certain things that you need to make sure while you create it. | [Read](https://www.linkedin.com/pulse/8-step-guide-write-amazing-ux-case-study-reetika-gupta-1c/) |
 | **UX Portfolio Case Study template (plus examples from successful hires)** | Calvin | Your portfolio is the most critical piece of the puzzle when it comes to selling your design skills to recruiters and clients. It’s the single most vital component of any design career move you will ever make. | [Read](https://uxplanet.org/ux-portfolio-case-study-template-plus-examples-from-successful-hires-86d5b0faa2d6) |
 | **How to Craft an Outstanding Case Study for Your UX Portfolio** | Jonny Grass | Writing case studies for your UX portfolio can feel opaque and overwhelming. There are so many examples out there, and often the ones that make the rounds are the stunning portfolios of top visual designers. It can be inspiring to see the most beautiful work, but don’t let that distract you from the straightforward format of a good UX case study. | [Read](https://careerfoundry.com/en/blog/ux-design/ux-case-study/) |
@@ -2020,9 +2061,9 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | **Google Mentor Case Study** | Surja Sen Das Raj | In this case study, I will be sharing the process I went through to design the Google Mentor app. | [View](https://www.behance.net/gallery/90958309/Google-Mentor-Design-Case-Study) |
 | **Money transfer - A Better Way to Handle Your Money** | surja Sen Das Raj | In this case study, I will be sharing the process I went through to design the Money transfer app. | [View](https://www.behance.net/gallery/95491533/Money-transfer-A-Better-Way-to-Handle-Your-Money) |
 | **Medico - Case Study** | Surja Sen Das Raj | In this case study, I will be sharing the process I went through to design the Medico app. | [View](https://www.behance.net/gallery/91410737/Medico-Online-Medical-Services-Case-Study) |
-| **Case study: Designing an in-app messaging feature** | Miracle Onesimus | In this case study, I will be sharing the process I went through to design the in-app messaging feature. | [View](https://bootcamp.uxdesign.cc/a-ux-case-study-on-carbon-an-in-app-messaging-feature-7b5c819982aa) |
+| **Case study: Designing an in-app messaging feature** | Miracle Onesimus | In this case study, I will be sharing the process I went through to design the in-app messaging feature. | [View](https://medium.com/design-bootcamp/a-ux-case-study-on-carbon-an-in-app-messaging-feature-7b5c819982aa) |
 | **Case Studies Curated List** | BestFolios | Featuring the best case studies from top design talents around the world. | [View List](https://www.bestfolios.com/casestudy) |
-| **Behance: Case Study List** | Behance | A curated list of case studies from the Behance community. | [View List](https://www.behance.net/search?content=projects&sort=appreciations&time=week&search=case+study) |
+| **Behance: Case Study List** | Behance | A curated list of case studies from the Behance community. | [View List](https://www.behance.net/search/projects/?sort=appreciations&time=week&search=case+study) |
 
 
 ##### Project Tasks #4
@@ -2115,7 +2156,7 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **21 Essential UX Interview Questions & How to Answer Them** | Dribbble | Preparing for your next UX interview? Get answers to the most common UX interview questions to land your next UX design job. | [Read](https://dribbble.com/resources/ux-interview-questions) |
+| **21 Essential UX Interview Questions & How to Answer Them** | Dribbble | Preparing for your next UX interview? Get answers to the most common UX interview questions to land your next UX design job. | [Read](https://dribbble.com/resources/career/ux-interview-questions) |
 | **The 4 Types of UX Interview Questions to Master** | UX Beginner | Interviewing used to be one of those painful, tedious chores for me. That’s because I didn’t understand the underlying structure of interview questions. | [Read](https://www.uxbeginner.com/the-4-types-of-ux-interview-questions-to-master/) | 
 | **46 Interview Questions for User Experience Researchers at Google, Amazon, Microsoft and Facebook** | Eleonora Zucconi | A selection of inspiring and challenging questions (and a bonus presentation to practice them) | [Read](https://medium.com/@eleonorazucconi/46-interview-questions-for-user-experience-researchers-at-google-amazon-microsoft-and-facebook-c582827267b9) |
 | **11 UX Design Interview Questions You Should Be Able to Answer** | CareerFoundry | A list of the UX interview questions you are most likely to face, with guidance on how to answer each one, so you can prepare for your next UX interview. | [Read](https://careerfoundry.com/en/blog/ux-design/make-sure-you-can-answer-these-11-ux-design-interview-questions/) |
@@ -2155,20 +2196,21 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 ##### Job Search Websites
 | Website | Description | Link |
 | --- | --- | --- |
-| **UX Jobs** | UX Jobs is a job board for UX designers, researchers, and product managers. | [Visit](https://uxjobsboard.com/) |
+| **UX Jobs** | UX Jobs is a job board for UX designers, researchers, and product managers. | [Visit](https://www.uxjobsboard.com/) |
+| **UI/UX Jobs Board** | A board dedicated to UI and UX roles only, with salary ranges shown up front. | [Visit](https://uiuxjobsboard.com/) |
 | **Dribbble Jobs** | Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals. | [Visit](https://dribbble.com/jobs) |
-| **Behance Jobs** | Behance is the world's largest creative network for showcasing and discovering creative work. | [Visit](https://www.behance.net/jobs) |
+| **Behance Jobs** | Behance is the world's largest creative network for showcasing and discovering creative work. | [Visit](https://www.behance.net/joblist) |
 | **LinkedIn Jobs** | LinkedIn is the world's largest professional network with more than 675 million members worldwide. | [Visit](https://www.linkedin.com/jobs/) |
-| **AngelList Jobs** | AngelList is where the world meets startups. | [Visit](https://angel.co/jobs) |
+| **AngelList Jobs** | AngelList is where the world meets startups. | [Visit](https://wellfound.com/jobs) |
 | **Glassdoor Jobs** | Glassdoor is the world's largest job and recruiting site. | [Visit](https://www.glassdoor.com/index.htm) |
 | **Indeed Jobs** | Indeed is the #1 job site worldwide, with over 250 million unique visitors every month. | [Visit](https://www.indeed.com/) |
 | **YC Jobs** | Y Combinator is a startup accelerator. | [Visit](https://www.ycombinator.com/jobs/) |
-| **Remotive Jobs** | Remotive is a job board for remote jobs. | [Visit](https://remotive.io/) |
+| **Remotive Jobs** | Remotive is a job board for remote jobs. | [Visit](https://remotive.com/) |
 | **Remote Jobs** | Remote Jobs is a job board for remote jobs. | [Visit](https://remote.co/remote-jobs/) |
 | **Facebook Jobs** | Facebook is an online social media and social networking service company. | [Visit](https://www.facebook.com/careers/) |
-| **Google Jobs** | Google is an American multinational technology company specializing in Internet-related services and products. | [Visit](https://careers.google.com/) |
+| **Google Jobs** | Google is an American multinational technology company specializing in Internet-related services and products. | [Visit](https://www.google.com/about/careers/applications/) |
 | **Twitter Jobs** | Twitter is an American microblogging and social networking service on which users post and interact with messages known as "tweets". | [Visit](https://careers.twitter.com/) |
-| **Microsoft Jobs** | Microsoft is an American multinational technology company with headquarters in Redmond, Washington. | [Visit](https://careers.microsoft.com/us/en) |
+| **Microsoft Jobs** | Microsoft is an American multinational technology company with headquarters in Redmond, Washington. | [Visit](https://careers.microsoft.com/v2/global/en/home.html) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
 
@@ -2245,5 +2287,27 @@ If a book has no Buy link, it was never sold — it is a free paper, deck, or re
 | **UX Planet** | One-stop resource for everything UX | [Follow](https://twitter.com/uxplanet) |
 
 &nbsp;
+
+
+## Support this project
+
+This guide is free and always will be. It takes real time to maintain — chasing dead links, checking new editions, and reading enough to know what is worth adding.
+
+**A website is in the works.** The plan is to make this searchable and filterable, so you can jump straight to "free books on accessibility" instead of scrolling a very long page. If that sounds useful, supporting the work is what gets it built.
+
+| | |
+| --- | --- |
+| ☕ **[Buy me a coffee](https://buymeacoffee.com/hendurhance)** | One-off, no account needed |
+| 💛 **[GitHub Sponsors](https://github.com/sponsors/hendurhance)** | Monthly, and it shows on your profile |
+| ⭐ **Star this repo** | Free, and it genuinely helps people find it |
+
+Sharing it with someone who is learning helps as much as money does.
+
+### Also by me
+
+**[Pandia](https://pandia.app)** — a native JSON workbench for macOS, Windows, and Linux. Five ways to look at a file (tree, code, grid, graph, diff), type generation for nine languages, and it opens multi-gigabyte files without falling over. Fully offline, no accounts, no telemetry, Apache-2.0.
+
+Not a design tool — but if you build as well as design, it will save you an afternoon.
+
 
 That is the end of the guide. If you have suggestions, corrections, or a resource worth adding, reach out on [Twitter](https://twitter.com/hendurhance) or [open an issue](https://github.com/hendurhance/ui-ux/issues/new/choose). I would love to hear from you.

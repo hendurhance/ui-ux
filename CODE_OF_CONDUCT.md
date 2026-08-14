@@ -52,4 +52,4 @@ Enforcement is proportionate. The goal is a place where people keep contributing
 ## Attribution
 
 Adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at
-https://www.contributor-covenant.org/version/2/1/code_of_conduct.html — licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+https://www.contributor-covenant.org/version/2/1/code_of_conduct/ — licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
