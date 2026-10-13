@@ -68,7 +68,7 @@ jobs:
           args: >-
             --verbose
             --no-progress
-            --accept 200,206,301,302,307,308,403,429,999
+            --accept 200,202,206,301,302,307,308,403,429,999
             --max-concurrency 8
             --timeout 25
             --retry-wait-time 5

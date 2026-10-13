@@ -481,7 +481,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 ##### Articles
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
-| **The Figma Design Tool Handbook** | DesignCode | A comprehensive guide to the best tips and tricks in Figma | [Reading List](https://designcode.io/figma-handbook) |
+| **The Figma Design Tool Handbook** | DesignCode | A comprehensive guide to the best tips and tricks in Figma | [Reading List](https://designcode.io/tutorials/figma-handbook) |
 | **The Figma Learning Guide** | Figma | Kick start your design education with these 12 lessons | [Reading List](https://www.figma.com/resource-library/design-basics/) |
 | **Get Started with Adobe XD: Design.** | Adobe XD | Get started using Adobe XD, the powerful platform for creating user experiences — all at the speed of thought.| [Reading List](https://www.adobe.com/products/xd/learn/get-started-xd-design.html) |
 
@@ -504,8 +504,8 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 | --- | --- | --- | --- |
 | **Figma Course** | DesignCourse | Learn how to use Figma to design websites and mobile apps. | [Enroll](https://learnux.io/course/figma) |
 | **Figma for Beginners** | Coursera | Learn to build pages and frames, add text and images, and use the Figma interface. | [Enroll](https://www.coursera.org/specializations/beginnerfigmauiuxdesignessentials) |
-| **XD for Beginners** | Udemy | Learn how to use Adobe XD to design and prototype websites and mobile apps. | [Download](https://drive.google.com/uc?export=download&id=1a8cdPXu95U6cONltDqcTM8oVztaqFuPZ) | 
-| **Figma Mastery** | Udemy | Master Figma and learn how to design websites and mobile apps. | [Download](https://drive.google.com/uc?export=download&id=1B-sZhBPvgaxlOInLFSUZM9M4rvYG88n0) |
+| **XD for Beginners** | Udemy | Learn how to use Adobe XD to design and prototype websites and mobile apps. | [Download](https://drive.usercontent.google.com/download?id=1a8cdPXu95U6cONltDqcTM8oVztaqFuPZ&export=download) | 
+| **Figma Mastery** | Udemy | Master Figma and learn how to design websites and mobile apps. | [Download](https://drive.usercontent.google.com/download?id=1B-sZhBPvgaxlOInLFSUZM9M4rvYG88n0&export=download) |
 | **Learn Figma for UI UX Design (with a Design Project)** | Udemy | Learn the Figma's Essentials for UI/UX Design from a Sr. Designer with 8+ Years of Experience | [Download](https://www.udemy.com/course/learn-figma-ui-ux-design-project/) |
 | **9 Best FREE Figma Courses (2023)** | UntitledUI | Getting started in Figma and design? We've scoured the internet for the best free Figma courses to kickstart your 2023 design career. | [Resource List](https://www.untitledui.com/blog/best-free-figma-courses) |
 | **Free Adobe XD Courses** | ClassCentral | Learn Adobe XD, earn certificates with paid and free online courses from Coursera, Treehouse, YouTube and other top learning platforms around the world. Read reviews to decide if a class is right for you. | [Resource List](https://www.udemy.com/course/figma-for-beginners/) |
@@ -643,7 +643,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 | **Composition and its rules in the design of interfaces** | UX Planet | Composition — is interaction of interface elements with a goal to convey the meaning of this very interface. To give user an opportunity to easily understand the interface, it is necessary to use the rules of composition. | [Read](https://uxplanet.org/composition-and-its-rules-in-the-design-of-interfaces-65a86e4d09a7) |
 | **Key Principles for Better Design Composition** | Caleb Kingston | Designs often have many combined elements from type and imagery to graphics and colors.  | [Read](https://xd.adobe.com/ideas/process/ui-design/design-composition-key-principles/) |
 | **Create scalable web page layouts in Figma** | UX Design | Learn how to create a responsive web page layout in Figma. | [Read](https://uxdesign.cc/create-scalable-web-page-layouts-in-figma-e7e6e580dd67) |
-| **Layout Grid & Auto Layout in Figma** | DesignCode | Learn how to use layout grids and auto layout in Figma. | [Read One](https://designcode.io/figma-handbook-auto-layout) [Read Two](https://designcode.io/figma-handbook-layout-grid) |
+| **Layout Grid & Auto Layout in Figma** | DesignCode | Learn how to use layout grids and auto layout in Figma. | [Read One](https://designcode.io/tutorials/figma-handbook/figma-handbook-auto-layout) [Read Two](https://designcode.io/tutorials/figma-handbook/figma-handbook-layout-grid) |
 
 
 ##### Videos
@@ -1302,7 +1302,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 | **Guidelines for Human-AI Interaction** | Microsoft HAX | The 18 guidelines are the most-cited set in the field, organized by when they apply across an interaction. Dated in places, but the lineage every AI designer should know. | [Read](https://www.microsoft.com/en-us/haxtoolkit/ai-guidelines/) |
 | **HAX Design Library** | Microsoft | Concrete product examples mapped to each guideline, useful as a reference when you need precedent. | [Read](https://www.microsoft.com/en-us/haxtoolkit/library/) |
 | **Human Interface Guidelines: Generative AI** | Apple | The best-maintained first-party guidance available, covering how to introduce generative features without over-promising. | [Read](https://developer.apple.com/design/human-interface-guidelines/generative-ai) |
-| **Durable Patterns in AI Product Design** | Luke Wroblewski | Patterns that survived multiple shipped iterations, from someone building AI products rather than writing about them. | [Read](https://lukew.com/ff/entry.asp?2145) |
+| **Durable Patterns in AI Product Design** | Luke Wroblewski | Patterns that survived multiple shipped iterations, from someone building AI products rather than writing about them. | [Read](https://www.lukew.com/ff/2145/durable-patterns-in-ai-product-design) |
 
 
 ##### Tools
@@ -1343,7 +1343,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 ##### Tools
 | Name | Description | Link |
 | --- | --- | --- |
-| **IBM Carbon AI Label** | A production component for labeling AI-generated content, with usage guidance you can copy. | [Visit](https://carbondesignsystem.com/components/ai-label/usage/) |
+| **IBM Carbon AI Label** | A production component for labeling AI-generated content, with usage guidance you can copy. | [Visit](https://www.carbondesignsystem.com/building-blocks/core/components/ai-label/guidelines) |
 | **PAIR Explorables** | Interactive explainers on fairness, bias and model behavior, useful as teaching material. | [Visit](https://pair.withgoogle.com/explorables/) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -1528,7 +1528,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 | **How to build an accessible design system** | Eric Chung | People come with all different types of abilities and disabilities. By designing with accessibility in mind, you can open up a world of opportunities for users of all abilities to engage with your work. | [Read](https://blog.logrocket.com/ux-design/how-to-build-accessible-design-system/) |
 | **What is Accessibility?** | CareerFoundry | Accessibility is the practice of designing and developing products that are usable by people with disabilities. | [Read](https://ixdf.org/literature/topics/accessibility) |
 | **Accessibility guidelines for UX Designers** | Avinash Kaur | As a UX designer, it is important to build empathy and celebrate accessibility requirements as a set of design constraints to build a better product. | [Read](https://uxdesign.cc/accessibility-guidelines-for-a-ux-designer-c3ba775539be) |
-| **Accessibility for user experience (UX) designers** | Accessibility US Gov| Accessibility is a set of design principles that help people with disabilities use websites, mobile apps, and other digital products. | [Reading List](https://accessibility.digital.gov/ux/getting-started/) | 
+| **Accessibility for user experience (UX) designers** | Accessibility US Gov| Accessibility is a set of design principles that help people with disabilities use websites, mobile apps, and other digital products. | [Reading List](https://digital.gov/guides/accessibility-for-teams/ux-design) | 
 | **Accessibility in UX: The case for radical empathy** | Kriti Krishan | Imagine you were left-handed (and if you are, reflect on your left-handedness). You are part of a 10% minority in the world. Adjusting to certain tasks takes longer — but help in the form of left-handed stationery, sports equipment, etc. is available easily. | [Read](https://uxmag.com/articles/accessibility-in-ux-the-case-for-radical-empathy) |
 | **Accessibility in UX Design: Guidelines and Key Principles** |Ramotion | Learn about the importance of accessibility in UX design. Understand the key principles involved in making designs more accessible to the target audience. | [Read](https://www.ramotion.com/blog/accessibility-in-ux-design/) |
 | **7 Things Every Designer Needs to Know about Accessibility** | Jesse Hausler | Accessibility enables people with disabilities to perceive, understand, navigate, interact with, and contribute to the web. Imagine a world where developers know everything there is to know about accessibility. | [Read](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b) |
@@ -1647,7 +1647,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 | **Ant Design** | Ant Design is a design system with values of Nature and Determinacy for better user experience of enterprise applications. | [Visit](https://ant.design/) |
 | **Apple Design Resources** | Apple Design Resources for iOS include Sketch, Photoshop, and Adobe XD templates, along with comprehensive UI resources that depict the full range of controls, views, and glyphs available to developers using the iOS SDK. | [Visit](https://developer.apple.com/design/resources/) |
 | **AtlasKit** | AtlasKit is a React-based UI toolkit for Atlassian products. | [Visit](https://atlaskit.atlassian.com/) |
-| **Carbon Design Systems** | Carbon is IBM’s open-source design system for products and experiences. With the IBM Design Language as its foundation, the system consists of working code, design tools and resources, human interface guidelines, and a vibrant community of contributors. | [Visit](https://carbondesignsystem.com/) |
+| **Carbon Design Systems** | Carbon is IBM’s open-source design system for products and experiences. With the IBM Design Language as its foundation, the system consists of working code, design tools and resources, human interface guidelines, and a vibrant community of contributors. | [Visit](https://www.carbondesignsystem.com/) |
 | **Atomize** | Atomize is a design system for building beautiful, usable, and accessible web applications. | [Visit](https://atomizecode.com/) |
 
 **<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
@@ -1988,7 +1988,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 ##### Portfolios Inspiration
 | Author | Description | Link |
 | --- | --- | --- |
-| **Rama Krushna** | A digital product designer based in India, who love using cognitive psychology to humanize tech and solve people problems. I am a keen learner, team player, and enjoy taking on new challenges and side projects | [View](https://www.notion.so/Hey-I-m-Rama-Krushna-53ebad1b8bb04bd491108cac9c293be9) |
+| **Rama Krushna** | A digital product designer based in India, who love using cognitive psychology to humanize tech and solve people problems. I am a keen learner, team player, and enjoy taking on new challenges and side projects | [View](https://app.notion.com/p/Hey-I-m-Rama-Krushna-53ebad1b8bb04bd491108cac9c293be9) |
 | **Cofolios - UX portfolios of interns at FAANG** | Cofolios is a collection of UX portfolios of interns at FAANG companies. | [View](https://www.cofolios.com/) |
 | **Lisa Fisher** | Lisa Fischer is a designer focused on building brands and creating digital experiences  — currently working at Google. | [View](https://www.lisasuefischer.com/) |
 | **Sasha** | I’m Sascha — I elevate products through human-centered design & storytelling. | [View](https://saschas.ai/) |
@@ -2155,7 +2155,7 @@ Times are rough, and assume a few focused hours a week. Move faster if you can, 
 | Title | Author | Description | Link |
 | --- | --- | --- | --- |
 | **21 Essential UX Interview Questions & How to Answer Them** | Dribbble | Preparing for your next UX interview? Get answers to the most common UX interview questions to land your next UX design job. | [Read](https://dribbble.com/resources/career/ux-interview-questions) |
-| **The 4 Types of UX Interview Questions to Master** | UX Beginner | Interviewing used to be one of those painful, tedious chores for me. That’s because I didn’t understand the underlying structure of interview questions. | [Read](https://www.uxbeginner.com/the-4-types-of-ux-interview-questions-to-master/) | 
+| **The 4 Types of UX Interview Questions to Master** | UX Beginner | Interviewing used to be one of those painful, tedious chores for me. That’s because I didn’t understand the underlying structure of interview questions. | [Read](https://uxbeginner.com/the-4-types-of-ux-interview-questions-to-master/) | 
 | **46 Interview Questions for User Experience Researchers at Google, Amazon, Microsoft and Facebook** | Eleonora Zucconi | A selection of inspiring and challenging questions (and a bonus presentation to practice them) | [Read](https://medium.com/@eleonorazucconi/46-interview-questions-for-user-experience-researchers-at-google-amazon-microsoft-and-facebook-c582827267b9) |
 | **11 UX Design Interview Questions You Should Be Able to Answer** | CareerFoundry | A list of the UX interview questions you are most likely to face, with guidance on how to answer each one, so you can prepare for your next UX interview. | [Read](https://careerfoundry.com/en/blog/ux-design/make-sure-you-can-answer-these-11-ux-design-interview-questions/) |
 | **Cracking the UX Design Interview** | Sanny | I remember my first full-time design job — it was a whirlwind 5 months of applications and interviews. I talked to hundreds of people and sat in over 50 rounds of interviews. | [Read](https://medium.com/interactive-mind/cracking-the-ux-design-interview-3ea6407093f5) |
@@ -2303,7 +2303,7 @@ Sharing it with someone who is learning helps as much as money does.
 
 ### Also by me
 
-**[Pandia](https://pandia.app)** — a native JSON workbench for macOS, Windows, and Linux. Five ways to look at a file (tree, code, grid, graph, diff), type generation for nine languages, and it opens multi-gigabyte files without falling over. Fully offline, no accounts, no telemetry, Apache-2.0.
+**[Pandia](https://www.pandia.app)** — a native JSON workbench for macOS, Windows, and Linux. Five ways to look at a file (tree, code, grid, graph, diff), type generation for nine languages, and it opens multi-gigabyte files without falling over. Fully offline, no accounts, no telemetry, Apache-2.0.
 
 Not a design tool — but if you build as well as design, it will save you an afternoon.
 
